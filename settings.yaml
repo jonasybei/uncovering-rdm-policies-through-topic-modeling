@@ -1,0 +1,3 @@
+sentence_transformer_model_name: 'thenlper/gte-small'
+sentence_transformer_max_tokens: 512
+llm_model_name: 'tiiuae/Falcon3-7B-Instruct'
