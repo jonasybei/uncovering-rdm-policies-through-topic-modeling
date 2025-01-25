@@ -2,14 +2,14 @@
 
 Author: Paul AYRIS Date: 2nd August 2013 Version: 4.0  
 
-# Contents  
+## Contents  
 
-1. Policy Background ..   
-2. Policy Statements .......   
-3. Responsibilities .... 3 3.1. Lines of Responsibility .... 3 3.2. Student Researchers and Supervisors . 3 3.3. Researchers .... 3 3.4. Heads of Department .. 4 3.5. Institutional Research Data Facility (UCL Research Data Services) .. 4 3.6. Vice Provost (Research) 5 3.7. Research Information IT Services Group (RIISG) . 5 3.8. Provost . 5   
-4. Policy Implementation and Review Procedures  
+1. Policy Background.   
+2. Policy Statements...   
+3. Responsibilities . 3.1. Lines of Responsibility. 3 3.2. Student Researchers and Supervisors. 3 3.3. Researchers. 3 3.4. Heads of Department. 3.5. Institutional Research Data Facility (UcL Research Data Services).. 4 3.6. Vice Provost (Research) .. 5 3.7. Research Information IT Services Group (RlsG).. 5 3.8. Provost . 5   
+4. Policy Implementation and Review Procedures .  
 
-# 1. Policy Background  
+### 1. Policy Background  
 
 Researchers and students at UCL create data as part of the research workflow.  These data represent the evidence that underpins academic endeavours and form one half of the scholarly record, the other half represented by publication output.  
 
@@ -24,29 +24,36 @@ The purpose of this Policy is to provide a framework to define the responsibilit
 This policy is intended to ensure that research data created as part of the research process are:  
 
 Accurate, complete, authentic and reliable;   
- Attributable and citable; Identifiable, retrievable and available with minimal barriers;   
- Secure from loss and degradation;   
- Retained for a minimum of ten years after publication or public release; Compliant with legal obligations, ethical responsibilities and the rules of funding bodies.  
+Attributable and citable;   
+Identifiable, retrievable and available with minimal barriers;   
+Secure from loss and degradation;   
+Retained for a minimum of ten years after publication or public release;   
+Compliant with legal obligations, ethical responsibilities and the rules of funding bodies.  
 
-# 2. Policy Statements  
+### 2. Policy Statements  
 
 1. It is the policy of UCL that its members can fulfil the requirements of good research practice by enabling them to manage research data in a manner that maximises data impact and acknowledges data value as primary research output by its members.   
 2. It is the policy of UCL that responsibility for managing and preserving research data is shared between all members of the College.   
-3. It is the policy of UCL that following primary use (e.g. publication) or when research data is archived for long term preservation, these data will be made available in the most open manner appropriate.  
+3. It is the policy of UCL that following primary use (e.g. publication) or when research data is archived for long term preservation, these data will be made available in the most open manner appropriate. Unless covered by third party contractual agreements, legislative obligations3 or provisions regarding ownership, UCL research data will be provided using a Creative Commons CC0 waiver ; supported by data citation guidelines  
 
-Unless covered by third party contractual agreements, legislative obligations3 or provisions regarding ownership, UCL research data will be provided using a Creative Commons CC0 waiver4; supported by data citation guidelines similar to existing publishing conventions.  This will ensure that re-used data are unambiguously identifiable and that appropriate credit and attribution is made.  
+similar to existing publishing conventions.  This will ensure that re-used data are unambiguously identifiable and that appropriate credit and attribution is made.  
 
 4. It is the policy of UCL that clear lines of responsibility are established so that research data generated at UCL will always have an owner, responsible for preserving research data.  
 
 In complying with this policy, UCL researchers will comply with all national and many international policies and requirements from funders of academic research5.  
 
-# 3. Responsibilities  
+### 3. Responsibilities  
 
-3.1. Lines of Responsibility  
+#### 3.1. Lines of Responsibility  
 
-Data Creators (students, supervisors and Researchers) UCL Research Data and Network Services Executive Director of UCL Library Services and UCL Records Manager RIISG  Vice Provost (Research) Provost  
+Data Creators (students, supervisors and Researchers)   
+UCL Research Data and Network Services Executive   
+Director of UCL Library Services and UCL Records Manager   
+RIISG   
+Vice Provost (Research)   
+Provost  
 
-# 3.2. Student Researchers and Supervisors  
+#### 3.2. Student Researchers and Supervisors  
 
 Embedding research data management practice in early career researchers is critical to establishing an effective data management ethos.  Good research practice requires students and their supervisor to plan the collection, storage, security and use of research data, in accordance with conventions in their fields of study and obligations from their institutions.  
 
@@ -54,9 +61,10 @@ It is the responsibility of students and their supervisors that good practice in
 
 Student Researchers and Supervisors should:  
 
- Establish collection and storage procedures for their research data that are acceptable to their supervisor. Ensure that their plans and activities are documented in accordance with their obligations under good practice and any applicable legislation.  
+Establish collection and storage procedures for their research data that are acceptable to their supervisor.   
+Ensure that their plans and activities are documented in accordance with their obligations under good practice and any applicable legislation.  
 
-# 3.3. Researchers  
+#### 3.3. Researchers  
 
 It is good research practice, and frequently a requirement for grant applications, to plan data management before commencing any research activity.  Often this is in the form of a data management plan.  
 
@@ -64,11 +72,14 @@ It is the responsibility of the individual researcher, or the Principal Investig
 
 Researchers should:  
 
- Develop and record appropriate procedures and processes for the collection, storage, use, re-use, access, and retention of the research data associated with their research program; Establish and document agreements for research data management when involved in a joint research project, collaborative research or research undertaken in accordance with a contractual agreement.   
- Ensure that the integrity and security of their data is maintained;   
- Be aware of their obligations and potential liability when handling data protected by the UK Data Protection Act (1998); Plan for the on-going custodial responsibilities for the research data at the conclusion of the research project or on departure from the University; Include recommendations in Data Management Planning to the Head of Department or research Unit for destruction of research data; Include within research grant proposals appropriate consideration of the cost and time implications of data storage & management within grant proposals.  
+Develop and record appropriate procedures and processes for the collection, storage, use, re-use, access, and retention of the research data associated with their research program;   
+Establish and document agreements for research data management when involved in a joint research project, collaborative research or research undertaken in accordance with a contractual agreement. Ensure that the integrity and security of their data is maintained;   
+Be aware of their obligations and potential liability when handling data protected by the UK Data Protection Act (1998);   
+Plan for the on-going custodial responsibilities for the research data at the conclusion of the research project or on departure from the University;   
+Include recommendations in Data Management Planning to the Head of Department or research Unit for destruction of research data;   
+Include within research grant proposals appropriate consideration of the cost and time implications of data storage & management within grant proposals.  
 
-# 3.4. Heads of Department  
+#### 3.4. Heads of Department  
 
 Heads of Departments should promote good practice in all aspects of research including research data management.  They should assure that staff and students are aware of their responsibilities and obligations in effective management of research data and identify or promote training where gaps in these skills are identified. Heads of Departments often assume ownership of data when researchers leave UCL or have researcher data ownership transferred to them.  
 
@@ -76,11 +87,11 @@ It is the responsibility of Heads of Departments to ensure good practice and leg
 
 Heads of Department should:  
 
- Authorise procedures adopted by researchers and student researchers (following consultation with their supervisor) for the collection, storage, use and if required destruction of their research data;   
- Ensure staff conducting human research, and students under their supervision, are aware of and appropriately trained in all of their responsibilities and obligations relating to research data collected in the course of their research;   
- Establish and implement departmental procedures for the storage and retention of research data in line with University policy or legislative obligation;  
+Authorise procedures adopted by researchers and student researchers (following consultation with their supervisor) for the collection, storage, use and if required destruction of their research data;   
+Ensure staff conducting human research, and students under their supervision, are aware of and appropriately trained in all of their responsibilities and obligations relating to research data collected in the course of their research;   
+Establish and implement departmental procedures for the storage and retention of research data in line with University policy or legislative obligation;  
 
-# 3.5. Institutional Research Data Facility (UCL Research Data Services)  
+### Institutional Research Data Facility (UCL Research Data Services)  
 
 UCL has recognised the strategic importance of service provision in the management and preservation of research data and is committed to supporting a permanent team within the centralised ISD organisation that will create and support an institutional service for all UCL researchers.  
 
@@ -88,25 +99,25 @@ It is the responsibility of UCL Research Data Services to provide large scale, h
 
 The UCL Research Data Service7 will provide a flexible, responsive and cost efficient data management facility that is resilient and long term.  The UCL Research Data Service will provide:  
 
-Capacity to manage very large scale data storage and movement  A service layer that will enable effective data management facilities An archive facility that will undertake long-term preservation activities10.  
+Capacity to manage very large scale data storage and movement8 A service layer that will enable effective data management facilities9 An archive facility that will undertake long-term preservation activities10.  
 
 UCL Library Services can also curate smaller collections of digital research data which are not eligible for inclusion in the UCL Research Data Service.  
 
 It is the responsibility of UCL Research Data Services and key stakeholders to provide guidance and guidelines relating to good research data management practice and support UCL researchers in executing their responsibilities under this policy  
 
-# 3.6. Vice Provost (Research)  
+#### 3.6. Vice Provost (Research)  
 
 UCL’s Vice-Provost (Research) is responsible for overseeing the implementation of the UCL Data Policy and ensuring that UCL complies with funder requirements and academic needs for research data management.  
 
-# 3.7. Research Information IT Services Group (RIISG)  
+#### .7. Research Information IT Services Group (RIISG)  
 
 UCL’s Research Information and IT Services Group is responsible for maintaining and updating the Research Data policy, and for ensuring that new developments and best practice at a national and international level are reflected in the policy.  
 
-# 3.8. Provost  
+#### 3.8. Provost  
 
 The Provost, as senior Executive Officer in UCL, in conjunction with the Vice-Provost (Research) and UCL’s Senior Management Team, has the role of ensuring that UCL’s policy for, and practice of, research data management is fit for purpose.  
 
-# 4. Policy Implementation and Review Procedures  
+### 4. Policy Implementation and Review Procedures  
 
 This policy will not supersede any other UCL policy.  
 

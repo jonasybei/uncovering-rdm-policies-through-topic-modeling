@@ -1,6 +1,6 @@
 # The University of Bayreuth’s Policy for Research Data Management dated 09.11.2023  
 
-# Preamble  
+## Preamble  
 
 The University of Bayreuth pursues the goal of creating and preserving knowledge, providing impulses for creative thinking and making new findings accessible and usable for the scientific community and society as well as for future generations.  
 
@@ -12,13 +12,13 @@ The aim of the University of Bayreuth’s RDM Policy is to raise awareness of th
 
 The University of Bayreuth has formulated the present Policy on the basis of the first version of a RDM Policy published on 8 November 20166 and in accordance with The University of Bayreuth’s Statutes for safeguarding the standards of good scientific practice and handling scientific misconduct7. In addition, the Open Access Strategy of the University of Bayreuth8 and the University of Bayreuth’s Strategy for Handling Intellectual Property (IP) in Knowledge and Technology Transfer9 needs to be observed as well.  
 
-# 1. Scope of validity  
+### 1. Scope of validity  
 
 The RDM Policy is aimed at all researchers at the University of Bayreuth. RDM at the University of Bayreuth is carried out in accordance with the applicable laws on the protection of persons and intellectual property, as well as the "Statutes of the University of Bayreuth for safeguarding the standards of good scientific practice and handling scientific misconduct"7 and is subject to specific agreements with third parties. The Policy is supplemented by the "Guidelines for Research Data Management at the University of Bayreuth"10 .  
 
 In the case of research collaborations, this RDM Policy is valid unless equivalent or stricter regulations are applied. If a project-specific policy is developed as part of a research project that contains equivalent or stricter regulations, it takes precedence over this RDM Policy.  
 
-# 2. Legal and ethical aspects  
+### 2. Legal and ethical aspects  
 
 Copyright law guarantees the protection of intellectual property. Whether research data are subject to the protection of copyright law depends on whether the requirements for the level of intellectual creation or the requirements of database copyright are met.  
 
@@ -31,7 +31,7 @@ data collection or processing is necessary for the performance of a contract to 
 data collection or processing is necessary in order to protect the vital interests of the person concerned or of another natural person;   
 data collection or processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the responsible person.  
 
-# 3. Handling research data  
+### 3. Handling research data  
 
 Throughout the entire research data cycle - from data acquisition to publication and long-term availability - research data should be handled and documented in accordance with the established and recognized rules and standards in the respective subject area. In accordance with the FAIR principles12, research data should be findable, accessible, interoperable, and reusable.  
 
@@ -43,11 +43,11 @@ Research data and documents that ensure the documentation and reproducibility of
 
 If research data and associated documents are to be deleted or destroyed after the retention period has expired, or for legal or ethical reasons, these measures need to take legal and ethical considerations into account. The deletion must be documented and justified. When deciding whether to retain or delete data, the interests and contractual provisions of third-party funders and other parties, in particular contributors and cooperation partners, must be taken into account. Aspects of security and confidentiality must be considered.  
 
-# 4. Responsibilities  
+### 4. Responsibilities  
 
 The University of Bayreuth and its researchers are responsible for RDM in accordance with “The University of Bayreuth’s Statutes for safeguarding the standards of good scientific practice and handling scientific misconduct"17.  
 
-# 4(a) Responsibilities of the researchers  
+#### 4(a) Responsibilities of the researchers  
 
 All researchers at the University of Bayreuth  
 
@@ -55,7 +55,7 @@ comply with good scientific practice and observe the applicable legal provisions
 collect, document, store, and archive research data and associated relevant documents in accordance with the FAIR principles and subject-specific standards. This also includes agreements on processes and responsibilities in joint research projects. Such information can be part of a data management plan (DMP) that documents the collection, management, storage, use, and publication of the data used;   
 plan, if necessary in coordination with the project managers, the (subsequent) re-use of their data, especially after the project has been completed. This includes both the determination of usage and exploitation rights, including the granting of corresponding licenses, as well as the agreement regarding data storage and archiving after leaving the University of Bayreuth.  
 
-# 4(b) Responsibilities of the University of Bayreuth  
+#### 4(b) Responsibilities of the University of Bayreuth  
 
 The University of Bayreuth  
 
@@ -64,38 +64,34 @@ develops strategies and provides services and infrastructures for saving, secure
 supports its organizational units in implementing RDM and provides appropriate resources for RDM and related services, infrastructure, and employee training;   
 provides access to the services and infrastructures described above so that researchers can comply with the requirements of third-party funding bodies and other legal entities and fulfill their responsibilities as described in the present RDM Policy. Specific requirements must be coordinated and, if necessary, additionally financed.  
 
-# 5. Validity and verification  
+### 5. Validity and verification  
 
 The University of Bayreuth’s Policy for Research Data Management was adopted by the Senate of the University of Bayreuth on 13 December 2023 in Bayreuth. It comes into force immediately and is valid for five years after coming into force. The Policy will be reviewed by the responsible university committees at the end of the five years at the latest and updated if necessary.  
 
-# Glossary  
+### Glossary  
 
-# FAIR principles  
+#### FAIR principles  
 
 The FAIR principles were drawn up by a stakeholder group consisting of representatives from science, industry, funding organizations, and scientific publishers and were first published in 2016.18 They define international principles for sustainable reusable research data with the main aim of optimizing the preparation of research data so that they are findable, accessible, interoperable, and reusable.  
 
-# Researchers  
+#### Researchers  
 
 Researchers are all members of the University of Bayreuth who are actively conducting research. In addition to academic staff, this also includes students and non-academic staff, insofar as they are active in research.  
 
 The term also includes persons who are not directly affiliated with the University of Bayreuth, but who use the facilities and infrastructure of the University of Bayreuth for research projects. This group of persons includes visiting researchers, freelance staff, scholarship holders, cooperation partners, and persons who are pursuing a doctoral or postdoctoral thesis supervised by a member of the University of Bayreuth, even if they are not members of the University of Bayreuth themselves.  
 
-# Research data  
+#### Research data  
 
 All data that are generated, collected, observed, simulated, or derived in the research process are regarded as research data. Typical examples of research data are measurement data, laboratory values, audiovisual information, texts, survey results, objects from collections, methodological test procedures or simulations, source code, and protocols. The range of data types reflects the diversity and methodological development of scientific disciplines and research procedures. Research data can arise in various forms during the research project (different format variants of primary data, processed data including negative or ambiguous results, shared data, published data) and can be provided with different access authorizations, e.g. as open, restricted, or non-public data. For the provision and subsequent use of research data, it is necessary to document the context in which the data were generated and to document (as metadata) the tools and methods used in this process.  
 
-# Research data management  
+Research data management  
 
 Research data management encompasses all measures for the quality assurance of research data during their life cycle; from the planning and implementation of the research project, to the generation, documentation and processing of data, to the assigning of metadata, to data storage during the research project, and to long-term data storage after the research has been completed. RDM also sets out how accountability, completeness, authenticity, integrity, confidentiality, publication, registration, and access to data are ensured and managed.  
 
-# Metadata  
+#### Metadata  
 
 Metadata is descriptive or contextual information about the associated primary research data. Metadata can be indexed, making it easier to archive and find the described data. Metadata can be divided into different categories. Repositories distinguish, for example  
 
-- bibliographic metadata (e.g. title, author, abstract),  
-
-- structural metadata (relationships between objects; e.g. references, versions),  
-
-- administrative metadata (authorizations/status; e.g. access authorizations, embargo), and  
-
-- technical metadata (data analyzed by the system; e.g. file size and format, checksums, modification date).  
+- bibliographic metadata (e.g. title, author, abstract),   
+- structural metadata (relationships between objects; e.g. references, versions),   
+- administrative metadata (authorizations/status; e.g. access authorizations, embargo), and - technical metadata (data analyzed by the system; e.g. file size and format, checksums, modification date).  

@@ -35,3 +35,14 @@ def contains_text(text):
     :return bool: Whether the string contains any letters from A-Z or a-z.
     """
     return bool(re.search(r'[A-Za-z]', text))
+
+def extract_table(text):
+    if not is_table(text):
+        return text
+    matches = re.findall(r"(?<!<)[a-zA-Z\s]+(?![^<>]*>)", text)
+    if len(matches) == 0:
+        return text
+    return ''.join(matches)
+
+def is_table(text):
+    return bool(re.search(r'\s*<html><body><table>.*</table></body></html>\s*', text))

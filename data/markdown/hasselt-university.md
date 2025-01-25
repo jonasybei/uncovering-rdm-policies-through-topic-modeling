@@ -1,12 +1,12 @@
 # General policy plan on research data management at Hasselt University  
 
-# Introduction  
+## Introduction  
 
 The sound management of research data is essential to high-quality and responsible scholarly research. Hasselt University sees to the quality of the research performed within the institution and by researchers affiliated to the institution. It has already undertaken various initiatives to warrant such high-quality and responsible research, e.g. by subscribing to the Code of Ethics for Scientific Research in Belgium and the European Charter for Researchers, by establishing a Commission on Scientific Integrity, and by drawing up the Integrity Charter. In addition, research data turn out to be key to uphold high-quality research. By implementing a policy plan on research data management Hasselt University aims to manage its research data in the best manner possible.  
 
 This policy plan on research data management at Hasselt University outlines the basic principles and general guidelines for the secure, findable, accessible and understandable preservation, for the management, the reuse (if possible) and the (public) sharing and archiving of research data at Hasselt University for the purpose of (re)use, verification or data collection. It lays down a general framework within which researchers, employees and students at Hasselt University manage their research data in a high-quality manner. These basic principles and general guidelines are based on both national and international developments in the field of research data management, and should be read together with the related regulations and guidelines, as listed in attachment 1 to this policy plan.  
 
-# 1. Terminology  
+## 1. Terminology  
 
 Researcher: refers to any natural person who is conducting scholarly and/or academic research and is registered at Hasselt University, both paid and unpaid, and including doctoral students.  
 
@@ -48,45 +48,46 @@ Inventions: refers to research results, as described in article IV.48.§1 of the
 
 Open data: refers to research data that can be freely (re)used and shared by anyone, subject to the requirements of attribution and share-alike.  
 
-refers to the recording of research data during the research (  
+Storage: refers to the recording of research data during the research (project).  
 
 Preservation: refers to the recording of research data after the end of the research (project). Longterm preservation, in addition, refers to the recording of research data beyond a certain period (e.g. five years) after the end of a research (project).  
+
+## 2. Scope  
 
 This policy plan applies to all research data that are generated, collected, processed, preserved, archived or exchanged before, during or after the research project at Hasselt University by researchers within the framework of their affiliation to Hasselt University.  
 
 Unless explicitly stated otherwise, this policy plan likewise applies to students within the framework of their affiliation to Hasselt University.  
 
-# 3. Basic principles  
+## 3. Basic principles  
 
 The basic principles of this policy plan on research data management are:  
 
 1. During the entire research data life cycle, each researcher at Hasselt University must store, preserve and manage his/her high-quality data, and make them as (publicly) available as possible for potential reuse. In addition, research data must be managed as required by third parties, including funders, collaborating partners and government agencies. Each researcher at Hasselt University must observe and implement the basic principles and general guidelines, as set forth in this policy plan on research data management, before, during and after each scholarly research project.   
-2. This policy plan on research data management complements existing legislation and regulations, and further specifies contractual obligations, research ethics and integrity guidelines.   
-3. Personal data can only be collected and used when essential for a specific research question.   
+2. This policy plan on research data management complements existing legislation and regulations, and further specifies contractual obligations, research ethics and integrity guidelines. Personal data can only be collected and used when essential for a specific research question.   
 4. All research projects require a data management plan (see art. 6).   
 5. Researchers must comply with the current guidelines regarding the correct use of his/her Hasselt University user account, as set forth in the Acceptable Use Policy (AUP). Access rights to certain data are granted following the Identity and Access Management (IAM) procedures. The premises and infrastructure of Hasselt University are only accessible for researchers and individuals with a valid access permission.  
 
-# 4. Support by Hasselt University  
+## 4. Support by Hasselt University  
 
-# 4.1 Collaboration  
+### 4.1 Collaboration  
 
 In this policy plan on research data management, Hasselt University takes the lead by outlining the basic principles and general guidelines. Pivotal is the collaboration between Hasselt University, the researchers, the faculties, the research groups, the research institutes and the central administration.  
 
-# 4.2 Awareness  
+### 4.2 Awareness  
 
 Hasselt University commits itself to stimulate researchers to implement this policy plan on research data management by promoting and facilitating it.  
 
 The central administration offers support by providing training, advice, guidelines and templates for managing research data and writing data management plans. In addition, the basic principles and general guidelines of this policy plan are further explained on the portal site of the university. Through the funds obtained from the Flemish Open Science Board, the central administration of Hasselt University also offers support to researchers of the Limburg Association of Higher Education (AUHL).  
 
-# 4.3 Support  
+### 4.3 Support  
 
 Besides this policy plan on research data management, Hasselt University is working on guidelines in order to meet both the practical and the technical needs of researchers, faculties, research groups and research institutes. Because of the considerable differences in data types and related data handling practices and needs between and within the various scholarly disciplines in which research is performed at Hasselt University, this policy plan on research data management aims to provide a general framework upon which the various disciplines can build. To this end, researchers can call upon the data steward who is assigned to their specific discipline.  
 
-# 5. Management of research data  
+## 5. Management of research data  
 
 Each researcher should essentially take the responsibility for the optimal management of high-quality research data. This implies that each researcher ensures that all research data are provided with documentation and adequate metadata that are prerequisites to enable the understanding and reuse of these research data. In order to store and describe research data in a high-quality manner, Hasselt University offers support with the implementation of a selection of Electronic Lab Notebooks (ELN).  
 
-# 6. Data management plan  
+## 6. Data management plan  
 
 The researcher must write an initial data management plan within six months of the official start of the research project. In this plan, (s)he will describe the procedures for collecting, storing, (re)using, accessing, archiving and destroying the research data before, during and after the research project. This initial data management plan should be updated throughout the project. A final version must be submitted after the end of the research project.  
 
@@ -94,15 +95,21 @@ Both the initial data management plan at the start and the final version after t
 
 Each data management plan must comply with the basic principles and general guidelines, as set out in this policy plan, as well as with the policy or requirements, as set out by third parties. To this end, Hasselt University provides the necessary tools that are available to all researchers at Hasselt University.  
 
-# 7. Relevant regulations  
+## 7. Relevant regulations  
 
 The researcher is responsible for observing the relevant regulations. These include, without being limited to:  
 
-一 intellectual property rights; research ethics, as laid down, for instance, in the ALLEA European Code of Conduct; privacy legislation, including the General Data Protection Regulation nr. 2016/679; the European Dual-Use Regulation nr. 428/2009; the European Regulation nr. 511/2014 of the European Parliament and of the Council of 16 April 2014 on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization in the Union, and The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from Their Utilization to the Convention on Biological Diversity, 29 October 2010; the Hasselt University Information Security Policy Plan; the Acceptable Use Policy with regard to the security and the storage of data, as defined by the Information Security Committee of Hasselt University; any additional regulations, as laid down in agreements with third parties, and any additional requirements, as laid down in the regulations of external funding agencies (see attachment 1, §1).  
+intellectual property rights;   
+research ethics, as laid down, for instance, in the ALLEA European Code of Conduct; privacy legislation, including the General Data Protection Regulation nr. 2016/679;   
+the European Dual-Use Regulation nr. 428/2009;   
+the European Regulation nr. 511/2014 of the European Parliament and of the Council of 16 April 2014 on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization in the Union, and The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from Their Utilization to the Convention on Biological Diversity, 29 October 2010;   
+the Hasselt University Information Security Policy Plan;   
+the Acceptable Use Policy with regard to the security and the storage of data, as defined by the Information Security Committee of Hasselt University;   
+any additional regulations, as laid down in agreements with third parties, and any additional requirements, as laid down in the regulations of external funding agencies (see attachment 1, §1).  
 
 In case that the regulations of external funding agencies or the agreements with third parties contain more severe or specific requirements regarding research data management, these will prevail over the general guidelines and principles set out in this policy plan.  
 
-# 8. Security of personal and confidential research data  
+## 8. Security of personal and confidential research data  
 
 When research data contain personal or otherwise confidential information, the researcher should observe the following provisions. As a matter of fact, similar measures necessary to prevent access  
 
@@ -110,35 +117,35 @@ by unauthorized parties should be taken to protect not only digital data, but al
 
 Hasselt University provides tools that can be used by all researchers at the university. Through its portal site, the university offers technical and practical support.  
 
-# 8.1 Anonymizing research data  
+### 8.1 Anonymizing research data  
 
 Researchers should always try to process anonymous research data as much as possible. Anonymized research data don’t relate to an identified or identifiable natural person; these personal data are rendered anonymous in such a manner that the data subject is no longer identifiable.  
 
 It is advised to document the anonymization techniques used and the related risk analysis in detail, e.g. in a so-called ‘Anonymization Pseudonymization Plan’ (APP).  
 
-# 8.2 Pseudonymizing research data  
+### 8.2 Pseudonymizing research data  
 
 Research data containing personal information can be pseudonymized. The use of pseudonymized data is only allowed if the additional information on these pseudonymized data is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.  
 
 It is advised to document the pseudonymization techniques used and the related risk analysis in detail, e.g. in a so-called ‘Anonymization Pseudonymization Plan’ (APP).  
 
-# 8.3 Encrypting research data  
+### 8.3 Encrypting research data  
 
 Research data should be encrypted as much as possible. That is to say that data should be encoded as to protect the information contained. It is advised to assign the task of encrypting to an expert at the Central Information Technology Service (CID).  
 
-# 8.4 Confidential research data  
+### 8.4 Confidential research data  
 
 Researchers should always be aware of the implications of non-disclosure agreements protecting confidential research data, and should respect this confidentiality. When the researcher feels that certain research data should be treated confidentially although an agreement with the third party concerned is still lacking, (s)he is responsible for reporting this lacuna to Tech Transfer Office (TTO), so that an agreement can still be drafted.  
 
-# 9. Storage and preservation of research data  
+## 9. Storage and preservation of research data  
 
-# 9.1 Basic principles  
+### 9.1 Basic principles  
 
 Before, during and after a research project at Hasselt University, research data can be recorded in high-quality facilities as provided by Hasselt University. Through its portal site, the university offers technical and practical support.  
 
 However, in case research data are managed in external facilities, the researcher will clearly indicate this in the data management plan and clarify how, when and by whom these data can be consulted.  
 
-# 9.2 Storage and backup of research data during the research project  
+### 9.2 Storage and backup of research data during the research project  
 
 Storage of research data during the research project  
 
@@ -148,11 +155,11 @@ However, if researchers choose to make use of external facilities, they should f
 
 Finally, researchers are strongly discouraged from using media that are highly susceptible to damage and loss to store their research data, including e.g. local hard drives, external hard drives, USB drives, etc.  
 
-Backup of research data during the research project  
+### Backup of research data during the research project  
 
 A backup is essential to safeguard important and valuable research data in case of loss of or damage to the data on the original carrier. If one makes use of the institutional facilities mentioned above, such backup strategy will be provided by default. However, if one chooses to make use of an external facility, the researcher himself/herself will be responsible for implementing a backup strategy. For more information, one should contact the Central Information Technology Service (CID).  
 
-# 9.3 Preservation of research data after the end of the research project  
+### 9.3 Preservation of research data after the end of the research project  
 
 Research data that were generated or collected within the framework of a completed research experiment or analysis, and that the researcher considers to be valuable for (re)use, verification, valorization or data collection, should be preserved. Moreover, when the research data are part of a scholarly publication or patent application, they must be preserved in any case.  
 
@@ -160,19 +167,21 @@ Research data should be preserved in their most original (or raw) condition in o
 
 For archiving research data after the end of a research project, researchers preferably make use of an external disciplinary database, next of the institutional repository or cloud-based facilities provided by Hasselt University, and finally of an external general database.  
 
-# 9.4 Preservation period  
+### 9.4 Preservation period  
 
 After the research experiment and analysis have been wrapped up, the raw research data that are relevant for (re)use, verification, valorization or data collection, must be preserved for a period of minimum five years, at least insofar as legal, contractual or disciplinary regulations don’t deviate herefrom. If the research data contain personal data, the researcher should always comply with the General Data Protection Regulation (GDPR). If the research data are part of a publication, this term can be extended to a period of minimum five years after the official date of publication.  
 
 In addition, if the costs for data curation are in proportion to the academic, socio-cultural or economic added value of the (relevant) research data, the latter can be archived for the longer term, that is after the minimum preservation period of five years has elapsed. Such long-term preservation is only decided upon in close consultation with the researcher or his/her hierarchical responsible.  
 
-# 9.5 Disposal of research data  
+### 9.5 Disposal of research data  
 
 Researchers should destroy research data that are not (no longer) relevant for (re)use, verification, valorization or data collection – at least insofar as legal, contractual or disciplinary regulations don’t deviate herefrom. Besides, researchers leaving Hasselt University should comply with yet additional measures, as set forth in §12.  
 
-# 9.6 Hasselt University Metadata Repository for research data  
+### 9.6 Hasselt University Metadata Repository for research data  
 
 Researchers at Hasselt University are required to submit the descriptive metadata of their datasets resulting from research at Hasselt University, whether or not underlying a peer-reviewed publication, to the Metadata Repository. The latter is integrated in the institutional repository of Hasselt University (Document Server), in which researchers currently already deposit their publications and other research outputs.  
+
+## 10. Intellectual property rights to inventions  
 
 The intellectual property rights to inventions belong to Hasselt University, with the exception of inventions by students. Researchers, with the exception of students, must disclose inventions to Hasselt University Tech Transfer Office (TTO), prior to any other disclosure. TTO is responsible for protecting (e.g. by filing a patent application) and valorizing (e.g. by granting rights of use to third parties) these inventions.  
 
@@ -182,19 +191,19 @@ On the other hand, in case of inventions by students, intellectual property righ
 
 If students produce inventions that are part of research at Hasselt University, arrangements should be made so that Hasselt University is able to protect and valorize these inventions, or otherwise. In this case, the supervisor of the student should inform TTO in time.  
 
-# 11. Reuse of research data  
+## 11. Reuse of research data  
 
-# 11.1 Reuse by a third party  
+### 11.1 Reuse by a third party  
 
 When a researcher at Hasselt University requests to use the research data of another researcher at Hasselt University, the hierarchical responsible of the latter researcher is authorized to grant or deny access. The hierarchical responsible tries to discuss this first with the researcher as far as possible before granting access. In this regard, the interests of the researcher at Hasselt University will always prevail. Supplementary conditions upon which access is granted, can be added by the hierarchical responsible.  
 
 When an external party requests to use the research data of a researcher at Hasselt University, or, conversely, a researcher at Hasselt University requests to use the research data of an external party, TTO should be informed in order that the proper written agreement can be drafted, in accordance with the Hasselt University Delegation Act (see attachment 1).  
 
-# 11.2 Public sharing  
+### 11.2 Public sharing  
 
 Examples of public sharing include: depositing research data in publicly accessible databases or repositories, presenting research data at conferences (unless the conference takes place within a closed network and a confidentiality agreement was concluded), sharing research data via social media, publicly exhibiting art works, etc.  
 
-# 12. Researchers leaving Hasselt University  
+## 12. Researchers leaving Hasselt University  
 
 Research data that are collected and/or generated within the framework of a research project at Hasselt University, must be preserved and remain accessible for the appropriate period of time by the hierarchical responsible of the researcher leaving Hasselt University, unless contractual agreements with third parties deviate from this principle.  
 
@@ -206,13 +215,13 @@ In case research data need to be disposed of, written consent by the researcher 
 
 Finally, the researcher leaving Hasselt University must observe the regulations concerning the processing of reusable and old devices, (research) data, media and documents, as drafted by the Information Security Committee, in order to prevent that the data that are stored on these devices should fall into the hands of unauthorized parties (see attachment 1, §7).  
 
-# 13. Sanctions in case of non-compliance  
+## 13. Sanctions in case of non-compliance  
 
 Each researcher is essentially responsible for complying with this policy plan and with the guidelines listed in the attachment. (S)He will be severally liable in case these are not observed.  
 
 In addition, the Data Protection Officer is empowered to take measures internally in case of noncompliance with this policy plan, in particular with regard to the protection of personal data.  
 
-# Attachment 1 to the General policy plan on research data management at Hasselt University: Related regulations and guidelines  
+## Attachment 1 to the General policy plan on research data management at Hasselt University: Related regulations and guidelines  
 
 The policy plan on research data management at Hasselt University should be read together with:  
 

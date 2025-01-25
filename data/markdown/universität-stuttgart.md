@@ -2,15 +2,15 @@
 
 Issued by the Rectorate on 25 July 2017  
 
-# Policy statement  
+## Policy statement  
 
 The ability to reproduce scientific findings and their applications requires that research data be managed responsibly. Capturing and accessing research data thus call for administering discipline-specific standards while also complying with applicable laws and regulations. The University of Stuttgart expects its researchers and cooperation partners to abide by and implement the following research data management protocols to enable the capture and publication of their research data.  
 
-# Managing research data  
+### Managing research data  
 
 Research data come about by being gathered, monitored, calculated, derived or generated during the research process. Even a proprietary piece of software qualifies as research data. Research data management spans the entire life cycle of these data: their generation, analysis, evaluation, publication and storage through to eventual reuse by third parties. Besides documenting the data, it includes specifying – and possibly storing – the equipment and software employed in producing them. Descriptive metadata should be linked to the research data even during the research process. Metadata allows drilling down to the stored research data; hence, it guarantees their reproducibility and reuse.  
 
-# Protocols  
+### Protocols  
 
 1. The researchers who determine within the legal framework when and under which conditions the relevant research data are to be made accessible are responsible for the research data and for complying with discipline-specific standards. The University of Stuttgart promotes and expressly supports free access to research data, provided that ethical, legal, business, and contractual framework conditions are observed.  
 

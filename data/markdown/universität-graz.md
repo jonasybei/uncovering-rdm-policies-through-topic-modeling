@@ -2,7 +2,7 @@
 
 Adopted on 14 February 2019  
 
-# Overview:  
+## Overview:  
 
 1. Preamble   
 2. Scope   
@@ -12,19 +12,19 @@ Adopted on 14 February 2019
 
 Annex: Definitions  
 
-# 1. Preamble  
+### 1. Preamble  
 
 The University of Graz, in line with the direction and aims of EU science policy, acknowledges the fundamental importance of managing research data and other records in ensuring high-quality research, research integrity and good scientific practice, and is committed to pursuing the highest standards. The University of Graz recognises that correct and easily retrievable research data are integral to and provide the foundation for any kind of research activity. Furthermore, research data have a long-term value for research and academia and the potential for widespread use in society.  
 
-# 2. Scope  
+### 2. Scope  
 
 This Policy for the management of research data applies to all researchers working at the University of Graz. In cases when research is funded by a third party, any agreements made with that party concerning intellectual property rights, exploitation rights, access rights and the storage of research data will take precedence over the provisions of this Policy. This Policy will be reviewed every three years under the supervision of the Vice Rector for Research and updated as necessary.  
 
-# 3. Rights Ownership  
+### 3. Rights Ownership  
 
 Intellectual property rights (IPR) are defined in the Copyright Act (UrhG) and the University Act 2002 (UG 2002) and may be further elaborated in researchers’ employment contracts with the University of Graz. IPR may also be further defined in additional guidelines and agreements (e.g. grant or consortium agreements). In cases where the IPR belong to the University of Graz, the University has the right to choose how data are published and shared.  
 
-# 4. Principles of Research Data Management  
+### 4. Principles of Research Data Management  
 
 Research data should be stored in and made available for use through a suitable repository or archiving system and should be provided with persistent identifiers. When depositing data in a repository, researchers are requested to declare their affiliation in accordance with the Affiliation Guidelines of the University of Graz.  
 
@@ -36,11 +36,11 @@ The minimum period for which research data and records must be archived is 10 ye
 
 All legal and ethical considerations must be taken into account whenever research data or records are earmarked for deletion or destruction and this must then proceed in a standardised manner. Principal Investigators or their legal successors must be informed and an offer must be made to transfer the data to them. Any action taken must be documented and be accessible for future audit.  
 
-# 5. Responsibilities  
+### 5. Responsibilities  
 
 Responsibility for research data management during and after a research activity lies with the University of Graz and its researchers.  
 
-# 5.1 Responsibilities of the University  
+#### 5.1 Responsibilities of the University  
 
 The University of Graz is responsible for:  
 
@@ -54,7 +54,7 @@ d) long-term archiving and backup of research data (for at least 10 years).
 
 e) enabling access to stored data in consultation with the researchers and in accordance with relevant legal provisions. Where possible, research data should be available on an Open Access basis.  
 
-# 5.2 Responsibilities of Researchers  
+#### 5.2 Responsibilities of Researchers  
 
 Researchers are responsible for:  
 
@@ -68,7 +68,7 @@ d) complying with all organisational, regulatory, institutional and other contra
 
 e) managing research data and data sets in accordance with the principles and requirements expressed in this Policy.  
 
-# Annex: Definitions  
+### Annex: Definitions  
 
 Research is defined as any creative and systematically performed work that is carried out with the goal of advancing knowledge, including gaining insights about people, culture and society, and applying this knowledge in new ways.  
 
@@ -86,9 +86,7 @@ A Principal Investigator is an individual responsible for taking binding decisio
 
 Free licences: A licence is a set of legal terms attached to an original work that serve as an extension of copyright. It defines what may and may not be done with a work, grants permissions, and specifies restrictions. An open or free licence, such as a Creative Commons licence, essentially allows access, reuse and redistribution of a work with few or no restrictions. The precise permissions depend on the full text of the licence being applied.  
 
-A Data Management Plan (DMP) is a structured guideline (document or online tool) which depicts the entire lifecycle of the data and which can be updated as needed. Data management plans must ensure that research data are traceable, available, authentic, citable and properly  
-
-stored and that they comply with clearly defined legal parameters and appropriate measures for subsequent use. Ideally, DMPs should be delivered in a machine-actionable format.  
+A Data Management Plan (DMP) is a structured guideline (document or online tool) which depicts the entire lifecycle of the data and which can be updated as needed. Data management plans must ensure that research data are traceable, available, authentic, citable and properly stored and that they comply with clearly defined legal parameters and appropriate measures for subsequent use. Ideally, DMPs should be delivered in a machine-actionable format.  
 
 Metadata are data about data that describe characteristics and properties of objects, works and information.  
 

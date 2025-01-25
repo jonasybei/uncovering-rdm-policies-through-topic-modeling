@@ -8,24 +8,35 @@ Research data is valuable and needs managing alongside your research methodology
 
 RDM requirements are fundamental in future plans for the Research Excellence Framework, (REF), open access, and external funding criteria.  
 
-# 1. Management  
+## 1. Management  
 
-Research data management (RDM) (including costs) should be considered at the earliest practical stage of the project. ? Construct a research data management plan using the generic University of Cumbria template or appropriate funder template Review the plan regularly to ensure that practice remains in-line with expected standards  
+Research data management (RDM) (including costs) should be considered at the earliest practical stage of the project.   
+Construct a research data management plan using the generic University of Cumbria template or appropriate funder template   
+Review the plan regularly to ensure that practice remains in-line with expected standards  
 
-# 2. Curation  
+## 2. Curation  
 
- Use standardised file names, folders and version control   
- Ensure security and integrity of the data, compliance with confidentiality undertakings and data protection law, and respect for ownership and intellectual property rights The privacy and other legitimate interests of the subjects of research data must be protected. Follow the University’s Code of Practice for Research  
+Use standardised file names, folders and version control   
+Ensure security and integrity of the data, compliance with confidentiality undertakings and data protection law, and respect for ownership and intellectual property rights   
+The privacy and other legitimate interests of the subjects of research data must be protected. Follow the University’s Code of Practice for Research  
 
-# 3. Preservation  
+## 3. Preservation  
 
- Ongoing research: use university IT data storage facilities Completed research: use university approved research data repository facilities to archive your research data and, if required, to make it open access and discoverable  
+Ongoing research: use university IT data storage facilities   
+Completed research: use university approved research data repository facilities to archive your research   
+data and, if required, to make it open access and discoverable  
 
-# 4. Reuse  
+## 4. Reuse  
 
- Think about the usability of your data and obtain any consents necessary for sharing All relevant data must be associated with rich metadata which meets minimum standards set out in funders’ guidance if appropriate Research data and supporting material must be sufficient to enable other researchers to understand how it was created or acquired, and, to assess its reuse potential.   
- Make people aware that you have created some data – have a communications plan  
+Think about the usability of your data and obtain any consents necessary for sharing   
+All relevant data must be associated with rich metadata which meets minimum standards set out in funders’ guidance if appropriate   
+Research data and supporting material must be sufficient to enable other researchers to understand how it was created or acquired, and, to assess its reuse potential.   
+Make people aware that you have created some data – have a communications plan  
 
-Benefits of making Research Data openly available (Open Access)  
+# Benefits of making Research Data openly available (Open Access)  
 
-Visibility – more citations, more downloads, more exposure for your research  Public Good – enhances your reputation and that of the university · Compliance – Many funders require it  Preparation for REF 2028 – open access research data is likely to be a requirement  Enables collaboration with other researchers  
+Visibility – more citations, more downloads, more exposure for your research   
+Public Good – enhances your reputation and that of the university   
+Compliance – Many funders require it   
+Preparation for REF 2028 – open access research data is likely to be a requirement   
+Enables collaboration with other researchers  

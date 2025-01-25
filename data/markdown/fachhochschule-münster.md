@@ -1,10 +1,10 @@
 # Research Data Management Policy of the University of Münster  
 
-# Preamble  
+## Preamble  
 
 Research data represents a central element of both academic activity and the ensuing acquisition of knowledge, and thereby serves as an essential tool for acquiring knowledge. In the following, ‘research data’ is defined as all data collected, mined, simulated or derived in connection with a research process. The University of Münster (WWU) regards research data, therefore, as an academic product, to which it attaches great importance. In order to acquire, disseminate and substantiate scientific findings, it is therefore absolutely vital that University staff manage research data in a responsible and academically appropriate manner.1 Handling such data requires early implementation of a research data management policy. This comprises all phases of planning and execution, i.e. generation and collection, as well as the processing, application and storage of research data. It also includes the documentation of the context and tools used for collecting this data, as well as provisions detailing its subsequent use, reproducibility and quality assurance.  
 
-# Principles  
+## Principles  
 
 Based on “The German Research Foundation’s (DFG) Recommendations on Safeguarding Good Scientific Practice”2, the “Rules of Good Scientific Practice of the University of Münster”3 and the “DFG Guidelines on the Handling of Research Data”4, the University of Münster provides the following principles to serve as a guideline for its researchers. The University faculties are to tailor these principles to correspond to their subject-specific requirements.  
 
@@ -20,7 +20,7 @@ The University of Münster pledges to create the conditions necessary for comply
 
 Supplementary instructions for concretely applying and implementing these principles in research practice will be made available and updated on a continuous basis.  
 
-n the original German version) by the Rectorate on 11 Ma  
+Adopted (in the original German version) by the Rectorate on 11 May 2017.  
 
 The Rector, Prof Dr Johannes P. Wessels  
 

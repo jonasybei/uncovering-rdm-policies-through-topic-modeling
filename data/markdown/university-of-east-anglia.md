@@ -5,15 +5,15 @@ Author: Members of the Research Data Management Project Team from RIN, ISD and L
 Date: 11/01/2022 (Approved by Senate on 2nd November 2022)   
 
 
-<html><body><table><tr><td>Version</td><td>Date</td><td>Note</td></tr><tr><td>0.1</td><td>17/1/11</td><td>First draft</td></tr><tr><td>0.2</td><td>24/2/12</td><td>Added policyelementsfromEPSRCexpectations</td></tr><tr><td>0.3</td><td>22/05/13</td><td>Amended to reflect developments in responsibilities,facilities and approach to Research Data Management at all stages of the project lifecycle</td></tr><tr><td>0.4</td><td>26/07/2013</td><td>Amended to reflect comments made at 29 May Research Data Management Working Group and 8 July Research Executive</td></tr><tr><td>1.0</td><td>02/09/2013</td><td>Policy and Guidance into separate documents</td></tr><tr><td>1.1</td><td>14/10/2013</td><td>Amended toreflect commentsmade at 7OctoberResearchData ManagementWorking Group</td></tr><tr><td>1.2</td><td>31/10/2013</td><td>Amended toreflectcommentsreceivedfromADRs</td></tr><tr><td>1.3</td><td>18/11/2013</td><td>Amended toreflect commentsreceived from Research Executive</td></tr><tr><td>1.4</td><td>02/07/2015</td><td>Updated aspartofscheduled review</td></tr><tr><td>1.5 1.6</td><td>19/05/2017 05/06/2017</td><td>Updated as part of scheduled review</td></tr><tr><td></td><td></td><td>Minorrevisionsfollowingscheduledreviewwhichincludedfeedbackfrom UREC members, ISD and HR, and approved at 15 June 2017 Research Executivemeetingand8NovemberSenate.</td></tr><tr><td>1.7 1.8</td><td>01/05/2019</td><td>Minor revisions following scheduled review</td></tr><tr><td>2.0</td><td>08/02/2020 11/01/2022</td><td>Links updated following UEA website migration Updated as part of scheduled review, including:</td></tr><tr><td></td><td></td><td>updating the definition of Research Data referencing the importance of ensuring that provision around ResearchDatacoversalllocationwheresuchdataareused clarifying the position around Research Data generated through undergraduateprojects.</td></tr></table></body></html>  
+<html><body><table><tr><td>Version</td><td>Date</td><td>Note</td></tr><tr><td>0.1</td><td>17/1/11</td><td>First draft</td></tr><tr><td>0.2</td><td>24/2/12</td><td>AddedpolicyelementsfromEPSRCexpectations</td></tr><tr><td>0.3</td><td>22/05/13</td><td>Amended to reflect developments in responsibilities, facilities and approach to Research Data Management at all stages of the project lifecycle</td></tr><tr><td>0.4</td><td>26/07/2013</td><td>Amended toreflectcomments made at29 MayResearchDataManagement WorkingGroup and 8JulyResearchExecutive</td></tr><tr><td>1.0</td><td>02/09/2013</td><td>Policy and Guidance into separate documents</td></tr><tr><td>1.1</td><td>14/10/2013</td><td>Amended to reflect comments made at 7 October Research Data Management Working Group</td></tr><tr><td>1.2</td><td>31/10/2013</td><td>Amended to reflect comments received from ADRs</td></tr><tr><td>1.3</td><td>18/11/2013</td><td>AmendedtoreflectcommentsreceivedfromResearchExecutive</td></tr><tr><td>1.4</td><td>02/07/2015</td><td>Updated as partofscheduled review</td></tr><tr><td>1.5</td><td>19/05/2017</td><td>Updated aspartof scheduledreview</td></tr><tr><td>1.6</td><td>05/06/2017</td><td>Minor revisions following scheduled review which included feedback from UREC members,ISD and HR, and approved at 15 June 2017 Research Executive meeting and 8 November Senate.</td></tr><tr><td>1.7</td><td>01/05/2019</td><td>Minor revisions following scheduled review</td></tr><tr><td>1.8</td><td>08/02/2020</td><td>Links updated followingUEAwebsitemigration</td></tr><tr><td>2.0</td><td>11/01/2022</td><td>Updated as part of scheduled review, including: updatingthedefinition of ResearchData referencing the importance of ensuring that provision around ResearchDatacoversalllocationwheresuchdataareused clarifying the position around Research Data generated through undergraduateprojects.</td></tr></table></body></html>  
 
-# Background  
+## Background  
 
 This Policy sets out the principles that guide the University in managing research data and demonstrating its continued commitment to excellence and integrity in research.  
 
 Research Data Management affects everyone at UEA who is engaged in research, at whatever level and whatever their discipline.  ‘Data’ exist in a wide variety of forms across all UEA research fields and the principles laid out here are equally relevant to images of artefacts in art history, as computer models in game theory, as sequences in genetics and as spectra in structure characterisation.  From new students to experienced researchers, ensuring that research materials are well managed throughout the research project, and beyond, enables UEA’s research to have the greatest possible reach and benefit to the academic community and the wider public.  
 
-# Review  
+### Review  
 
 This Research Data Management Policy sets out the University’s position on the management of Research Data.  This is a rapidly-evolving area and the supporting document on Research Data  
 
@@ -21,43 +21,50 @@ Management Procedures and Guidance will be updated as the resources and infrastr
 
 This Policy will be reviewed and updated by the University Research Ethics Committee (UREC) and recommendations will be made to the University Research Executive, and thereafter to Senate before 31 December 2025.  
 
-# Contents  
+## Contents  
 
-Introduction ..   
-Scope .... 3 Definitions ....... 3 Principles .....  
+Introduction .. 3   
+Scope.. 3   
+Definitions.. 3   
+Principles.. 4  
 
-# Introduction  
+### Introduction  
 
 The University of East Anglia recognises Research Data as a valuable institutional asset to be managed in line with UKRI Common Principles on Research Data (https://www.ukri.org/apply-forfunding/before-you-apply/your-responsibilities-if-you-get-funding/making-research-data-open/). In addition, the University acknowledges the role that good Research Data management can play in supporting the University’s research vision to ensure that our research has the highest possible global influence through a dissemination strategy that maximises impact and that ensures effective communication of our research.  
 
-purpose of this Policy is to ensure that Researchers and suppo  
+The purpose of this Policy is to ensure that Researchers and support staff:  
 
-• are supported in good Research Data management practice.   
-• find it easier to conduct research relying on Research Data.   
-• benefit from improved citations of their work.   
-• can maximise impact of their research by encouraging discoverability and re-use.   
-• have a reduced likelihood of data loss through inaccessibility and corruption. can comply with legislation and the policies and requirements of research funders and of Third Party Data providers. are supported in protecting intellectual property and commercialisation opportunities.  
+are supported in good Research Data management practice.   
+find it easier to conduct research relying on Research Data.   
+benefit from improved citations of their work.   
+can maximise impact of their research by encouraging discoverability and re-use.   
+have a reduced likelihood of data loss through inaccessibility and corruption.   
+can comply with legislation and the policies and requirements of research funders and of Third Party Data providers.   
+are supported in protecting intellectual property and commercialisation opportunities.  
 
-# Scope  
+## Scope  
 
 The University’s Guidelines for Good Practice in Research1  outline what is expected of its Researchers. This policy and the associated guidance2 expand on this with respect to Research Data. As such, this policy applies to all UEA Researchers. It is the responsibility of heads of Faculties, Schools and Units to ensure their staff and students are aware of and comply with these policies.  
 
-# Definitions  
+### Definitions  
 
-arch Data  There is no single definition of what constitutes Research Data. For the purposes of the University’s Research Data Management Policy and the associated Procedures and Guidelines, the following definition, from the Concordat on Open Research Data3, provides an indication of the scope:  
-
-“Research data are the evidence that underpins the answer to the research question, and can be used to validate findings regardless of its form (e.g. print, digital, or physical). These might be quantitative information or qualitative statements collected by researchers in the course of their work by experimentation, observation, modelling, interview or other methods, or information derived from existing evidence. Data may be raw or primary (e.g. direct from measurement or collection) or derived from primary data for subsequent analysis or interpretation (e.g. cleaned up or as an extract from a larger data set), or derived from existing sources where the rights may be held by others. Data may be defined as ‘relational’ or ‘functional’ components of research, thus signalling that their identification and value lies in whether and how researchers use them as evidence for claims.”  
+Research Data  There is no single definition of what constitutes Research Data. For the purposes of the University’s Research Data Management Policy and the associated Procedures and Guidelines, the following definition, from the Concordat on Open Research Data3, provides an indication of the scope: “Research data are the evidence that underpins the answer to the research question, and can be used to validate findings regardless of its form (e.g. print, digital, or physical). These might be quantitative information or qualitative statements collected by researchers in the course of their work by experimentation, observation, modelling, interview or other methods, or information derived from existing evidence. Data may be raw or primary (e.g. direct from measurement or collection) or derived from primary data for subsequent analysis or interpretation (e.g. cleaned up or as an extract from a larger data set), or derived from existing sources where the rights may be held by others. Data may be defined as ‘relational’ or ‘functional’ components of research, thus signalling that their identification and value lies in whether and how researchers use them as evidence for claims.”  
 
 A definition of the research data should be provided in the Data Management Plan.4 Examples of research data include (but are not limited to): documents, spreadsheets, databases, field notebooks, diaries, audio- and video recordings, photographs and images, transcripts, survey responses, protein or genetic sequences, algorithms, computer code, workflows, standard operating procedures and protocols. All data gathered and generated as a result of the research, and not just analysed data that underpin a research output, are in scope. The mechanisms for retention and archive will necessarily differ according to the format of the data, or due to disciplinary norms. Where data are obtained from a third party, any adjustments to that base data set on which research relies should be included within the data generated as a result of the research.  
 
-esearchers The term Researchers is used to refer collectively to the following groups of people:  
+rchers The term Researchers is used to refer collectively to the following groups of people:  
 
 Academic, research and relevant support staff employed by the University, and other individuals carrying out research at, or on behalf of, the University Students undertaking research (including undergraduate research projects) and their supervisors   
 Any persons with honorary positions conducting research within, or on behalf of, the University.  
 
-In this document, the following verbal forms are used: “shall” and “must” indicated a requirement; “should” indicates a recommendation; “may” indicates a permission; “can” indicates a possibility or a capability.  
+In this document, the following verbal forms are used:  
 
-# Principles  
+“shall” and “must” indicated a requirement;   
+“should” indicates a recommendation;   
+“may” indicates a permission;   
+“can” indicates a possibility or a capability.  
+
+## Principles  
 
 The University’s policy is based on the following principles:  
 

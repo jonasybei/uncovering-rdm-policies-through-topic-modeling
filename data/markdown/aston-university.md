@@ -2,9 +2,9 @@
 
 July 2023  
 
-Aston University Research Data Management Policy  
+## Aston University Research Data Management Policy  
 
-# 1. INTRODUCTION AND PURPOSE  
+### 1. INTRODUCTION AND PURPOSE  
 
 The maintenance of accurate and retrievable data arising from research projects is an essential component of good practice in the conduct of research and a key component of research integrity and research reproducibility. Consideration around research data management and evidence of good research data management should be seen as an integral part of the research process, which is what Aston University expects of all researchers. This is in line with Aston’s values and commitment to deliver research that changes lives for the better through collaborations between students, academic staff and industry leaders.  
 
@@ -12,17 +12,19 @@ In addition, good research data management can benefit the transparency, product
 
 The University endorses the UKRI Common Principles on Data Policy.  
 
-# 1.1. Purpose of the Policy  
+#### 1.1. Purpose of the Policy  
 
-s policy covers Aston’s approach to research data manage  
+This policy covers Aston’s approach to research data management.  
 
 The purpose of this policy is to:  
 
-• Ensure that researchers manage their research data effectively, enabling them to: • Demonstrate the highest standards of integrity of their research, • Preserve eligible research data for sharing and reuse (as appropriate), Comply with ethical, legal, funder and other requirements in relation to research data and research data management.   
-Ensure that University Colleges understand their responsibilities in relation to governance of research data management in their departments,   
-• Ensure that the University responsibilities for research data management are clearly articulated.  
+Ensure that researchers manage their research data effectively, enabling them to:  
 
-# 2. SCOPE OF POLICY  
+Demonstrate the highest standards of integrity of their research, Preserve eligible research data for sharing and reuse (as appropriate), Comply with ethical, legal, funder and other requirements in relation to research data and research data management.  
+
+Ensure that University Colleges understand their responsibilities in relation to governance of research data management in their departments, Ensure that the University responsibilities for research data management are clearly articulated.  
+
+### 2. SCOPE OF POLICY  
 
 This policy covers the processes, arrangements, and limitations for storing research data during the active research process.  
 
@@ -34,27 +36,27 @@ If you are engaged in a Knowledge Exchange activity whereby you are generating r
 
 Research data preservation for the purpose of sharing is covered by the Data Preservation and Open Research Data Policy.  
 
-# 2.1 Who is Covered by the Policy  
+#### 2.1 Who is Covered by the Policy  
 
 This policy applies to all researchers (defined as any staff members conducting research and doctoral research students) at Aston University with contractual responsibility for research data generation, collection, and/or analysis, or who produce or use research data. The policy stands to detail the management of that data arising from their research, and the roles of the various individuals or services that will support the management of research data during its lifecycle.  
 
 The policy does not apply to postgraduate taught and undergraduate students in the first instance, except where their research findings are included in published research outputs. They may be guided in the first instance by the principles contained within this policy.  
 
-# 2.2 Ownership of this Policy  
+#### 2.2 Ownership of this Policy  
 
 Research Committee owns this policy and oversees research data management policy implementation via College Research Committees.  
 
 The Chair of the Research Committee is responsible for ensuring that this policy is reviewed every two years (unless there is significant change in current regulations which impact this policy) and is fit for purpose.  
 
-# 3. POLICY STATEMENT  
+### 3. POLICY STATEMENT  
 
-# 3.1. General research data management  
+#### 3.1. General research data management  
 
 The University expects that the following general research data management principles will be followed:  
 
 Research data should be actively managed to ensure that it is available for access, validation, and re-use (where appropriate). The rights and interests of research participants must always be protected. Researchers must comply with all relevant regulations, funder requirements, contractual obligations, and ethical requirements, as appropriate, at all times during their research.  
 
-# 3.2 Research data  
+#### 3.2 Research data  
 
 Research data must be:  
 
@@ -72,19 +74,19 @@ Research data should be stored on Box unless there are specific reasons why this
 
 The deliberate or reckless mismanagement of research data and/or primary materials constitutes unacceptable research conduct and should be reported in line with the University Research Misconduct Policy or the Whistleblowing policy.  
 
-# 3.3 Collaborative research  
+#### 3.3 Collaborative research  
 
 When participating in collaborative projects, an Aston University lead must be identified to take responsibility for management of research data produced under the auspices of Aston  
 
 University. This person is also responsible for ensuring that data are managed appropriately and in line with any relevant contracts and/or ethics approvals in place.  
 
-# 3.4 What to do when you leave Aston  
+#### 3.4 What to do when you leave Aston  
 
 The University expects that researchers will make the necessary arrangements to deposit/archive research data associated with projects which are closed, or transfer/make available data and records which are associated with active research projects. It is expected that transfer will occur via Box, with shared ownership of relevant Box folders with other appropriate researchers within the University, noting that this should be done in line with any relevant contracts and/or ethics approvals in place. For any arrangements where Box cannot be used, Digital Services should be consulted to discuss and approve an alternative mechanism.  
 
-# 4. ROLES AND RESPONSIBILITIES  
+### 4. ROLES AND RESPONSIBILITIES  
 
-# 4.1. University  
+#### 4.1. University  
 
 The University is responsible for:  
 
@@ -96,7 +98,7 @@ The University is responsible for:
 
 4.1.4 raising awareness of best practice in research data management in which legal, ethical, and professional requirements and standards are considered whenever research data are created, handled, used, shared or stored.  
 
-# 4.2. Heads of School/Department or Associate Deans for Research  
+#### 4.2. Heads of School/Department or Associate Deans for Research  
 
 Heads of School/Department or Associate Deans for Research are responsible for:  
 
@@ -108,7 +110,7 @@ Heads of School/Department or Associate Deans for Research are responsible for:
 
 4.2.4 Oversight of the curation and disposal of research data retained once a member of staff has left or retired from the University.  
 
-# 4.3. Researchers  
+#### 4.3. Researchers  
 
 Researchers are responsible for:  
 
@@ -132,17 +134,18 @@ In addition, lead researchers or Principal Investigators (including supervisors 
 
 Where research is undertaken by a student it is the responsibility of the staff member supervising their project to ensure that the student has a clear understanding of appropriate research data management practice in line with this policy.  
 
-# 5. EXCEPTIONS TO THIS POLICY  
+### 5. EXCEPTIONS TO THIS POLICY  
 
 Research data subject to contractual, regulatory and/or funder policies will need to be managed in line with the stipulated requirements. In this case these requirements supersede the details pertained inside this policy.  
 
-# 6. SOURCES OF GUIDANCE  
+### 6. SOURCES OF GUIDANCE  
 
 Advice on how to implement the requirements set out in this policy are available via the Library webpages, Research Integrity webpages or by emailing researchdata@aston.ac.uk or research_governance@aston.ac.uk.  
 
-# 7. RELATED REGULATIONS, STATUTES AND POLICIES  
+### 7. RELATED REGULATIONS, STATUTES AND POLICIES  
 
-This policy should be read alongside the following:   
+This policy should be read alongside the following:  
+
 Open Research Data Policy   
 Concordat on Open Research Data   
 Intellectual Property (IP) Policy   
@@ -154,11 +157,13 @@ Data Protection Policies and Procedures
 Records Management Policies and Procedures   
 General Regulations for Degrees by Research and Thesis  
 
-Appendix 1 – Table of different types of research data   
+## Appendix  
+
+1 – Table of different types of research data  
+
+<html><body><table><tr><td>Data</td><td>Description & Example</td></tr><tr><td>Observations*</td><td>Measuring and recording qualitative or quantitative data throug! experimentation, e.g., real-time measurements of Carbon Dioxide</td></tr><tr><td>Questionnaires*</td><td>Participant responses to questions posed, e.g., participant</td></tr><tr><td>Audio*</td><td>responsestomedicalsurvey Audible recording of sounds, e.g., recording bird call in the forest</td></tr><tr><td>Photographs*</td><td>Image captured on light sensitive material or digitally, e.g..</td></tr><tr><td>Specimens/Samples</td><td>telescopic photograph of constellations</td></tr><tr><td>*</td><td>A piece of material of research interest to be studied, e.g. a specimen of bauxite</td></tr><tr><td>Films* Sketchbooks*</td><td>A recording of motion pictures, e.g., a film of a volcanic eruption</td></tr><tr><td>Transcripts*</td><td>Drawing by hand, e.g., sketch of rock formations on a cliff face</td></tr><tr><td>Spreadsheets</td><td>A verbatim recording of words recorded, e.g., a transcript of a police interview An electronic document in which data are stored and can be</td></tr><tr><td>Code</td><td>manipulated in equations, e.g. a spreadsheet showing student attendance A text and numerical computer language with instructions and</td></tr><tr><td></td><td>rules which can allow software, calculations etc. to operate, e.g. an R script of wind velocity data which when run produces diurnal plots</td></tr><tr><td>Models</td><td>A predictive computer simulation usually using known data and : better understand real world events (past or future), e.g. forecasted future weather events</td></tr><tr><td>Algorithms</td><td>A sequence of mathematical/computational steps to perform a function, e.g. the operation of a search engine to deduce most relevant responses</td></tr></table></body></html>  
+
+FOR OFFICIAL USE ONLY   
 
 
-<html><body><table><tr><td>Data</td><td>Description& Example</td></tr><tr><td>Observations*</td><td>Measuring and recording qualitative or quantitative data through experimentation, e.g., real-time measurements of Carbon Dioxide</td></tr><tr><td>Questionnaires*</td><td>Participant responses to questions posed, e.g., participant</td></tr><tr><td>Audio*</td><td>responses to medical survey Audible recording of sounds, e.g., recording bird call in the forest</td></tr><tr><td>Photographs*</td><td>Image captured on light sensitive material or digitally, e.g.,</td></tr><tr><td>Specimens/Samples</td><td>telescopic photograph of constellations A piece of material of research interest to be studied, e.g. a</td></tr><tr><td>* Films*</td><td>specimen of bauxite</td></tr><tr><td>Sketchbooks*</td><td>A recording of motion pictures, e.g., a film of a volcanic eruption</td></tr><tr><td>Transcripts*</td><td>Drawing by hand, e.g., sketch of rock formations on a cliff face</td></tr><tr><td>Spreadsheets</td><td>A verbatim recording of words recorded, e.g., a transcript of a police interview An electronic document in which data are stored and can be</td></tr><tr><td></td><td>manipulated in equations, e.g. a spreadsheet showing student attendance</td></tr><tr><td>Code</td><td>A text and numerical computer language with instructions and rules which can allow software, calculations etc. to operate, e.g. an R script of wind velocity data which when run produces diurnal plots</td></tr><tr><td>Models</td><td>A predictive computer simulation usually using known data and a better understand real world events (past or future), e.g.</td></tr><tr><td>Algorithms</td><td>forecasted future weather events A sequence of mathematical/computational steps to perform a function, e.g. the operation of a search engine to deduce most relevant responses</td></tr></table></body></html>  
-
-\* Data can exist within a physical object when not recorded in or converted to a digital form  
-
-<html><body><table><tr><td>Version</td><td></td><td>Author</td><td>ResearchIntegrityOfficeandLibrary Services</td></tr><tr><td>Approveddate</td><td>19/07/2023</td><td></td><td>ApprovedbyUniversityResearchCommittee</td></tr><tr><td>Reviewdate</td><td colspan="3">19/07/2025</td></tr></table></body></html>  
+<html><body><table><tr><td>Version</td><td></td><td>Author</td><td>ResearchIntegrityOfficeandLibrary Services</td></tr><tr><td>Approveddate</td><td>19/07/2023</td><td></td><td>ApprovedbyUniversityResearchCommittee</td></tr><tr><td>Reviewdate</td><td>19/07/2025</td><td></td><td></td></tr></table></body></html>  

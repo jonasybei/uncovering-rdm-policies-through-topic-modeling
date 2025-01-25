@@ -1,10 +1,8 @@
 # Research data management policy  
 
-# Purpose  
+## Purpose  
 
-The University has policies and procedures in place to ensure good research practice and to sustain programmes of excellent and ethical research. Policies are also concerned with research quality promoting the highest standards of integrity, impartiality and respect for data. The University recognises that effective research data management through the research life cycle is a key component of good research conduct and contributes to a culture of research excellence.  
-
-Research data is a valuable asset and the University supports the principle of open access to research data as set out by the Organisation for Economic Cooperation and Development (OECD) and Research Councils UK (RCUK). Research data refers to any type of data created, collected or generated in a digital or non-digital form that is analysed to produce original research results.  
+The University has policies and procedures in place to ensure good research practice and to sustain programmes of excellent and ethical research. Policies are also concerned with research quality promoting the highest standards of integrity, impartiality and respect for data. The University recognises that effective research data management through the research life cycle is a key component of good research conduct and contributes to a culture of research excellence. Research data is a valuable asset and the University supports the principle of open access to research data as set out by the Organisation for Economic Cooperation and Development (OECD) and Research Councils UK (RCUK). Research data refers to any type of data created, collected or generated in a digital or non-digital form that is analysed to produce original research results.  
 
 The aims of this policy are to  
 
@@ -18,7 +16,7 @@ data and provides accountability for the use of public funds
 establish the responsibilities of researchers in relation to research data management and archiving   
 and set out the University's processes for support and guidance  
 
-# Policy requirements  
+## Policy requirements  
 
 1. Data management  
 
@@ -34,17 +32,17 @@ and set out the University's processes for support and guidance
 
 If research data needs to be stored temporarily on portable storage devices, such as laptops in the field or cloud storage, the researcher must ensure that this is done securely and that they comply with the University's policies on electronic data encryption.  
 
-# 3. Archiving  
+### 3. Archiving  
 
 3.1. Primary research data produced by University researchers that underpin a publication, which are of potential long-term value and/or support a patent application, must be stored centrally and published when possible to ensure good research practice at the University.  
 
 3.2. Primary research data, whether in digital or hard copy, may be archived in the SHU Research Data Archive or in an external research data repository. Data must be stored for a period at least as long as that required by any funder or sponsor of the research, any publisher of the research or as set out in the University's Research and Knowledge Transfer Records Retention Schedule.  
 
-3.3. It is considered good practice to archive all data in a format that will guarantee long-term access and with sufficient metadata to aid discovery to encourage follow-up research. Researchers must also comply with specific funder data management requirements.  
+3.3.It is considered good practice to archive all data in a format that will guarantee long-term access and with sufficient metadata to aid discovery to encourage follow-up research. Researchers must also comply with specific funder data management requirements.  
 
 3.4. All data that are retained must be registered with the SHU Research Data Archive, whether they are hosted by the University or maintained elsewhere, even if access to the data is restricted.  
 
-4. Open access  
+### 4. Open access  
 
 4.1. Researchers must be aware of, and comply with, their funders' requirements for data management including archiving and sharing. If applicable, data must be prepared and offered for deposit in an open access data repository within the timeframe stipulated by the funder unless there are valid reasons not to do so. The latter could include commercial confidentiality, infringement of intellectual property rights, contractual agreements, ethical, legal or regulatory obligations, or where the cost of doing so would be prohibitive.  
 
@@ -66,30 +64,35 @@ adhere to the same frameworks and observe any restrictions that may have been im
 
 6.1. The University will provide guidelines, advice and training on research data management, including data management plans, costing of research data management into research proposals, storage and data protection, creation of descriptive metadata, intellectual property and Freedom of Information requests for all researchers.  
 
-# 7. Scope  
+## 7. Scope  
 
 7.1. This policy applies to all publicly-funded research, whether internally or externally funded, and is considered best-practice for all other research.   
 7.2. Contractual obligations from an external funder or sponsor of the research will take precedence over the stipulations in this policy.  
 
-# Good practice  
+### Good practice  
 
 The University recognises the following external sources as providing agreed standards of good practice.  
 
-• The Digital Curation Centre provides expert advice and practical help to anyone in UK higher education and research wanting to store, manage, protect and share digital research data. RCUK Common Principles on Data Policy UK Research Integrity Office Code of Practice for Research  
+The Digital Curation Centre provides expert advice and practical help to anyone in UK higher education and research wanting to store, manage, protect and share digital research data. RCUK Common Principles on Data Policy   
+UK Research Integrity Office Code of Practice for Research  
 
-# Related Sheffield Hallam University policies  
+### Related Sheffield Hallam University policies  
 
 Sheffield Hallam University Research Ethics Policy and Procedures   
 The Principles of Integrity in Research and Procedures for Dealing with Allegations of Research   
 Misconduct  
 
-• University Research and Knowledge Transfer Records Retention Schedule (link to internal website) Electronic Data Encryption Policy (link to internal website) Open access publication policy  
+University Research and Knowledge Transfer Records Retention Schedule (link to internal website)  
 
-# Governance and infrastructure  
+Electronic Data Encryption Policy (link to internal website)  
 
-• Policy owner: Pro Vice-Chancellor for research and innovation · Operational owner: Head of Library Services • Policy coordinator: Head of Library Research Support Monitoring board: Research and Innovation Committee  
+Open access publication policy  
 
-# Responsibility for implementation  
+### Governance and infrastructure  
+
+Policy owner: Pro Vice-Chancellor for research and innovation Operational owner: Head of Library Services Policy coordinator: Head of Library Research Support Monitoring board: Research and Innovation Committee  
+
+### Responsibility for implementation  
 
 Pro Vice-Chancellor for research and innovation Assistant deans for research and innovation Research centre heads  
 

@@ -2,7 +2,9 @@
 
 Policy owner UCD Research & Innovation  
 
-# 1. Purpose  
+Approval date and body GA, 25th June 2020  
+
+## 1. Purpose  
 
 University College Dublin recognises that the management of research data is fundamental to both high quality research and academic integrity. Accurate and retrievable research data is an essential component of any research project and is necessary to verify and defend the process and outcomes of research.  
 
@@ -10,9 +12,9 @@ Research data is valuable to researchers for the duration of their research, and
 
 The objective of the Research Data Management (RDM) Policy is to provide a framework for the management of research data to ensure that research data is stored, retained, made available for use and reuse, and disposed of according to best international practices for data management, as well as in compliance with legal, statutory, ethical, contractual and intellectual property obligations, and the requirements of funding bodies and publishers.  
 
-# 2. Definitions  
+## 2. Definitions  
 
-# UCD Community means  
+### UCD Community means  
 
 all UCD employees, whether part time or full time, permanent or temporary;   
 all employees of UCD’s wholly owned subsidiary companies or overseas campus/offices; all registered students of UCD;   
@@ -29,27 +31,26 @@ A secure environment is a system or facility which implements the controlled sto
 
 A data management plan or DMP is a formal document that outlines how data is to be handled both during a research project and after the project is completed. Data management plans must assure that research data is traceable, available, authentic, citable, properly stored and that it adheres to clearly defined legal parameters and appropriate safety measures governing subsequent use.  
 
-# 3. Scope  
+## 3. Scope  
 
 The scope of the policy covers research data created or managed by Researchers.  
 
-# 4. Principles  
+## 4. Principles  
 
 (1) The University promotes best practice for research data management through clear policy, guidance, supervision, training and support.   
 (2) Researchers, service providers and, where appropriate, research sponsors and external collaborators should work in partnership to implement good practice.   
 (3) Research data will be managed by Researchers to the highest standards throughout the research data lifecycle as part of the University’s commitment to research excellence.   
 (4) Research data should be compliant to the principles of FAIR data (Findable, Accessible, Interoperable, Re-Useable): Findable: Identifiable, retrievable, and available when needed; Accessible: Able to be made available to others in line with appropriate legal, statutory (including data protection regulations), ethical, contractual, intellectual property, data sharing and open access principles in a suitable repository or archiving system with persistent identifiers. Interoperable: Should be accurate, complete, authentic and reliable, and where possible made available in non-proprietary formats that facilitate data exchange and re-use; Re-Useable: Assigned a licence for open use where possible in compliance with intellectual property rights, and if no third-party rights, data protection, legal requirements or property laws prohibit it.   
 (5) Research data should be kept in a manner that is compliant with legal and ethical obligations and, where applicable, the requirements of funding bodies, publishers and protocols set out in the National Policy Statement on Ensuring Research Integrity in Ireland.   
-(6) Research data should be retained in a secure environment for as long as it is of continuing value to the researcher and the wider research community, and as long as specified by research funder, publisher, patent law, legislative and other regulatory requirements. The normal minimum retention period for research data is ten years after publication or public release of the work of the research. (Longer periods apply in certain cases, such as in relation to historical data.) If data includes personal or sensitive information, informants must be informed of the data retention policy at the time data is collected, in compliance with data protection regulations.   
-(7) If research data is to be deleted or destroyed, either because the agreed period of retention has expired or for legal or ethical reasons, this should be done so in accordance with all legal,  
+(6) Research data should be retained in a secure environment for as long as it is of continuing value to the researcher and the wider research community, and as long as specified by research funder, publisher, patent law, legislative and other regulatory requirements. The normal minimum retention period for research data is ten years after publication or public release of the work of the research. (Longer periods apply in certain cases, such as in relation to historical data.) If data includes personal or sensitive information, informants must be informed of the data retention policy at the time data is collected, in compliance with data protection regulations.  
 
-ethical, research funder and collaborator requirements and with particular concern for confidentiality and security.  
+(7) If research data is to be deleted or destroyed, either because the agreed period of retention has expired or for legal or ethical reasons, this should be done so in accordance with all legal, ethical, research funder and collaborator requirements and with particular concern for confidentiality and security.  
 
 (8) If a personal data breach occurs, it is to be dealt with in accordance with UCD data protection policies.  
 
 (9) Increasingly, research projects are funded by external parties and/or involve collaboration with third parties such as other research performing organisations, charities, industry, etc.  In such cases, contractual requirements such as the funder’s terms and conditions, grant agreement(s), collaboration agreement(s), industry contract(s) etc. may apply to the project. These contractual requirements constitute legally binding obligations on the University and the Researchers involved in the project, and often include specific provisions regarding ownership, management, retention and access to data, confidentiality obligations, IT security, publication requirements etc.  Contractual obligations apply in addition to the principles and requirements contained in this policy.  If there is a conflict between this policy and a contractual obligation, the contractual obligation will override the requirements of this policy and it is the researcher’s responsibility to ensure compliance.  
 
-# 5. Roles and responsibilities  
+## 5. Roles and responsibilities  
 
 Researchers are responsible for:  
 
@@ -60,7 +61,7 @@ Ensuring that any requirements in relation to research data management placed on
 
 The University provides resources to facilitate Researchers in meeting their responsibilities, in the form of supporting services and expert advice as well as technical infrastructures. Information on available supports is available at the online UCD Research Portal. The University is committed to, and will maintain oversight of, good practice in research data management. To this end, it reserves the right to verify that all research data has been kept in a manner that is compliant with this policy and, where applicable, the requirements of funding bodies and publishers.  
 
-# nal data and the General Data Protection Regulati  
+## 6. Personal data and the General Data Protection Regulation (GDPR)  
 
 The General Data Protection Regulation (GDPR) came into force on 25 May 2018.  It is intended to strengthen data protection for individuals across the EU, and imposes increased obligations on organisations that process personal data.  Processing is very broadly defined as the collection, storage, recording, disclosure of, structuring, making available and erasure or destruction.  The GDPR applies to the processing of personal data by controllers and processors in the EU, regardless of whether or not the processing takes place in the EU, and furthermore it restricts the transfer of personal data to locations outside the EU unless certain conditions or safeguards are in place. At the core of the GDPR are seven principles which must be observed by all data controllers and processors. These are transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity and confidentiality and accountability.  
 
@@ -68,20 +69,24 @@ The definition of personal data is broad under the GDPR and encompasses “any i
 
 If your research data includes personal data as defined under the GDPR it is very important that the following are consulted: Article 9 of GDPR, UCD GDPR website and the Health Research Board’s GDPR guidance for researchers.  
 
-# 7. Related documents  
+## 7. Related documents  
 
-UCD Information Security Management Policy UCD Data Protection Policy   
-• UCD University Records Management Policy   
-• UCD Intellectual Property Policy   
-• UCD Research Integrity Policy and Procedure   
-• UCD Code of Responsible Conduct of Research   
-• UCD Funded Research Activity Policy   
-• UCD Code of Good Practice in Research with Humans and Animals   
-• UCD Research Ethics Policy   
-• National policy statement on ensuring research integrity in Ireland   
-? EU General Data Protection Regulation (GDPR) Data Protection Act 2018 Data Protection Act 2018 (Section 36(2)) (Health Research) Regulations 2018 The European Code of Conduct for Research Integrity  
+UCD Information Security Management Policy   
+UCD Data Protection Policy   
+UCD University Records Management Policy   
+UCD Intellectual Property Policy   
+UCD Research Integrity Policy and Procedure   
+UCD Code of Responsible Conduct of Research   
+UCD Funded Research Activity Policy   
+UCD Code of Good Practice in Research with Humans and Animals   
+UCD Research Ethics Policy   
+National policy statement on ensuring research integrity in Ireland   
+EU General Data Protection Regulation (GDPR)   
+Data Protection Act 2018   
+Data Protection Act 2018 (Section 36(2)) (Health Research) Regulations 2018   
+The European Code of Conduct for Research Integrity  
 
-# 8. Acknowledgements  
+## 8. Acknowledgements  
 
 University College Dublin wishes to acknowledge the use of the following documents whilst formulating this policy.  
 
@@ -92,7 +97,9 @@ League of European Research Universities (LERU):  LEARN research data management
 The University of Edinburgh Research Data Management Policy   
 University of Tasmania: Management of Research Data Policy  
 
-# 9. Version history  
+## 9. Version history  
 
 V1.0 Approved by RIIG 27/02/2020   
-V1.0 Approved by UMT 18/03/2020  
+V1.0 Approved by UMT 18/03/2020   
+V1.0 Noted by ACEC 18/05/2020   
+V1.0 Approved by GA 25/06/2020  

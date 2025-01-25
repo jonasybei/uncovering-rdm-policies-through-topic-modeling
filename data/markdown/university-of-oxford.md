@@ -1,8 +1,8 @@
 # University of Oxford Research Data Management Policy  
 
-# 1. Introducton  
+## 1. Introduction  
 
-# 1.1 Statement of intent  
+### 1.1 Statement of intent  
 
 1.1.1 The University of Oxford takes pride in the wealth of research data which its academic community produces, and wishes to ensure the widest possible access to its world-class research. The value and utility of research outputs increases the more broadly they are available to be considered and used by others, including scholars, businesses and charities around the globe, as well as society in general. Access for everyone in any location to Oxford’s preserved and shared research data will also help to highlight the excellence of its research. It will attract scholars and students, foster collaboration, and enhance public engagement with research, and maximise the intellectual, social, cultural and economic impact of research.  
 
@@ -15,21 +15,21 @@
 a. stored securely and preserved in order to ensure its continuing utility;   
 b. appropriately identifiable, retrievable, and available when needed;   
 c. an accurate, complete, reliable and coherent representation of the materials collected;   
-d. kept in a manner that is compliant with legal obligations, including UK Data Protecton legislaton and the Freedom of Information Act 2000, and, where applicable, the requirements of funding bodies and project-specific protocols approved under the University’s Research Ethics Policy;   
+d. kept in a manner that is compliant with legal obligations, including UK Data Protection legislation and the Freedom of Information Act 2000, and, where applicable, the requirements of funding bodies and project-specific protocols approved under the University’s Research Ethics Policy;   
 e. able to be made available to others in line with appropriate ethical, data sharing and open research principles, especially when the data underpins published research.  
 
-# 1.2 Scope  
+### 1.2 Scope  
 
 1.2.1 This policy is for all staff (this includes technical and other support staff, and persons with honorary positions) and students conducting or supporting research at, or on behalf of, the University (hereafter referred to collectively as “researchers”). Principal Investigators have overall responsibility for effective data management during research projects. However, all researchers affiliated with the University, including undergraduate and postgraduate students, have a personal responsibility to contribute to the effective management of the data they produce, and must therefore act in accordance with the aims stated in section 1 of this policy.  
 
 1.2.2 For the purposes of this document and its related guidelines, the following terms may be defined as below:  
 
-Research: a process of investgaton leading to new insights. It includes work of direct relevance to the needs of commerce, industry, and to the public and voluntary sectors; scholarship; the inventon and generaton of ideas, images, performances, artefacts including design, where these lead to new or substantally improved insights; and the use of existng knowledge in experimental development to produce new or substantally improved materials, devices, products and processes, including design and constructon.   
+Research: a process of investigation leading to new insights. It includes work of direct relevance to the needs of commerce, industry, and to the public and voluntary sectors; scholarship; the invention and generation of ideas, images, performances, artefacts including design, where these lead to new or substantially improved insights; and the use of existing knowledge in experimental development to produce new or substantially improved materials, devices, products and processes, including design and construction.   
 Research data: the recorded information (regardless of the form or the media in which it may exist) necessary to support or validate a research project’s observations, findings or outputs, or which is required for legal or regulatory compliance.   
 Researcher: Anyone who conducts research for, on behalf of, or in association with the University, on University premises or using University facilities or funding.   
 Principal Investigator: a researcher with overall responsibility for a research project, of any size, conducted for, on behalf of, or in association with the University; on University premises; or using University facilities or funding.  
 
-# 2. Responsibilites of the University  
+## 2. Responsibilities of the University  
 
 2.1 The University will provide:  
 
@@ -39,7 +39,7 @@ a. sufficient support, advice and information to researchers on all aspects of r
 
 2.3 Sources of relevant advice, support and information are listed below in Section 6.  
 
-# 3. Responsibilites of the researcher  
+## 3. Responsibilities of the researcher  
 
 3.1 Principal Investigators hold day-to-day responsibility for the effective management of research data generated within or obtained from their research, including by their research groups. This includes understanding and complying with the requirements of any relevant contract with or grant to the University that includes provisions regarding the ownership, preservation and dissemination of research data.  
 
@@ -55,31 +55,38 @@ a. sufficient support, advice and information to researchers on all aspects of r
 
 3.7 Researchers are responsible for informing their Head of Department (or nominee) where their research data will be stored and who will have access to it after they leave (or retire from) the University.  The researcher’s department or faculty reserves the right to retain a copy of the data for an appropriate period to ensure compliance with any legal or regulatory responsibilities, and/or research grant or contractual requirements.  
 
-# 4. Relatonship with existng policies and guidance  
+## 4. Relationship with existing policies and guidance  
 
-This policy operates in conjunction with other University policies, nam  
+4.1 This policy operates in conjunction with other University policies, namely:  
 
-Academic Integrity in Research (https://hr.admin.ox.ac.uk/academic-integrity-in-research) Research Ethics Policy (https://researchsupport.admin.ox.ac.uk/governance/ethics/committees/policy) Intellectual Property Policy (https://governance.admin.ox.ac.uk/legislation/statute-xvi-propertycontracts-and-trusts#collapse1383596) and Regulations (https://governance.admin.ox.ac.uk/legislation/council-regulations-7-of-2002)   
-• Data Protection Policy (https://compliance.admin.ox.ac.uk/data-protection-policy/)   
-• Freedom of Information (https://compliance.admin.ox.ac.uk/guide-to-information)   
-• Information Security Policy (https://www.infosec.ox.ac.uk/guidance-policy)   
-• Export Controls Guidance (https://researchsupport.admin.ox.ac.uk/policy/export) Human Tissue Guidance (https://researchsupport.admin.ox.ac.uk/governance/human-tissue)  
+Academic Integrity in Research (https://hr.admin.ox.ac.uk/academic-integrity-in-research)   
+Research Ethics Policy   
+(https://researchsupport.admin.ox.ac.uk/governance/ethics/committees/policy)   
+Intellectual Property Policy (https://governance.admin.ox.ac.uk/legislation/statute-xvi-property  
+contracts-and-trusts#collapse1383596) and Regulations   
+(https://governance.admin.ox.ac.uk/legislation/council-regulations-7-of-2002)   
+Data Protection Policy (https://compliance.admin.ox.ac.uk/data-protection-policy/)   
+Freedom of Information (https://compliance.admin.ox.ac.uk/guide-to-information)   
+Information Security Policy (https://www.infosec.ox.ac.uk/guidance-policy)   
+Export Controls Guidance (https://researchsupport.admin.ox.ac.uk/policy/export)   
+Human Tissue Guidance (https://researchsupport.admin.ox.ac.uk/governance/human-tissue)  
 
-# 5. Policy implementaton and reviewing mechanisms  
+## 5. Policy implementation and reviewing mechanisms  
 
 5.1 This policy is reviewed, and where necessary amended, by the Research Data Steering Group annually. It is approved by the Research and Innovation Committee.  
 
-# 6. Further informaton and support  
+## 6. Further information and support  
 
 6.1 Further information on the Research Data Management Policy, including help on how best to comply with it, can be found on the Research Data Oxford website (https://researchdata.ox.ac.uk)  
 
-6.2 General support on Research Practce at Oxford can be found on the Research Practce website (https://researchsupport.admin.ox.ac.uk/research-practice)  
+6.2 General support on Research Practice at Oxford can be found on the Research Practice website (https://researchsupport.admin.ox.ac.uk/research-practice)  
 
 6.3 The following teams provide support with research data management:  
 
 Research Data Oxford: researchdata@ox.ac.uk   
-• Information Security: grc@infosec.ox.ac.uk   
-• Information Compliance Team: data.protection@admin.ox.ac.uk   
-• Legal Services: lsoweb@admin.ox.ac.uk   
-• Purchasing: purchasing@admin.ox.ac.uk   
-• Oxford University Innovation: enquiries@innovation.ox.ac.uk Research Ethics Commitees: curec@admin.ox.ac.uk  
+Information Security: grc@infosec.ox.ac.uk   
+Information Compliance Team: data.protection@admin.ox.ac.uk   
+Legal Services: lsoweb@admin.ox.ac.uk   
+Purchasing: purchasing@admin.ox.ac.uk   
+Oxford University Innovation: enquiries@innovation.ox.ac.uk   
+Research Ethics Committees: curec@admin.ox.ac.uk  

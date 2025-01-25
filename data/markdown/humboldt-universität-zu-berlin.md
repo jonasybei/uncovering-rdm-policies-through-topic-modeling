@@ -1,14 +1,16 @@
-# Humboldt-Universität zu Berlin Research Data Management Policy  
+# HUMBOLDT-UNIVERSITAT ZU BERLIN  
 
-# Preamble  
+## Humboldt-Universität zu Berlin Research Data Management Policy  
+
+### Preamble  
 
 Handling of research data responsibly is critical for confirming research results, for the advancement of science and for the dissemination of knowledge. This policy is addressed to all researchers at Humboldt-Universität zu Berlin both in their role as independent researchers, and as teachers and supervisors. Their obligation includes instructing students and doctoral candidates about handling of research data properly, as well as imparting subject-specific skills and standards.  
 
-# What is research data?  
+### What is research data?  
 
 Research data means all data that was created in the course of research or results from it. Since the generation or collection of research data depends on a variety of research questions and methods, followed by processing, analysis and publishing and/or archiving, the data may involve a range of media, aggregation levels and formats. Sharing and reusing research data requires documentation about the original context and about tools that were used.  
 
-# Policy  
+## Policy  
 
 To further the Proposals for Safeguarding Good Scientific Practice of the German Research Foundation, and the Rules of the Humboldt-Universität zu Berlin for Safeguarding Good Scientific Practice and Investigating Allegations of Scholarly Misconduct (Satzung der Humboldt-Universität zu Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Vorwürfen wissenschaftlichen Fehlverhaltens, in German) the University adopts following policy:  
 

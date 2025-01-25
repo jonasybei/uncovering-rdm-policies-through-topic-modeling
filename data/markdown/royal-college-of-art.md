@@ -1,6 +1,8 @@
-Research Data Management Policy  
+# Research Data Management Policy  
 
-# Contents  
+## Contents  
+
+##  
 
 1. Introduction 3   
 2. Scope 3   
@@ -20,7 +22,7 @@ B. Links to relevant RCA Policies 9
 
 # Royal College of Art - Research Data Management Policy  
 
-# 1. Introduction  
+## 1. Introduction  
 
 This policy presents the principles of good research data management (RDM) within the Royal College of Art (RCA), as well as outlining the roles and responsibilities of the RCA and its staff and students in this respect. Research data is an asset and the RCA recognises its benefit and impact for wider society, the research community, the RCA and its individual researchers. Effective management of research data allows for extension of the value of data beyond the life of any research project, through data openness and sharing, and is an important part of good research conduct. Well managed data leads to higher quality research, increased research visibility and enhanced research collaboration opportunities. RDM is important in light of increasingly collaborative nature of research, where researchers need to share data across platforms and thus need effective systems and processes for storing, accessing and sharing data securely across multi-institutional research teams.  
 
@@ -30,7 +32,7 @@ The concept of research data within art and design may differ somewhat from that
 
 RCA is a research-intensive specialist art and design university, which is committed to upholding highest standards of academic research with their staff, students and the broader research community. We aim for research excellence, through providing a supportive research environment, to research staff and students. To this end, RCA has produced this Policy and provides services and guidance to support research staff and students in undertaking best practice in RDM. To further support staff in implementing this policy, RCA facilitates appropriate digital infrastructure to ensure that data is securely stored and is findable, accessible, interoperable and re-usable by others. The RCA understands that not all data can be shared, or made open, due to legal, commercial and ethical reasons, but also that these issues should not stand in the way of good research data management.  
 
-# 2. Scope  
+## 2. Scope  
 
 2.1 This policy applies to all data generated through research undertaken by RCA research staff and students (henceforth referred to as researchers), either solely or in collaboration with others. This includes, but is not limited to, research sponsored by grant funding or commercial contracts awarded to RCA and to other institutions with which RCA partners in undertaking research.  
 
@@ -40,7 +42,7 @@ RCA is a research-intensive specialist art and design university, which is commi
 
 2.4 This policy should be read in conjunction with other related RCA policies, including the RCA Research Ethics Policy, the RCA Information and Data Management Policy, RCA Policy on Ownership, Protection and Exploitation of Intellectual Property Rights, and RCA Open Access Policy. Links to these policy documents are in Annex B.  
 
-# 3. Definitions  
+## 3. Definitions  
 
 3.1 Data Management Plan: A Data Management Plan outlines what data is likely to be created through the course of research and how. The plan also outlines plans for the preservation of the data and how/if it will be shared, stating any restrictions on access that may need to be applied.  
 
@@ -54,7 +56,7 @@ RCA is a research-intensive specialist art and design university, which is commi
 
 3.6 Data Licencing: Datasets should have a licence that states clearly what the re-use rights are. This will allow researchers who find a dataset to immediately know what they are allowed to do with it. For example, licenced images or music will state how specifically whether commercial use is allowed, whether the work can be remixed or tweaked, or whether it can be downloaded only. Licencing also applies to research data.  
 
-# 4. Guiding principles  
+## 4. Guiding principles  
 
 4.1 RDM is part of good research practice and as such adds value to research outputs and increases their impact. This policy will guide RCA researchers to undertake best practice in RDM to ensure excellence in research conduct and to comply with funders’ requirements of data management, openness and sharing.  
 
@@ -72,15 +74,13 @@ Principle 5: Researchers should acknowledge and properly cite the sources of dat
 
 Principle 6: Researchers that publish data should provide adequate and persistent information for the research data to be cited, to support best research practice.  
 
-# 5. Responsibilities  
+## 5. Responsibilities  
 
 This section presents the key roles and responsibilities of the RCA and its researchers. The RCA is fully committed to excellence in research data management and will thus provide support to researchers so that they may fulfil their responsibilities, set out in this section. Key support will be provided by RCA’s Schools and Centres, Research Support Office, Library and IT as outlined here.  
 
-5.1 The Royal College of Art  
+### 5.1 The Royal College of Art  
 
-5.1.1 Schools and research centres  
-
-5.1.1.1 RCA Schools and Research Centres are responsible for promoting this policy to their researchers and ensuring that they adhere to their obligations listed in section 5.2.  
+5.1.1 Schools and research centres 5.1.1.1 RCA Schools and Research Centres are responsible for promoting this policy to their researchers and ensuring that they adhere to their obligations listed in section 5.2.  
 
 5.1.2 Research and Knowledge Exchange Office  
 
@@ -88,7 +88,7 @@ This section presents the key roles and responsibilities of the RCA and its rese
 
 5.1.2.3. Research and Knowledge Exchange Office will advise researchers on any ethical or legal issues that may hinder data sharing/openness.  
 
-# 5.1.3 Library  
+#### 5.1.3 Library  
 
 5.1.3.1 The Scholarly Communications Librarian, with the support of IT, will provide advice on all aspects of RDM. This includes advising researchers on data repositories, metadata standards, data formats, PDIs, data citation, copyright and data licences.  
 
@@ -98,7 +98,7 @@ This section presents the key roles and responsibilities of the RCA and its rese
 
 5.1.3.3 The Library maintains a publicly available RCA research data catalogue in ePrints based on the information provided to them by PIs. The Library will facilitate the discovery and re-use of research data through publishing sufficient metadata and description of each dataset. Formats that aid re-use should also be used as far as possible.  
 
-5.1.4 IT  
+#### 5.1.4 IT  
 
 5.1.4.1 IT will provide secure storage for research data throughout the research project lifecycle.  
 
@@ -108,7 +108,7 @@ This section presents the key roles and responsibilities of the RCA and its rese
 
 5.1.4.4 IT, more specifically Information Management, will provide support on support and advice to researchers on legal issues relevant to research data and RDM, e.g. Data Protection (GDPR), and Intellectual Property Rights (IPR).  
 
-# 5.2 Principal Investigators  
+5.2 Principal Investigators  
 
 5.2.1 Principal Investigators (PIs) have overall responsibility for management of data created or used within their research. This extends also to data used within their research groups. RCA Research and Knowledge Exchange, Library and IT will provide guidance and services to support PIs in the responsibilities outlined here.  
 
@@ -144,15 +144,15 @@ This section presents the key roles and responsibilities of the RCA and its rese
 
 5.2.11 PIs will ensure that shareable research data is made publicly available in line with funder requirements or for 10 years, whichever is longer.  
 
-# 6. Information regarding this policy  
+## 6. Information regarding this policy  
 
 The office responsible for this policy is the Research and Knowledge Exchange Office.  If any issues arise in connection with this policy, please contact rke@rca.ac.uk.  
 
-# 7. Approval and periodic review  
+## 7. Approval and periodic review  
 
 This policy will be reviewed in line with RCA requirements, or earlier as needed.  
 
-# 8. Annexes  
+## 8. Annexes  
 
 A. Summary of the RDM Policy  
 
@@ -160,10 +160,10 @@ This policy on Research Data Management (RDM) takes as a guiding principle that 
 
 This policy presents the roles and responsibilities of the RCA and its research staff in this respect. The Lead researcher on each project (PI) is ultimately responsible for data management, which includes ensuring that:  
 
-● DMPs are created and maintained throughout the lifecycle of a project. If the project is publicly funded, PIs should abide by funder policies in this regard and use their specific DMP template.   
-● Data is stored securely to avoid data loss or unauthorised access to data.   
-● After a project ends, data is curated for long term storage in a data repository such as the RCA research repository (ePrints).   
-● An evaluation of whether data can be published openly, after a project ends, is undertaken. If data is deemed to be suitable for open publishing, that appropriate measures are taken so that data is findable, accessible, interoperable and re-useable by others.  
+DMPs are created and maintained throughout the lifecycle of a project. If the project is publicly funded, PIs should abide by funder policies in this regard and use their specific DMP template.   
+Data is stored securely to avoid data loss or unauthorised access to data.   
+After a project ends, data is curated for long term storage in a data repository such as the RCA research repository (ePrints).   
+An evaluation of whether data can be published openly, after a project ends, is undertaken. If data is deemed to be suitable for open publishing, that appropriate measures are taken so that data is findable, accessible, interoperable and re-useable by others.  
 
 The RCA (including Research and Knowledge Exchange Office, Library and IT) is responsible for providing support to researchers so that they can carry out their responsibilities as listed above. The RCA has dedicated expert staff and the appropriate technical infrastructure to assist researchers with all aspects of RDM.  
 

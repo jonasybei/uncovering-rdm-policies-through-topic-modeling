@@ -1,10 +1,9 @@
-# RESEARCH DATA MANAGEMENT POLICY  
+# RESEARCH DATA MANAGEMENT POLICY October 2021  
 
-October 2021  
+## Contents  
 
-# Contents  
+Summary 4  
 
-Summary 4   
 What is this document about? 4   
 Who is this for? 4   
 How does the University check this is followed? 4   
@@ -21,39 +20,39 @@ The Policy 8
 6. Active Research Data 8   
 7. Data Availability Statements and Publications 8   
 8. Archived Research Data 9   
-Related Policies and External Motivators 10   
-Related Guidance Resources 10  
+elated Policies and External Motivators 10   
+elated Guidance Resources 10  
 
-<html><body><table><tr><td>Document title</td></tr><tr><td>Research Data Management Policy October 2021</td></tr><tr><td>Document author and department</td></tr><tr><td>Gary Pike, Research Data Officer, University Library. researchdata@port.ac.uk</td></tr><tr><td>Approving body</td></tr><tr><td>URIC, Academic Council, UEB.</td></tr><tr><td>Date of approval</td></tr><tr><td>4 October 2021 (UEB)</td></tr><tr><td>Review date</td></tr><tr><td>September 2025</td></tr><tr><td>Edition no.</td></tr><tr><td>2</td></tr><tr><td>ID Code</td></tr><tr><td>167</td></tr><tr><td>Date of effect</td></tr><tr><td>7 October 2021</td></tr><tr><td>EITHER For public access online (internet)? YES</td></tr><tr><td></td></tr><tr><td>External queries relating to the document to be referred in the first instance to the Corporate Governance team: email corporate-governance@port.ac.uk If you need this document in an alternative format, please email Icorporate.communications@port.ac.uk</td></tr></table></body></html>  
+<html><body><table><tr><td>Document title</td></tr><tr><td>ResearchData Management Policy October 2021</td></tr><tr><td>Document author and department</td></tr><tr><td>Gary Pike, Research Data Officer, University Library. researchdata@ port.ac.uk</td></tr><tr><td>Approving body</td></tr><tr><td>URIC, Academic Council, UEB.</td></tr><tr><td>Date of approval</td></tr><tr><td>4 October 2021 (UEB)</td></tr><tr><td>Review date</td></tr><tr><td>September2025</td></tr><tr><td>Edition no.</td></tr><tr><td>2</td></tr><tr><td>ID Code</td></tr><tr><td>167</td></tr><tr><td>Date of effect</td></tr><tr><td>7 October 2021</td></tr><tr><td>EITHER For public access online (internet)? YES</td></tr><tr><td></td></tr><tr><td>External queries relating to the document to be referred in the first instance to the Corporate Governance team: email corporate-governance@port.ac.uk If you need this document in an alternative format, please email corporate.communications@port.ac.uk</td></tr></table></body></html>  
 
-# Summary  
+## Summary  
 
 What is this document about?  
 
 Research Data Management, including archiving, long-term preservation and open access.  
 
-Who is this for?  
+### Who is this for?  
 
 This policy applies to all University of Portsmouth research.  
 
-# How does the University check this is followed?  
+### How does the University check this is followed?  
 
 Research publications produced by University of Portsmouth researchers must be registered with the Pure online system in order for them to be eligible for the next Research Excellence Framework (REF). The Library systematically checks whether the underlying research data set/s related to these publications have also been made open access. They contact the authors if a data availability statement (or equivalent) and/or the data set/s appear to be missing.  
 
-# Who can you contact if you have any queries about this document?  
+### Who can you contact if you have any queries about this document?  
 
 Research Data Officer - Gary Pike, researchdata@port.ac.uk  
 
-# Executive summary  
+### Executive summary  
 
 The Research Data Management (RDM) Policy sets out the University's expectations for staff when managing research data. The main points of the policy are:  
 
 - that appropriate RDM planning takes place,   
 - Data Availability Statements (or equivalent text) are included for all research outputs, - a new UoP Research Data Archive has been set up to preserve data centrally, - that data sharing be enabled whenever possible.  
 
-# Research Data Management Policy: A Summary  
+## Research Data Management Policy: A Summary  
 
-# Introduction  
+### Introduction  
 
 Given current trends in data management practices, the process of data management is becoming increasingly important. Whilst this is placing increased burdens on academic research, it also offers additional opportunities for demonstration of best practice and research environment both for the University and also for the individual.  
 
@@ -61,7 +60,7 @@ For example, where applicable, making data openly and publicly available offers 
 
 In addition to helping demonstrate good practice in terms of research design, it is also recognised in the San Francisco Declaration on Research Assessment (DORA) that the value of and impact of all research outputs including datasets and software as well as publications should be acknowledged.  
 
-# Overview of Key Policy Points  
+### Overview of Key Policy Points  
 
 a. There is now a need to include a Data Availability Statement (or equivalent wording/information in a data/methods/acknowledgement section) in all papers, whether or not the journals require them.  
 
@@ -69,13 +68,13 @@ b. Data sharing where possible/applicable is a requirement for data held by UoP.
 
 c. Data deposition information must be made discoverable in Pure if the data are deposited externally.  
 
-# Definitions  
+### Definitions  
 
 For the purpose of this Policy, these terms are defined as follows:  
 
 A ‘Data Management Plan’ (DMP) typically states what research data are likely to be created as a result of certain research activities and outlines the plans for data collection, storage, processing, preservation, sharing/dissemination, and eventual (possible) destruction of such research data. A DMP might take the form of a stand-alone document or be part of a research funding application or research design protocol (for ethical review). It should be considered a living document, subject to necessary changes, for the duration of a project. For simple projects a DMP will likely be brief. For more complex projects it may act as an overview or index document for all the necessary DM processes.  
 
-‘Open Access’ (OA) means that research data are made available such that they can be accessed and used by the general public and other organisations, without cost to the user.  
+Open Access’ (OA) means that research data are made available such that they can be accessed and used by the general public and other organisations, without cost to the user.  
 
 The ‘UoP Data Steward’ is the most senior University of Portsmouth Researcher (staff member) associated with the research data (but not necessarily responsible for the OA requirements). The Data Steward should be identified in the DMP. This is typically the Principal Investigator (PI) or, for a larger body of research work, it may be the Research Lead (e.g. Professor of the research team), or in the case of postgraduate research student (PGRS) projects it is typically their (First) Supervisor. In terms of the consequent data management responsibilities:  
 
@@ -90,9 +89,10 @@ d. If you are the UoP Data Steward because of your role as the First Supervisor 
 The ‘Regulatory Environment’ includes all applicable legislation, contractual or funder obligations, and ethics and other policy requirements. Examples of items to be considered within the regulatory environment include – but are not limited to – the following:  
 
 Legislative: Data Protection Act 2018, UK GDPR and the EU GDPR, as well as the Freedom of Information Act 2000.   
-● Contractual: Funding terms and conditions, collaboration agreements (e.g. with external companies or other institutions), third party licenses (e.g. when reusing data generated elsewhere), material transfer agreements, confidentiality agreements, and studentship agreements.   
-● Ethical: Ethical review procedures, and participant consents. (See Related Guidance Resources section.)   
-● Policies: University policies (see Related Policies section) and relevant funder/collaborator policies.  
+Contractual: Funding terms and conditions, collaboration agreements (e.g. with external   
+companies or other institutions), third party licenses (e.g. when reusing data generated elsewhere), material transfer agreements, confidentiality agreements, and studentship agreements.   
+Ethical: Ethical review procedures, and participant consents. (See Related Guidance Resources section.)   
+Policies: University policies (see Related Policies section) and relevant funder/collaborator policies.  
 
 University of Portsmouth | Research Data Management Policy October 2021 | 6 of 11  
 
@@ -114,49 +114,49 @@ This includes all definitive records of information collected from and about liv
 
 It excludes research notes (except when these are the primary location of types of data defined above), transcriptions of information that remains accessible elsewhere in a digital format, and in general any records of information that would be accessible to a third party by following information provided in footnotes or references to the published research.  
 
-# The Policy  
+## The Policy  
 
-1. What does this Policy apply to? This Policy applies to all University of Portsmouth research.  
+### 1. What does this Policy apply to?  
 
-# 2. Responsibility:  
+This Policy applies to all University of Portsmouth research.  
+
+### 2. Responsibility:  
 
 The UoP Data Steward is ultimately responsible for the management of UoP-held research data throughout all stages of research.  
 
-# 3. Regulatory Environment:  
+### 3. Regulatory Environment:  
 
 The Data Steward is responsible for ensuring that the research adheres to all applicable requirements and conditions imposed by the Regulatory Environment.  
 
-# 4. Planning:  
+### 4. Planning:  
 
 The Data Steward must ensure that research data management planning takes place. This typically involves making a Data Management Plan.  
 
-# 5. Costs:  
+### 5. Costs:  
 
 Where possible, the Data Steward must seek to recover the direct costs of managing research data from an external research funder.  
 
 When the research project is not externally funded it is acknowledged that there is an opportunity cost to data management activities. It is hoped, however, that these will be counterbalanced by the opportunities to demonstrate good research practice that will be created (e.g. in terms of additional data citations and data journal publications) and that such activity will become more explicitly recognised in PDRs and annual research reviews etc. (e.g. through the inclusion of evaluation of the quality of publications in data journals when assessing research workload allowances).  
 
-# 6. Active Research Data:  
+### 6. Active Research Data:  
 
 The UoP Data Steward must ensure that ‘active’ research data held by UoP are stored securely and protected from loss, unlawful or unethical access, and in accordance with all other applicable requirements of the Regulatory Environment.  
 
-# 7. Data Availability Statements and Publications:  
+### 7. Data Availability Statements and Publications:  
 
 The Data Steward must ensure that a statement describing research data availability is included in research publications and other relevant outputs. It is recognised that some journals do not have dedicated sections for statements, so as a minimum it may be necessary to include equivalent text in a data/methods section (most obviously), acknowledgments section, footnotes or their equivalents.  
 
-Data Availability Statement types (sometimes also referred to as Data Access Statements or similar variations):  
-
-ii) The data or references/link to secondary datasets are contained within the paper itself.  
-
-iii) The data (and how to access them) are available, for example by providing a DOI link or repository information for physical samples.  
-
+Data Availability Statement types (sometimes also referred to as Data Access Statements or similar variations):   
+i) There are no new data.   
+ii) The data or references/link to secondary datasets are contained within the paper itself.   
+iii) The data (and how to access them) are available, for example by providing a DOI link or repository information for physical samples.   
 For best practice it is suggested that supplementary information be allocated a DOI and linked in the data statement. This practice gets around the issue of supplementary information being trapped behind a subscription paywall when only the post-print is accessible via the Green OA route. A data paper published in a data journal may also be appropriate for some datasets.  
 
 University of Portsmouth | Research Data Management Policy October 2021 | 8 of 11 iv) Data are available, but access is restricted: state the reason(s) for the restriction and how access can be obtained1.  
 
 (Key Policy Point A)  
 
-# 8. Archived Research Data:  
+### 8. Archived Research Data:  
 
 i) The Data Steward must ensure that research data held by UoP are archived for long-term preservation and (as far as possible) made OA if they substantiate published research findings, are of potential long-term value, and/or retention is a requirement of the Regulatory Environment. (Key Policy Point B)  
 
@@ -172,7 +172,7 @@ vi) Unless the applicable Regulatory Environment specifies otherwise, such resea
 
 vii) For staff leaving the University who need to archive research datasets please contact researchdata@port.ac.uk.  
 
-# Related Policies and External Motivators  
+## Related Policies and External Motivators  
 
 Copyright Policy   
 Data Protection Policy   
@@ -184,16 +184,20 @@ Intellectual Property (IP) Policy
 Procedure for the Investigation of Allegations of Misconduct in Research   
 Retention Policy & Retention Schedule: 7. Project Records (see 7.3.2 Research & Innovation Data and   
 Related Project Documentation)   
-Staff Access To University Facilities and Leavers’ Procedures   
-External:   
+Staff Access To University Facilities and Leavers’ Procedures  
+
+### External:  
+
 Concordat on Open Research Data   
 FAIR Data Principles   
 San Francisco Declaration on Research Assessment (DORA)   
 UKRI Common Principles on Data Policy   
 UKRIO Code of Practice for Research  
 
-# Related Guidance Resources  
+## Related Guidance Resources  
 
 General Data Protection Fact Sheet Number 7 UoP Library Research Data Management page UoP Research Ethics  
 
 University of Portsmouth University House Winston Churchill Avenue Portsmouth PO1 2UP United Kingdom  
+
+T: +44 (0)23 9284 3199 E: corporate-governance@port.ac.uk W: www.port.ac.uk  

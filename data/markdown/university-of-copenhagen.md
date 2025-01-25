@@ -1,19 +1,19 @@
 # Policy for Research Data Management  
 
-# 1. Preface  
+## 1. Preface  
 
-# 1.1 Introduction  
+### 1.1 Introduction  
 
 Research data management is a collective term for the planning, collection, storage, sharing and preservation of research data, and it therefore covers the entire research data lifecycle (Figure 1). Good management of research data contributes to improved efficiency and transparency of research processes, and to increased reliability and reproducibility of research results. Thorough planning can ensure compliance with legislation, promote a clear division of responsibilities between collaborators, and safeguard secure storage and handling of data to prevent loss or misuse. For the individual researcher, good data management can lead to improved visibility and impact of their research, for example by facilitating the reuse of their data sets by others.  
 
-![](images/c98e161e989fa2bb6298677f13221473b0cad68ba0c895560a8187810aee21dd.jpg)  
+![](images/d3bd3279629ee4f64ce36b00c3c11356dd5f65450e690edccdfb43711226c14d.jpg)  
 Figure 1. An illustration of a research data lifecycle  
 
-# 1.2 Purpose  
+### 1.2 Purpose  
 
 The policy’s objective is to outline requirements for the management of research data, and enable researchers and students to follow good scientific practice within their discipline, while adhering to laws covering research data management. The University of Copenhagen (UCPH) is committed to the highest standards of excellence in research and will support the competences necessary to adhere to this policy through training, support, advice, guidelines, tools and templates for research data management, where appropriate.  
 
-# 1.3 Scope  
+### 1.3 Scope  
 
 1.3.1 This policy is relevant to anyone conducting or supporting research activities at the University of Copenhagen. Among others, this includes scientific staff, PhD students, visiting and affiliate researchers, collectively referred to as researchers. It includes research support staff, such as laboratory technicians and data managers, when they manage research data as part of research projects at UCPH. Lastly, it includes students in the following situations: 1) when they carry out their own research projects as part of their Bachelor’s or Master’s degree programmes and 2) when they contribute to research projects at UCPH, for example in the role of project member or employed student assistant.  
 
@@ -25,19 +25,19 @@ This policy applies to all research data collected, observed, generated, created
 
 1.3.4 In relation to the specific research area and the individual research project, it must be assessed whether and to what extent the data management policy, or parts of the policy, are relevant.  
 
-# 1.4 Faculty implementation  
+### 1.4 Faculty implementation  
 
 The faculties (deans) are responsible for the implementation of this policy at the faculties. Deans must ensure that a plan and a timeline for the implementation of this policy are developed at their faculty (also see 3.5). Where necessary, faculties, departments, research groups, PhD schools, etc. may introduce more specific requirements, procedures and guidelines for the implementation of the policy according to local practice.  
 
-# 2. Principles  
+## 2. Principles  
 
-# 2.1 Data management plans  
+### 2.1 Data management plans  
 
 2.1.1 The management of research data must be thoroughly considered before physical materials and digital data are collected, observed, generated, created or reused. Data management plans (DMP) must be developed and documented, preferably in electronic format. As a minimum, the topics addressed in this policy (clauses 2.2-2.7) must be reviewed, for example by using the DMP template provided at UCPH. DMPs should be updated when significant changes to the management of research data occur and (references to) the DMP should be stored with the corresponding research data as long as they exist.  
 
 2.1.2 The DMP should be discussed with project collaborators, research managers and supervisors (if any), ensuring that agreements are reached regarding responsibilities for different research data management activities during and after research projects.  
 
-# 2.2 Rights to research data  
+### 2.2 Rights to research data  
 
 2.2.1 Rights to research data must be clarified at the start of research projects. Unless legislation states otherwise, or agreements have been made to determine otherwise, the following is the default at UCPH:  
 
@@ -59,7 +59,7 @@ l. Any research data management requirements by research funders, partner organi
 
 2.2.2 The University’s Tech Transfer Office must be involved as early as possible in the negotiation of all third-party contracts containing provisions on intellectual property rights, such as non-disclosure agreements, material transfer agreements and collaboration agreements. Patentable inventions must be reported to the Tech Transfer Office in accordance with the Act on Inventions at Public Research Institutions.  
 
-# 2.3 Ethical and legal approvals  
+### 2.3 Ethical and legal approvals  
 
 2.3.1 It should be ensured that the appropriate ethical and legal approvals are obtained before the start of a project, and (references to) the approvals should be stored along with the research data, as long as they exist.  
 
@@ -67,13 +67,13 @@ l. Any research data management requirements by research funders, partner organi
 
 Among others, projects in which personal data are being processed (including biobanks) must be registered at UCPH, and approvals to process personal data must as a minimum be filed in the University’s archiving system. Conditions for transfer of personal data and material between UCPH and external collaborators or a third party must be captured into agreements.  
 
-# 2.4 Collection, processing and documentation  
+### 2.4 Collection, processing and documentation  
 
 2.4.1 Research data should be collected and processed in line with best practice in the research discipline. Research projects should be documented in a way that allows them to be repeated by others. Among other things, this includes clearly and accurately describing project methodology and any equipment, software or code used.  
 
 2.4.2 Research data should be described using appropriate metadata to facilitate searching for, the identification of, and the interpretation of the research data. Metadata should be linked to the research data as long as they exist, unless legislation or agreements state otherwise.  
 
-# 2.5 Storage and security  
+### 2.5 Storage and security  
 
 2.5.1 Research data must be classified at the start of a research project on the basis of the level of sensitivity and the impact to the University if data are disclosed, altered or destroyed without authorisation. Risks to data security and of data loss should be assessed in relation to the data classification. This includes evaluating:  
 
@@ -87,7 +87,7 @@ e. Financial, regulatory and technical consequences of working with data, data s
 
 2.5.3 Infrastructure for storing and processing research data, and for collaborating in research projects, must be chosen in accordance with the identified risks, and in compliance with UCPH’s Information Security Policy and the legal requirements for processing personal data.  
 
-# 2.6 Data sharing  
+### 2.6 Data sharing  
 
 2.6.1 Legislation or agreements may preclude research data sharing or impose conditions for sharing. Before sharing research data, the relevant approvals need to be obtained and, if necessary, the appropriate agreements set up to allow data and material sharing.  
 
@@ -96,16 +96,14 @@ e. Financial, regulatory and technical consequences of working with data, data s
 2.6.3 The FAIR principles (for findable, accessible, interoperable and reusable research objects) should be followed as much as possible when preparing digital data sets that can be shared. This includes as a minimum:  
 
 a. Providing open access to data (Open Data) by depositing data in a data repository, or by providing access to information on whether, when, how, and to what extent data can be accessed if data sets cannot be made openly available.   
-b. As much as possible using persistent identifiers (PID) and metadata (such as descriptive keywords) that help locate the data set.  
-
-UCPH Policy for Research Data Management  
-
+b. As much as possible using persistent identifiers (PID) and metadata (such as descriptive keywords) that help locate the data set.   
 c. Communicating terms and conditions for data reuse by others, for example by attaching a data licence.   
-d. Providing the information necessary to understand how data sets were created and structured, and for what purpose.  
+d. Providing the information necessary to understand how data sets were created and structured, and for what purpose.   
+The level of compliance with the FAIR principles, in addition to the minimum requirements   
+described above, is defined by the individual research discipline in relation to international   
+norms and standards in that discipline.  
 
-The level of compliance with the FAIR principles, in addition to the minimum requirements described above, is defined by the individual research discipline in relation to international norms and standards in that discipline.  
-
-# 2.7 Long term preservation  
+### 2.7 Long term preservation  
 
 2.7.1 Appropriate arrangements for the long-term preservation of digital data, physical material and associated metadata must be made, adhering to legislation and/or agreements. This should include:  
 
@@ -127,11 +125,11 @@ c. when there is a legal basis for the long term preservation of personal data i
 
 2.7.5 A plan for research data preservation and/or destruction must be developed, in alignment with legislation, (local) guidelines and agreements (if any), and the continued need for preservation should be reviewed on a regular basis.  
 
-# 3. Roles and Responsibilities  
+## 3. Roles and Responsibilities  
 
 UCPH acknowledges the importance of ensuring that all research data are well managed, so that they are secure, accessible and reusable where appropriate, and so that ethical, confidentiality, privacy and data protection requirements are respected. This responsibility is shared between various parties.  
 
-# 3.1 Students  
+### 3.1 Students  
 
 Students are responsible for:  
 
@@ -139,25 +137,24 @@ a. Adhering to this policy in the following situations: 1) when they carry out t
 
 It is the responsibility of supervisors to support students in adhering to the policy (3.4).  
 
-# 3.2 Research support staff  
+### 3.2 Research support staff  
 
 Research support staff are responsible for:  
 
 a. Adhering to this policy when they manage research data as part of a research project at UCPH.  
 
-# 3.3 Researchers  
+### 3.3 Researchers  
 
 Researchers are defined as anyone conducting or supporting research activities at the University of Copenhagen, among others including scientific staff, PhD students, visiting and affiliate researchers.  
 
 Researchers are responsible for:  
 
 a. Adhering to this policy and other UCPH policies.   
-b. Ensuring that expectations for the management of research data are aligned between themselves and their research managers, supervisors and collaborators (if any).   
-c. Ensuring that research data are managed in line with best practice in their field, and in accordance with legislation, policies and agreements.   
+b. Ensuring that expectations for the management of research data are aligned between themselves and their research managers, supervisors and collaborators (if any). c. Ensuring that research data are managed in line with best practice in their field, and in accordance with legislation, policies and agreements.   
 d. Ensuring that research data are managed in accordance with any legislation, policies and agreements applicable to, and with the security requirements necessary for, that data when they reuse research data in teaching. For personal data, this must include obtaining informed consent from data subjects, when research data are reused for teaching purposes1.   
 e. Considering the appropriate allocation of resources for research data management in funding proposals and recovering the costs for the management and sharing of research data from research funders when possible.  
 
-# 3.4 Supervisors  
+### 3.4 Supervisors  
 
 Supervisors are defined as experienced researchers who provide guidance to less experienced researchers or students.  
 
@@ -165,7 +162,7 @@ Supervisors are responsible for:
 
 a. Ensuring that the researchers and students under their supervision are aware of the legislation, policies and agreements relevant for their research, including this policy and other UCPH policies. b. Ensuring that researchers and students obtain the necessary knowledge to enable good management of research data, through supervision and/or mentoring. c. Reviewing the data management activities of the students and researchers they supervise, among other things by discussing their data management plan at the start of research projects.  
 
-# 3.5 Research managers  
+### 3.5 Research managers  
 
 For the purpose of this policy, a research manager is defined as a researcher who is the lead researcher on a research project (principal investigator), and/or heads a research unit, and/or by delegation has been given similar responsibilities.  
 
@@ -176,7 +173,7 @@ b. Ensuring that conclusions regarding rights to research data are in line with 
 c. Ensuring that projects in which personal data are being processed (including biobanks) are registered at UCPH, and that conditions for transfer of personal data and/or human biological material between UCPH and research collaborators or third parties are captured into agreements.   
 d. Ensuring that data are classified at the start of research projects, that risks to data confidentiality, integrity and accessibility are assessed, and that infrastructure is chosen accordingly.  
 
-# 3.6 Deans (and/or Department Heads)  
+### 3.6 Deans (and/or Department Heads)  
 
 The deans, possibly through delegation to the heads of departments or centres, are responsible for:  
 
@@ -187,7 +184,7 @@ d. Ensuring that researchers, supervisors and research managers are aware of the
 e. Ensuring that researchers, research support staff, supervisors, and research managers have access to the necessary knowledge about research data management where necessary.   
 f. Providing cost-efficient infrastructure and support necessary to enable good research data management within the available resources, and to facilitate adherence to this policy, seeking collaboration with other faculties and the central administration where relevant.  
 
-# 3.7 Rector  
+## 3.7 Rector  
 
 The Rector is responsible for:  
 
@@ -197,16 +194,16 @@ c. Ensuring that relevant training opportunities are offered.
 d. Ensuring that sufficient expertise and resources are available at UCPH for legal counselling related to research data management and to the negotiation of contracts.   
 e. Ensuring that data management expenses are reasonable in relation to the aims of the data management policy and the University’s legal obligations, and that funds are available on all levels of the organisation to realise these aims.  
 
-# 4. Policy process and contact information  
+## 4. Policy process and contact information  
 
 The policy has been prepared at the request of the Rector and the UCPH steering group for information security. It was approved by the Rector on 11 January 2022, and replaces the 2014 University of Copenhagen policy on research data.  
 
 Questions about this policy can be directed to datamanagement@ku.dk. Information about the topics addressed in this policy and contact details for research data management support can be found on the research data management pages on the Research Portal (KUnet).  
 
-# Appendix 1: Definitions  
+## Appendix 1: Definitions  
 
-<html><body><table><tr><td>Affiliate researcher</td><td>research group to perform duties or functions.</td></tr><tr><td>Biobank</td><td>A structured collection of human biological material accessible according to certain criteria, and where the information bound in the biological material can be attributed to individuals. According to Danish legal practice, biobanks are regarded as manual registers and as such are included in the EU- and Danish data protection legislation.</td></tr><tr><td>Copyright</td><td>A legal right giving the creator the exclusive rights to control their work, for example to make copies of the work or to publish, distribute, reproduce, modify, adapt, transform, publicly display and perform the work. In order to obtain copyright protection, the work must be original and in a fixed form. Writings and texts such as articles, monographs, contribution to books and anthologies Images and visuals such as figures, graphs, diagrams, drawings,</td></tr><tr><td>Confidential data Data</td><td>Audio and sound such as music, recordings of interviews, sound recordings Information that by law or by contract must be protected from unauthorized access, use, disclosure, modification or destruction. This includes personal data,confidentialbusinessinformationandclassifiedinformation.</td></tr><tr><td>classification</td><td>Ordering data types according to the consequence it would have for the University and the researcher if these data were lost or compromised. Data classification is the first step in making a risk assessment and determining appropriate security measures to safeguard data.</td></tr><tr><td>Data licence</td><td>A legal instrument that communicates the terms and conditions for the reuse SourceSoftwarelicences.</td></tr><tr><td>Data Management Plan (DMP)</td><td>A plan that is typically drafted at project start and that describes the actions to be taken in order to collect, process, store, secure, share, preserve, and possibly reuse, research data in a research project. DMPs are good tools to funders and institutions.Researchers can draft their own plan or use existing templates, such as those provided by their research funder or institution.</td></tr><tr><td>Data set</td><td>Astructuredcollectionofresearchdata.</td></tr><tr><td>FAIR principles</td><td>A set of guiding principles to make research data findable, accessible, interoperable eand reusable (Wilkinson et al.， 2016, DOl:10.1038/sdata.2016.18).ResearchersmustfollowtheFAlRprinciples for data to be shared with others within the framework of their research disciplines (as FAlR as possible'). This will help maximise data reuse across technical, geographical and disciplinary boundaries, facilitate collaborative research and positively influence research impact.</td></tr></table></body></html>  
+<html><body><table><tr><td>Affiliate researcher</td><td>research group to perform duties or functions.</td></tr><tr><td>Biobank</td><td>certain criteria, and where the information bound in the biological material can be attributed to individuals. According to Danish legal practice, biobanks are regarded as manual registers and as such are included in the EU- and Danish data protection legislation.</td></tr><tr><td>Copyright</td><td>example to make copies of the work or to publish, distribute, reproduce, modify, adapt, transform, publicly display and perform the work. In order to obtain copyright protection, the work must be original and in a fixed form. booksand anthologies</td></tr><tr><td>Confidential data</td><td>photographs, maps, PowerPoint presentations, software, movies Audio and sound such as music, recordings of interviews, sound recordings Information that by law or by contract must be protected from unauthorized access, use, disclosure, modification or destruction. This includes personal data, confidential business information and classified information.</td></tr><tr><td>Data classification</td><td>Ordering data types according to the consequence it would have for the University and the researcher if these data were lost or compromised. Data classification is the first step in making a risk assessment and determining</td></tr><tr><td>Data licence</td><td>appropriate security measures to safeguard data. A legal instrument that communicates the terms and conditions for the reuse of data by others. Examples are Creative Commons licences, or Open</td></tr><tr><td>Data Management Plan (DMP)</td><td>Source Software licences. A plan that is typically drafted at project start and that describes the actions to be taken in order to collect, process, store, secure, share, preserve, and possibly reuse, research data in a research project. DMPs are good tools to align expectations between researchers and are increasingly required by</td></tr><tr><td>Data set</td><td>funders and institutions. Researchers can draft their own plan or use institution. Astructuredcollectionofresearchdata.</td></tr><tr><td>FAIR principles</td><td>A set of guiding principles to make research data findable, accessible, interoperable and reusable (Wilkinson et al.， 2016, DOl:10.1038/sdata.2016.18). Researchers must follow the FAlR principles for data to be shared with others within the framework of their research disciplines('as FAlR as possible'). This will help maximise data reuse</td></tr></table></body></html>  
 
-<html><body><table><tr><td></td><td>F for Findable implies providing searchable evidence that a data set exists, even if the data set is not openly accessible. other methods. I for Interoperable implies as far as possible using common standards data from similar projects.  o    s      to communicate terms for its reuse.</td></tr><tr><td>Intellectual Property Rights</td><td>of the intellect. Among other things, this includes copyright, patent rights, design rights and trademark rights.</td></tr><tr><td>Metadata</td><td>Information describing the attributes of an item or data set, which enables identification, retrieval and management of that item or data set in the future, for example sample name, units of measure, dates, contact information, etc. Metadata can take many forms, from free text to structured machine- requirements for the format and content of metadata, possibly using a</td></tr><tr><td>Open Access</td><td>formal standard. Free, unrestricted online access to research outputs such as journal articles, books and data sets. In this policy, Open Access refers to data sets only (Open Data).</td></tr><tr><td>Open Data</td><td>s           a be accessed without restrictions on reuse, possibly subject only to share alike.</td></tr><tr><td>Persistent identifier (PID)</td><td>A long-lasting reference to a document, file, web page, or other object. In the context of FAlR data, a persistent identifier is an unbreakable and actionable link associated with a digital object on the internet. Examples of persistent identifiers are Digital Object Identifiers (Dols) typically used for journal articles and data sets, and Open Researcher and Contributor IDs (ORClDs) to identify authors of scholarly work.</td></tr><tr><td>Personal data</td><td>Data relating to persons, who can be identified directly or indirectly using those data. Examples are images, names or references to CPR numbers or economic, social, cultural, physical, physiological or mental characteristics.</td></tr><tr><td>Principal investigator</td><td>The lead researcher on a research project.</td></tr><tr><td>Project members</td><td>Researchers and students who contribute to the research conducted in a project.</td></tr><tr><td>Researcher</td><td>     n   Copenhagen, among others including scientific staff, PhD students, visiting and affiliate researchers.</td></tr></table></body></html>  
+<html><body><table><tr><td></td><td>F for Findable implies providing searchable evidence that a data set exists, even if the data set is not openly accessible. other methods. I for Interoperable implies as far as possible using common standards so that others can open the data sets, work with them, and combine data from similar projects. R for Reusable means providing the necessary information to allow the context in which a data set was produced to be understood, as well as</td></tr><tr><td>Intellectual Property Rights</td><td>of the intellect. Among other things, this includes copyright, patent rights, design rights and trademark rights.</td></tr><tr><td>Metadata</td><td>Information describing the attributes of an item or data set, which enables identification, retrieval and management of that item or data set in the future, for example sample name, units of measure, dates, contact information, etc. requirements for the format and content of metadata, possibly using a</td></tr><tr><td>Open Access</td><td>formal standard. Free, unrestricted online access to research outputs such as journal articles, (Open Data).</td></tr><tr><td>Open Data</td><td>be accessed without restrictions on reuse, possibly subject only to share alike.</td></tr><tr><td>Persistent identifier (PID)</td><td>the context of FAlR data,a persistent identifier is an unbreakable and persistent identifiers are Digital Object Identifiers (DOls) typically used for journal articles and data sets, and Open Researcher and Contributor IDs (ORClDs) to identify authors of scholarly work.</td></tr><tr><td>Personal data</td><td>Data relating to persons, who can be identified directly or indirectly using those data. Examples are images, names or references to CPR numbers or economic, social, cultural, physical, physiological or mental characteristics.</td></tr><tr><td>Principal investigator</td><td>The lead researcher on a research project.</td></tr><tr><td>Project members</td><td>project.</td></tr><tr><td>Researcher</td><td>Anyone conducting or supporting research activities at the University of Copenhagen, among others including scientific staff, PhD students, visiting andaffiliateresearchers.</td></tr></table></body></html>  
 
-<html><body><table><tr><td>Research data</td><td>or reused as part of research activities conducted at UCPH. This includes any material and data that form the basis of the research, such as specimens, laboratory notebooks, interviews, texts and literature, digital raw data, audio/video recordings and computer code, as well as the detailed records of these materials and data that comprise the basis for the analysis underlying the results, such as clinical records, sequence data, spreadsheets,interviewfiles etc.</td></tr><tr><td>Research data management</td><td>A collective term for the planning, collecting, processing, storing, securing, sharing and archiving of primary material and research data.</td></tr><tr><td>Research manager</td><td>For the purpose of this policy, a research manager is defined as a responsibilities by delegation.</td></tr><tr><td>Research project</td><td>A project in which a researcher/student or a team of researchers/ students pursue answers to research questions by collecting information after which they analyse the information and draw conclusions from the processed information.</td></tr><tr><td>Research results</td><td>Conclusions made from research data.</td></tr><tr><td>Risk assessment</td><td>An analysis to assess risks to data confidentiality, integrity and accessibility. The risk assessment can be used to map which safety requirements must in confidentiality and loss of data (integrity). For personal data, a GDPR-risk assessment in particular assesses the risks to the rights and freedoms of data subjects. If the GDPR risk assessment reveals a high risk for the data subjects, a Data Processing lmpact</td></tr><tr><td>Supervisor</td><td>Assessment (DPlA) must also be concluded along with the GDPR-risk assessment. An experienced researcher providing guidance to a less experienced researcherorstudent.</td></tr><tr><td>Third party</td><td>part.</td></tr><tr><td>Visiting researchers</td><td>for a limited amount of time. When visiting researchers carry out research UCPH policy for researchdatamanagement as well as to any other</td></tr></table></body></html>  
+<html><body><table><tr><td>Research data</td><td>any material and data that form the basis of the research, such as specimens, laboratory notebooks, interviews, texts and literature, digital raw data, audio/video recordings and computer code, as well as the detailed records of these materials and data that comprise the basis for the analysis underlying the results, such as clinical records, sequence data, spreadsheets, interview files etc.</td></tr><tr><td>Research data management</td><td>A collective term for the planning, collecting, processing, storing, securing, sharing and archiving of primary material and research data.</td></tr><tr><td>Research manager</td><td>investigator) and/or heads a research unit and/or has been given similar responsibilities by delegation.</td></tr><tr><td>Research project</td><td>A project in which a researcher/student or a team of researchers/ students pursue answers to research questions by collecting information after which they analyse the information and draw conclusions from the processed information.</td></tr><tr><td>Research results</td><td>Conclusions made from research data.</td></tr><tr><td rowspan="2">Risk assessment</td><td>An analysis to assess risks to data confidentiality, integrity and accessibility. The risk assessment can be used to map which safety requirements must in confidentiality and loss of data (integrity).</td></tr><tr><td>For personal data, a GDPR-risk assessment in particular assesses the risks to the rights and freedoms of data subjects. If the GDPR risk assessment reveals a high risk for the data subjects, a Data Processing lmpact Assessment (DPlA) must also be concluded along with the GDPR-risk assessment.</td></tr><tr><td>Supervisor</td><td>An experienced researcher providing guidance to a less experienced researcherorstudent.</td></tr><tr><td>Third party</td><td>who has not entered into a collaboration agreement in which UCPH takes part.</td></tr><tr><td>Visiting researchers</td><td>for a limited amount of time. When visiting researchers carry out research projects and/or manage research data at UCPH, they must adhere to the   s m s      University policies, legislation and agreements applicable to research at</td></tr></table></body></html>  

@@ -1,11 +1,20 @@
-# Policy on Managing Research Data at DMU  
+# Research Services Directorate  
+
+Policy on Managing Research Data at DMU  
+
+## Policy on Managing Research Data at DMU  
 
 # CONTENTS  
 
-Introduction . 3 Scope ...... 3 Policy Statements . 4 DMU Researchers’ Responsibilities. . 6 DMU’s Responsibilities . 7 Enforcement..   
+Introduction .. 3   
+Scope.. 3   
+Policy Statements . 4   
+DMU Researchers' Responsibilities. 6   
+DMU’s Responsibilities . 7   
+Enforcement.. 7   
 Definitions .  
 
-INTRODUCTION  
+## INTRODUCTION  
 
 1. De Montfort University is committed to research excellence and integrity and seeks to promote high standards of research data management throughout the research data lifecycle.  The University is working towards compliance with the principles of the UK Concordat on Open Research Data and believes that making data ‘as open as possible, as closed as necessary’ (European Commission FAIR Data Guidelines 2016) is key to research transparency, integrity and engagement.  
 
@@ -13,10 +22,12 @@ INTRODUCTION
 
 Guidelines for Good Research Practice Policy on Conducting Sensitive Research Data Protection DMU Figshare Terms & Conditions Faculty-specific Guidelines for Research Ethics  
 
-# SCOPE  
+## SCOPE  
 
-3. This policy applies to all DMU staff who undertake academic research, as well as postgraduate research students, external consultants, visitors and contractors conducting research at or on behalf of the University (collectively referred to as ‘DMU researchers’), whether externally funded or not, unless otherwise indicated.   
-4. The term ‘research data’ refers to the evidence that underpins the answer to the research question and can be used to validate findings, regardless of its form (e.g. print, digital or physical).  These might include quantitative information or qualitative statements collected by researchers in the course of their work by experimentation, observation, modelling, interview or other methods, or information derived from existing evidence. They may include (but are not limited to) statistics, collections of digital images, sound recordings, transcripts of interviews, survey data, fieldwork notes, artwork, archives, found objects, published texts or manuscripts.  The primary purpose of research data is to provide the information necessary to support or validate a research project’s observations, findings or outputs (Concordat on Open Research Data, 2016).   
+3. This policy applies to all DMU staff who undertake academic research, as well as postgraduate research students, external consultants, visitors and contractors conducting research at or on behalf of the University (collectively referred to as ‘DMU researchers’), whether externally funded or not, unless otherwise indicated.  
+
+4. The term ‘research data’ refers to the evidence that underpins the answer to the research question and can be used to validate findings, regardless of its form (e.g. print, digital or physical).  These might include quantitative information or qualitative statements collected by researchers in the course of their work by experimentation, observation, modelling, interview or other methods, or information derived from existing evidence. They may include (but are not limited to) statistics, collections of digital images, sound recordings, transcripts of interviews, survey data, fieldwork notes, artwork, archives, found objects, published texts or manuscripts.  The primary purpose of research data is to provide the information necessary to support or validate a research project’s observations, findings or outputs (Concordat on Open Research Data, 2016).  
+
 5. Open research data are those research data that can be freely accessed, used, modified and shared, provided that there is appropriate acknowledgement, where required (Concordat on Open Research Data, 2016).  
 
 6. All research data created by DMU researchers are the intellectual property of the University, unless subject to a grant, contract or other legally binding agreement signed by the University that stipulates otherwise.  For the avoidance of doubt, where legislative requirements apply, those legislative requirements will take precedence over this policy.  
@@ -32,7 +43,7 @@ Guidelines for Good Research Practice Policy on Conducting Sensitive Research Da
 a. In the case of digital data, this may be achieved by depositing data to a specific domain repository (see section 11 below), or to the University data repository at https://dmu.figshare.com   
 b. In the case of non-digital data, this may be achieved by digitising the data and treating it as digital data, or by storing the data, e.g. with DMU Library Special Collections (the University's archive service) and recording the metadata on the University data repository at https://dmu.figshare.com, including details of how to access the data.  
 
-11. It is recognised that the most appropriate location for making data open may be a specific domain repository.  This may be because a funder requires it (e.g. UK Data Service for ESRC-funded research), or because it is the most appropriate for a particular discipline (e.g. Archaeology Data Service).  Data should be deposited in the most appropriate repository, and metadata recorded and made openly available via the University data repository at https://dmu.figshare.com.  
+11.It is recognised that the most appropriate location for making data open may be a specific domain repository.  This may be because a funder requires it (e.g. UK Data Service for ESRC-funded research), or because it is the most appropriate for a particular discipline (e.g. Archaeology Data Service).  Data should be deposited in the most appropriate repository, and metadata recorded and made openly available via the University data repository at https://dmu.figshare.com.  
 
 12. To enable research data to be discoverable and effectively re-used by others, sufficient metadata should be recorded and made openly available via the University data repository (https://dmu.figshare.com).  
 
@@ -44,19 +55,16 @@ b. In the case of non-digital data, this may be achieved by digitising the data 
 
 16. Where any research is subject to any associated contractual arrangements and/or grant conditions that conflict with this policy, the provisions of such contractual arrangements and/or grant conditions will take precedence.  
 
-17. It is recognised that there are sound reasons why the openness of research data may need to be restricted.  For example (but not limited to) the following:  
+17.It is recognised that there are sound reasons why the openness of research data may need to be restricted.  For example (but not limited to) the following:  
 
-a. where individuals’ legitimate interests would be compromised (e.g. under the Data Protection Act);  
-
-b. where data is commercially sensitive;  
-
-c. where intellectual property rights do not permit;  
-
+a. where individuals’ legitimate interests would be compromised (e.g. under the Data Protection Act);   
+b. where data is commercially sensitive;   
+c. where intellectual property rights do not permit;   
 d. where the investment of time/money/resources would be disproportionate to the anticipated benefits to the University and/or research community.  
 
 18. These are decisions that individual researchers should look at on a case by case basis, for each dataset, and (where the project is funded) may have to justify their decision to the research funder.  
 
-19. It is recognised that DMU researchers who generate original data must have reasonable right of exclusive first use for an appropriate and well-defined period, which may vary by subject and discipline area. They may, therefore, wish to set an embargo on the publication of their data. This should be considered from the earliest stages of project planning and set out in the Data Management Plan.  
+19.It is recognised that DMU researchers who generate original data must have reasonable right of exclusive first use for an appropriate and well-defined period, which may vary by subject and discipline area. They may, therefore, wish to set an embargo on the publication of their data. This should be considered from the earliest stages of project planning and set out in the Data Management Plan.  
 
 20. DMU researchers are required to comply with the conditions of their research funders’ data management policies.  
 
@@ -68,29 +76,31 @@ d. where the investment of time/money/resources would be disproportionate to the
 
 24. When undertaking research projects in collaboration with other institutions, organisations or individuals, DMU researchers should ensure that ownership and copyright of data generated and/or shared is specified in a data sharing agreement which sets out clearly the obligations and permissions of each party with regard to the data.  
 
-25. It is the responsibility of researchers to discuss with the relevant departments (e.g. ITMS, Library and Learning Services) whether there will be any cost to their project for the storage (including server patches), backup, deposit and retention of the project research data; and to ensure, before starting their research project, that any costs during the life of the project and after can be covered.  
+25.It is the responsibility of researchers to discuss with the relevant departments (e.g. ITMS, Library and Learning Services) whether there will be any cost to their project for the storage (including server patches), backup, deposit and retention of the project research data; and to ensure, before starting their research project, that any costs during the life of the project and after can be covered.  
 
-26. It is the responsibility of the researcher to handle personal data lawfully and according to DMU’s internal data management procedures and according to the General Data Protection Regulation and Data Protection Act 2018.  
+26.It is the responsibility of the researcher to handle personal data lawfully and according to DMU’s internal data management procedures and according to the General Data Protection Regulation and Data Protection Act 2018.  
 
-27. It should be the default position that personal data cannot be treated as open data unless fully anonymised. However, it is accepted that in rare circumstances exceptions may need to be made, for example, with regard to oral history. Personal data should not be treated as open data in an un-anonymised form unless agreed by Research Services and, if necessary, by the Information Governance team.  
+27.It should be the default position that personal data cannot be treated as open data unless fully anonymised. However, it is accepted that in rare circumstances exceptions may need to be made, for example, with regard to oral history. Personal data should not be treated as open data in an un-anonymised form unless agreed by Research Services and, if necessary, by the Information Governance team.  
 
 28. DMU researchers should, where possible, include costs for storing and making data open in external funding applications.  
 
 29. Faculty Associate Deans for Research, Institute Directors and others responsible for research-active staff and students should ensure that DMU researchers in their areas are aware of the University’s policy regarding research data management and its associated guidelines and procedures.  
 
-30. DMU researchers should ensure published results always include information on how to access the supporting data.  Where data supporting publications is made open, it should be accessible by the publication date and in citeable format.   
+30. DMU researchers should ensure published results always include information on how to access the supporting data.  Where data supporting publications is made open, it should be accessible by the publication date and in citeable format.  
+
 31. All ‘external DMU researchers’ agree to indemnify DMU in full for any legal costs incurred by DMU in relation to any legal action taken by DMU against any breach of this policy and or any policy mentioned within this policy.  
 
-# DMU’S RESPONSIBILITIES  
+## DMU’S RESPONSIBILITIES  
 
-32. The University will provide access to training, support, advice and where appropriate, guidelines and templates for research data management and data management plans.   
+32. The University will provide access to training, support, advice and where appropriate, guidelines and templates for research data management and data management plans.  
+
 33. The University will provide the infrastructure for the storage, backup, deposit and retention of research data in support of current and future access, during and after completion of research projects.  This may be charged to the research project (see paragraph 17).  
 
-# ENFORCEMENT  
+## ENFORCEMENT  
 
 34. In the event of any breach of this policy and any policy mentioned within this policy, by any ‘DMU researchers’ (as defined above) or ‘external DMU researchers’, DMU reserves the right to take appropriate legal action.  
 
-# DEFINITIONS  
+## DEFINITIONS  
 
 “The University” and “DMU” mean De Montfort University “Dataset” means a set of files containing Research Data, Metadata (including Published Metadata) and Documentation  
 

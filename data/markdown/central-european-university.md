@@ -9,22 +9,29 @@ The purpose of the CEU Ethical Research Policy is to establish the principles an
 5. The CEU Ethical Research Committee (ERC) will compile a list of other ethical research boards whose reviews are recognized.   
 6. As an institution, CEU works to keep its community members aware about research ethics.   
 7. The overall responsibility for ethical research at CEU rests with the President and Rector and the Pro-Rector for Faculty and Research. The Heads of Departments, Programs and Research Centers are responsible for ethical research within their units, including research done by students. The Principal Investigators are responsible for ethical standards in the projects they lead.   
-8. The CEU Ethical Research Committee (ERC) advises the Rector and the Pro-Rector for Faculty and Research on ethical issues pertaining to CEU research and oversees the implementation of CEU Ethical Research Policy and CEU Ethical Research Guidelines. The ERC can introduce minor technical changes into the Ethical Research Policy and the Ethical Research Guidelines.   
-9. The ERC is chaired by the   Pro-Rector for Faculty and Research or their appointee and includes at least three other members appointed by the Senate, one of whom may be an external academic with experience in handling ethical issues in research. The other members of the committee are chosen from among CEU academic staff members and senior administrative staff members with experience in research ethics in different disciplines. The ERC members are appointed for three years with the possibility of extension for another three-year term. The ERC establishes its own rules of operation (‘Ethical Research Committee: Operational Rules’, Annex 2 to Ethical Research Policy). The minutes of the ERC meetings, excluding the minutes from closed sessions, are available to all members of the CEU community upon request.   
-10. ERC can delegate responsibilities to appropriately established departmental/research unit Ethical Research Committees, especially when the nature of research within a specific area requires a separate committee. If the character of research makes it necessary, further legally applicable procedures can be followed by departments/research units under the supervision of the ERC or departmental/research unit Ethical Research Committees.   
-11. Ethical issues in all CEU research should be systematically identified with reference to the Research Ethics Guidelines and the Checklist on Ethical Issues in Research (‘Checklist’, Annex 3 to this Policy). Potential research ethics issues pertaining to research conducted at CEU should be identified, as a first instance, by the researcher(s) involved. Further procedures regarding the identification of ethical issues are specified in Ethical Research Committee: Operational Rules (see: Annex 2 to Ethical Research Policy).   
-12. In case ethical issues are identified in relation to a research project, the project design should be reviewed and approved by the relevant people or body. Further procedures for review and approval of research projects are specified in ERC Operational Rules.   
-13. The application for obtaining written endorsement of research by the ERC should be submitted in writing to the ERC using the Checklist on Ethical Issues in Research.   
-14. Endorsements of research are kept on file by the Academic Cooperation and Research Office.   
+8. The CEU Ethical Research Committee (ERC) advises the Rector and the Pro-Rector for Faculty and Research on ethical issues pertaining to CEU research and oversees the implementation of CEU Ethical Research Policy and CEU Ethical Research Guidelines. The ERC can introduce minor technical changes into the Ethical Research Policy and the Ethical Research Guidelines.  
+
+9. The ERC is chaired by the   Pro-Rector for Faculty and Research or their appointee and includes at least three other members appointed by the Senate, one of whom may be an external academic with experience in handling ethical issues in research. The other members of the committee are chosen from among CEU academic staff members and senior administrative staff members with experience in research ethics in different disciplines. The ERC members are appointed for three years with the possibility of extension for another three-year term. The ERC establishes its own rules of operation (‘Ethical Research Committee: Operational Rules’, Annex 2 to Ethical Research Policy). The minutes of the ERC meetings, excluding the minutes from closed sessions, are available to all members of the CEU community upon request.  
+
+10. ERC can delegate responsibilities to appropriately established departmental/research unit Ethical Research Committees, especially when the nature of research within a specific area requires a separate committee. If the character of research makes it necessary, further legally applicable procedures can be followed by departments/research units under the supervision of the ERC or departmental/research unit Ethical Research Committees.  
+
+11. Ethical issues in all CEU research should be systematically identified with reference to the Research Ethics Guidelines and the Checklist on Ethical Issues in Research (‘Checklist’, Annex 3 to this Policy). Potential research ethics issues pertaining to research conducted at CEU should be identified, as a first instance, by the researcher(s) involved. Further procedures regarding the identification of ethical issues are specified in Ethical Research Committee: Operational Rules (see: Annex 2 to Ethical Research Policy).  
+
+12. In case ethical issues are identified in relation to a research project, the project design should be reviewed and approved by the relevant people or body. Further procedures for review and approval of research projects are specified in ERC Operational Rules.  
+
+13. The application for obtaining written endorsement of research by the ERC should be submitted in writing to the ERC using the Checklist on Ethical Issues in Research.  
+
+14. Endorsements of research are kept on file by the Academic Cooperation and Research Office.  
+
 15. CEU Ethical Research Policy contains special regulations in order to prevent any ethical misconduct. However, in case of any allegations regarding ethical misconduct, which, if established, would constitute a breach of CEU Code of Ethics, the provisions of the CEU Code of Ethics shall be applicable mutatis mutandis and, to the extent of any conflict, the provisions of the CEU Ethical Research Policy will apply and supersede CEU Code of Ethics.  
 
-# Annex 1 to the Ethical Research Policy  
+## Annex 1 to the Ethical Research Policy  
 
-# Ethical research guidelines2  
+## Ethical research guidelines2  
 
 The purpose of the CEU Ethical research guidelines is to establish the principles and responsibilities for ethical conduct in research by the members of the CEU Community and in research supported by CEU.  
 
-# 1. Good Research Practice  
+### 1. Good Research Practice  
 
 1.1 Research undertaken in accordance with recognized research ethical principles constitutes good research practice and this guidance should be read in conjunction with the CEU Ethical Research Policy (P-1012-1).  
 
@@ -34,7 +41,7 @@ The purpose of the CEU Ethical research guidelines is to establish the principle
 
 1.4 No member of the CEU community should be compelled or compel others to undertake or participate in research that conflicts with either the researchers’ or the participants’ individual ethical principles.  
 
-# 2. Scope  
+### 2. Scope  
 
 2.1 These guidelines must apply to all research conducted under the auspices of the University that involves direct contact with participants, through their physical participation in research activities (invasive and non-invasive participation), that indirectly involves participants through their provision of data and that involves people on behalf of others (e.g. parents on behalf of children).  
 
@@ -42,11 +49,11 @@ The purpose of the CEU Ethical research guidelines is to establish the principle
 
 2.3 These guidelines shall be interpreted in accordance with CEU’s Data Protection Policy which shall prevail in questions related to managing personal data not regulated in this Policy.  
 
-# 3. Protection of Researcher/Research Team  
+### 3. Protection of Researcher/Research Team  
 
 Some researchers will face a range of potential risks to their safety and the safety of their research team when conducting certain types of research for example a researcher may be required to enter potentially dangerous environments to question certain participants. Such issues need to be considered in the design and conduct of research and procedures must be adopted to minimize any risk to researchers. In addition, researchers must consult all appropriate health and safety guidelines and procedures relevant to their area of research before commencing work.  
 
-# 4. Protection of Participants.  
+### 4. Protection of Participants.  
 
 4.1 Researchers have a responsibility to protect participants from any harm arising from research. Harm to participants may arise from undue stress through participation, loss of self esteem, psychological injury as well as physical harm. As a general rule, people participating in research must not be exposed to risks that are greater than or additional to those they encounter in their normal lifestyles.  
 
@@ -56,11 +63,11 @@ Some researchers will face a range of potential risks to their safety and the sa
 
 4.4 In the case of interviews and questionnaires, the content and line of questioning may be highly sensitive, raise confidential, personal issues and intrude, or be perceived to intrude, upon a participant’s comfort and privacy. The initial judgment on whether or not questions are sensitive and likely to cause harm rests with a lead researcher. Researchers are encouraged to seek advice regarding these issues (for details about advisory bodies at CEU see Annex 2.).  
 
-# 5. Obtaining Consent  
+### 5. Obtaining Consent  
 
 Researchers should normally carry out investigations with the valid consent of participants having taken all reasonable and practicable steps to ensure that they, or their authorized representatives, have adequately understood the nature of the research and any anticipated consequences. Under no circumstances must coercion be used to obtain a person’s consent to participate in research. Ideally consent should be obtained in writing but where this is not possible oral consent should be obtained.  
 
-# 5.1 Informed Consent  
+#### 5.1 Informed Consent  
 
 5.1.1 Informed consent is a process by which a prospective participant, prior to participating in research:  
 
@@ -81,7 +88,7 @@ Researchers should normally carry out investigations with the valid consent of p
 
 5.1.4 If the prospective participant is, for any reason, unable to understand the implications of participation, then the researcher is responsible for obtaining the informed consent of the parents/legal guardians of the prospective participant.  
 
-# 5.2 Coercion  
+#### 5.2 Coercion  
 
 5.2.1 Where a relationship exists between the researcher and participant (e.g. employees, patients, students or anyone in a dependence relation) careful consideration as to the nature of consent is required. Willingness to volunteer may be unduly influenced by the expectation of benefits or rewards. When research is being conducted with detained persons (e.g. prisoners) particular care must be taken over informed consent, paying particular attention to the special circumstances that may affect the person’s ability to freely and voluntarily give informed consent.  
 
@@ -89,13 +96,13 @@ Researchers should normally carry out investigations with the valid consent of p
 
 5.2.3 The promise of compensation and care for damage, injury or loss of income as a result of participating in research activities to participants should not be considered coercion by inducement.  
 
-# 5.3 Research Involving Incompetent Adults  
+#### 5.3 Research Involving Incompetent Adults  
 
 5.3.1 Where a prospective participant is unable to give informed consent to participate a ‘legal representative’ may give assent on his/her behalf (in case of uncertainty the researchers should seek professional advice on the competence of participants). The person unable to give consent should still receive information according to their capacity to understand, setting out the risks and benefits of participating in the research.  
 
 5.3.2 In the case of an adult this could be a person designated by the adult, a relative or an independent person nominated by, for example, the hospital at which the research is being undertaken. If the adult has appointed a representative who is available, then this person must be used to give assent. A relative can only be used if the person has not appointed a representative or if the representative is not available. An independent person should only be used if both the adult’s representative and a relative are not available.  
 
-# 5.4 Research Involving Children  
+#### 5.4 Research Involving Children  
 
 5.4.1 Research involving children exists within both a legal framework and a more traditional context. The following guidance seeks to facilitate research involving children within a legal environment whilst respecting and taking into consideration the traditional and sometimes more formal guidance/procedures many settings may have. Laws of the country where the research takes place should be applied in determining whether participants in the research are children.  
 
@@ -111,14 +118,12 @@ Researchers should normally carry out investigations with the valid consent of p
 
 5.4.7 In the case of research in educational settings, any special school policies or procedures must be followed and efforts made to fully inform those responsible for children in these settings of the purpose and benefits of any proposed research with children.  
 
-# 5.5 Research in Public Contexts and With Groups  
+#### 5.5 Research in Public Contexts and With Groups  
 
 5.5.1 In certain types of research obtaining consent from every individual participating is impractical or unfeasible (e.g. observing a large crowd or observing discussions on the internet). In such types of research researchers must ensure the following:  
 
-(i) That such research is only carried out in public contexts;  
-
-(ii) That no details that could identify specific individuals are given in any reports on the research unless reporting on public figures acting in their public capacity (e.g. reporting a speech by a named individual);  
-
+(i) That such research is only carried out in public contexts;   
+(ii) That no details that could identify specific individuals are given in any reports on the research unless reporting on public figures acting in their public capacity (e.g. reporting a speech by a named individual);   
 (iii) That unless those observed give their consent to be observed, observational research should only occur where those observed would expect to be observed by strangers.  
 
 5.5.2 The privacy and psychological well-being of people participating in observational research and people participating in research activities in which a researcher may actually be acting as a fellow  
@@ -127,27 +132,27 @@ participant, for example as part of a wider group, must be respected. In such gr
 
 5.5.3 It is recognized that in certain types of observational research or organizational settings it may be more difficult to explain to people participating their right to withdraw at any stage. However, in such types of research, researchers are expected to make a reasonable attempt to do so.  
 
-# 5.6 Research Involving Deception  
+#### 5.6 Research Involving Deception  
 
 5.6.1 In certain research disciplines (e.g. psychology), to ensure the viability of a piece of research, it is sometimes necessary to withhold information on the true objectives of the research from the people participating in it. In such types of research it is impossible to obtain informed consent from the participants. Wherever possible such research should be avoided and the Ethical Research Committee will pay particular attention to research involving deception. Where deception or the misleading of participants is considered necessary, the central principle to consider when deciding the ethical soundness of deception is the anticipated reaction of the participant once debriefed. If it is likely that the participant will be angry, or show unease once debriefed the research is likely to be deemed unacceptable.  
 
 5.6.2 However, when such research, requiring consent but not informed consent from participants, is judged to be necessary for the results of the research to be valid, researchers must exercise particular caution. In such circumstances the lead researcher has a special responsibility to: (i) Justify that alternative procedures to avoid the withholding of information or deliberate deception are not available and, if available, are not feasible for the research; (ii) Justify why the withholding of information, or an element of concealment or deception, is integral to the viability of the research.  
 
-# 5.7 Research Involving Personal Data  
+#### 5.7 Research Involving Personal Data  
 
 In all cases where personal data is collected, recorded, used, or managed in any other way during research, the relevant privacy rules of CEU’s Data Protection Policy shall be followed, as applicable.  
 
-# 6. Debriefing  
+### 6. Debriefing  
 
 Debriefing does not provide a justification for unethical aspects of research but is rather a means for researchers to discuss with participants their experience of the research and to monitor any unforeseen negative effects or misconceptions. Debriefing is particularly important where any form of deception has been used and researchers have a responsibility to ensure that participants have received any necessary debriefing in the form of active intervention before they leave the research setting.  
 
-# 7. Research conducted in cross-cultural contexts  
+### 7. Research conducted in cross-cultural contexts  
 
 7.1 Researchers should bear in mind the differences between civil, legal and often the financial positions of national and foreign researchers and participants and must be aware that there may be a number of national laws which can affect the conduct of their research. 7.2 Researchers should endeavour to balance professional integrity with respect for national and international law in the context of their research.  
 
 7.3 Researchers should endeavour to ensure that research is conducted with respect for underrepresented social groups and that attempts are made to avoid their marginalization or exclusion. 7.4 Researchers should endeavour to ensure that the concerns of relevant stakeholders and user groups are addressed.  
 
-# 8. Confidentiality, Anonymity and Privacy  
+### 8. Confidentiality, Anonymity and Privacy  
 
 8.1 The collection, storage, disclosure and use of personal data by researchers must comply with all legislation relating to data protection and arrangements must be put in place by researchers to carefully protect the confidentiality of participants and their data. Details that would allow individuals to be identified must not be published or made available to anybody not involved in the research unless explicit consent is given by the individuals concerned.  
 
@@ -161,11 +166,9 @@ Debriefing does not provide a justification for unethical aspects of research bu
 
 8.4 Guarantees of confidentiality and anonymity given to research participants must be honored, unless there are clear and overriding reasons to inform appropriate third parties (e.g. cases of child abuse, where an uninvolved 3rd party may be at risk through the participant’s actions or where a possibility of the participant’s self-harm is revealed during the research). All participants have the right to access personal information, whether or not it is confidential, that relates to them, and to be provided with a copy of the information on request (all participants have to be made aware of the process and researcher(s) responsible for providing the information). People should have the right, following the completion of their period of involvement in the research and following discussions with the researcher, to withdraw their consent and to require that their own data be destroyed, if practicable and unless the withdrawal jeopardizes the research at its final stages (see also: 5.1.2).  
 
-# 9. Funding from External Sources  
+### 9. Funding from External Sources  
 
 9.1 CEU supports and encourages its staff to seek external funding for their research activities and accepts funding for research from a wide and diverse portfolio of legal sources, in accordance with University financial regulations and ethical research principles laid down in CEU Ethical Research Policy (P-1012-1) and in this document. All applications and proposals made, and contracts and awards accepted relating to external research funding, are done so on behalf of and in the name of CEU.  
-
-3 ‘Anonymity’ denotes a requirement regarding data storage, processing and publishing whereby no personally identifiable data is recorded, stored or published during and upon conclusion of research activities. ‘Confidentiality’ refers to a requirement concerning data storage, processing and publishing according to which the personally identifiable data is available only to research participants and the researcher(s). ‘Privacy’ stands for a constraint imposed on a research activity whereby some information and areas of life of participants are not open to the scrutiny and surveillance by the researcher(s). In case the scope of the constraint is not clear to the researcher(s) or their research involves areas suspected to fall within the scope of the constraint, the researcher(s) should seek advice with CEU’s ethical research advisory bodies (see: Annex 2.) or should negotiate the scope with participants.  
 
 9.2 However, it is recognized that there may be circumstances where ethical issues can arise when considering whether or not to apply for or accept funding for research from particular sources. It is important that the interests of all CEU community members and the interests and the reputation of the University as a whole are safeguarded when seeking and accepting external funding.  
 
@@ -173,23 +176,27 @@ Debriefing does not provide a justification for unethical aspects of research bu
 
 Further sources:  
 
-An EU Code of Ethics for Socio-Economic Research: http://www.respectproject.org/ethics/412ethics.pdf  
+An EU Code of Ethics for Socio-Economic Research:   
+http://www.respectproject.org/ethics/412ethics.pdf   
+Panel on Research Ethics, Government of Canada:   
+http://pre.ethics.gc.ca/eng/policy-politique/initiatives/revised-revisee/Default/   
+Guidance for Research Ethics in the Social Sciences, Law and the Humanities:   
+http://www.pre.ethics.gc.ca/francais/pdf/links/GuidelinesResearchEthicsintheSocialSciencesLawHu   
+manities.pdf  
 
-Panel on Research Ethics, Government of Canada: http://pre.ethics.gc.ca/eng/policy-politique/initiatives/revised-revisee/Default/  
+## Annex 2 to the Ethical Research Policy  
 
-Guidance for Research Ethics in the Social Sciences, Law and the Humanities: http://www.pre.ethics.gc.ca/francais/pdf/links/GuidelinesResearchEthicsintheSocialSciencesLawHu manities.pdf  
-
-# Annex 2 to the Ethical Research Policy  
-
-# Ethical Research Committee: Operational Rules  
+### Ethical Research Committee: Operational Rules  
 
 All research at CEU (by members of CEU community and research supported by CEU) is expected to accord with recognized ethical research principles. Two CEU official documents safeguard that the expectations are met – CEU Ethical Research Policy and CEU Ethical Research Guidelines, the first of which specifies general principles and responsibilities related to ethical research while the second lays down the specific principles that the researcher(s) must abide by in their study.  
 
 This annex regulates the operation of the CEU Ethical Research Committee and procedures that researchers at CEU need to observe regarding the evaluation and review of their research.  
 
-Rules of Operation of ERC  
+### Rules of Operation of ERC  
 
-1. Decisions Quorum is two-thirds; decisions by ERC are taken by simple majority.  
+#### 1. Decisions  
+
+Quorum is two-thirds; decisions by ERC are taken by simple majority.  
 
 2. Raising awareness on ethical issues in research  
 
@@ -199,11 +206,16 @@ Rules of Operation of ERC
 
 (d) Students whose work involves ethical issues and who do not receive adequate training on these issues in other form, e.g. as part of their courses are also asked to complete the training (see also below in 5.1).  
 
-3. Persons/bodies at CEU with a responsibility to identify ethical issues in research  
+#### 3. Persons/bodies at CEU with a responsibility to identify ethical issues in research  
 
 The ERC constitutes the highest instance regarding the identification of ethical issues and ethical review of research at CEU. In addition, the following persons/bodies may be involved in the identification/review process:  
 
-3.1 Master’s/PhD Dissertations/Research:  
+#### 3.1 Master’s/PhD Dissertations/Research:  
+
+Academic supervisors;   
+Heads of Departments/Programs;   
+Academic program committees (e.g. Departmental Doctoral Committees); specialized Ethical Research Committees4;   
+Dissertation committees;  
 
 3.2 Research conducted by/headed by Academic Staff Members:  
 
@@ -212,17 +224,17 @@ Heads of Academic Units;
 Specialized Ethical Research Committees;   
 Academic Cooperation and Research Support Office (ACRO);  
 
-4. Identification of ethical research issues and the need for a review (a) The Checklist on Ethical Issues in Research is the basic instrument in identifying ethical issues. It is strongly advised that researchers use the Checklist as a guide for the research already in its designing/planning stage, so that possible violations of Ethical Research Policy and Ethical Research Guidelines are avoided.  
+#### 4. Identification of ethical research issues and the need for a review  
+
+(a) The Checklist on Ethical Issues in Research is the basic instrument in identifying ethical issues. It is strongly advised that researchers use the Checklist as a guide for the research already in its designing/planning stage, so that possible violations of Ethical Research Policy and Ethical Research Guidelines are avoided.  
 
 (b) Every researcher at CEU should, before signing a contract with CEU, receive all the relevant documents relating to ethical issues in research (Ethical Research Policy, Ethical Research Guidelines, Operational Rules of the ERC, the Checklist on Ethical Issues in Research). All contracts signed with CEU should contain a clause: “I have received all the relevant documents related to the ethical issues in research and will abide by the rules laid down in these documents”.  
 
-# 4.1 Master’s/PhD Dissertations  
+#### 4.1 Master’s/PhD Dissertations  
 
 (a) Identification of ethical research issues in Master’s thesis/PhD dissertation projects is the responsibility of the student and his/her supervisor(s).  
 
-The following are applicable only if any ethical research issue is identified in the thesis/:  
-
-(b) Unless there is another well-established disciplinary practice of addressing ethical issues in research, students and supervisors are advised to consult and use the Checklist on Ethical Issues in Research as a basis of identifying and addressing ethical issues.  
+The following are applicable only if any ethical research issue is identified in the thesis/: (b) Unless there is another well-established disciplinary practice of addressing ethical issues in research, students and supervisors are advised to consult and use the Checklist on Ethical Issues in Research as a basis of identifying and addressing ethical issues.  
 
 (c) If there are research ethics issues involved in the student’s work, supervisors should make sure that the student receives some form of training in this field. The training could be a component of research or methods courses which are part of the curriculum.  Supervisors or Academic Unit Heads may wish to ask students to complete the online ethical research training module described in Point 2 in lieu of ethical research training in the Unit.  .  
 
@@ -230,7 +242,7 @@ The following are applicable only if any ethical research issue is identified in
 
 (e) Departmental/Program Committees may conduct random checks of dissertations and student work in progress with regards to the identification of ethical issues and reviews with regards to the compliance with Ethical Research Guidelines.  
 
-4.2 Research conducted by academic staff  
+#### 4.2 Research conducted by academic staff  
 
 (a) Identification of ethical research issues in research projects is the responsibility of the principal researcher(s) of the project. If potential issues are identified, the Checklist on Ethical Issues in Research should be completed and filed so that it can be produced upon request by the ERC. If there are no ethical issues, there is no need to fill in the Checklist.  
 
@@ -240,11 +252,9 @@ The following are applicable only if any ethical research issue is identified in
 
 (d) All research projects by the CEU academic staff which receive either external funding or targeted funding from CEU should file a completed Checklist with the ACRO if ethical issues are identified in the project. In accordance with Point (c) above, the ERC may conduct random checks on these projects.  
 
-(e) If a research proposal fails to meet ethical standards required, the funding of the project may be refused or suspended.  
+(e) If a research proposal fails to meet ethical standards required, the funding of the project may be refused or suspended. (g) When an external funding body requires an ethical research review of the research project, ACRO upon completing the documents forwards the request to the ERC for review.  
 
-(g) When an external funding body requires an ethical research review of the research project, ACRO upon completing the documents forwards the request to the ERC for review.  
-
-# 5. Review process  
+#### 5. Review process  
 
 (a) For review purposes, ERC maintains a list of potential reviewers, updated at the beginning of every academic year, both from among CEU academic staff members and academics not affiliated with CEU, with expertise relevant for determining issues in research ethics.  
 
@@ -260,31 +270,35 @@ The following are applicable only if any ethical research issue is identified in
 
 (g) In the case that an ethical research review is carried out by another Committee, to which such responsibilities had been delegated by the ERC in line with Point 10 of the Ethical Research Policy, the researchers have a responsibility to notify the Chair of the ERC and file the review results with ACRO.  
 
-# Annex 3 to the Ethical Research Policy  
+## Annex 3 to the Ethical Research Policy  
 
-# Checklist on Ethical Issues in Research  
+### Checklist on Ethical Issues in Research  
 
 This Checklist is intended as a guide for CEU students/researchers in planning, designing and carrying out research, and for applying approval to the Ethical Research Committee. The numbers in brackets indicate the relevant Points of the Guidelines on Ethical Research. When applying for approval from the Ethical Research Committee, please provide explanatory answers that enable the ERC to assess whether the Guidelines were followed.  
 
-# A. General information  
+#### A. General information  
 
-<html><body><table><tr><td>1. Project name/title of thesis/dissertation:</td></tr><tr><td></td></tr><tr><td>2. Name(s) of Applicant(s):</td></tr><tr><td></td></tr><tr><td>3.Contact information of Applicant(s):</td></tr><tr><td>4. Department/Research Center:</td></tr><tr><td></td></tr><tr><td>5.Research Supervisor (if applicable):</td></tr><tr><td></td></tr><tr><td>6. Supervisor's contact information:</td></tr><tr><td></td></tr><tr><td>7. Date by which a decision on this application is required in order that the project can proceed as planned, if approval is required:</td></tr><tr><td></td></tr><tr><td>8. Expected date of completion:</td></tr><tr><td></td></tr><tr><td>9.Abstract of the project/thesis/dissertation:</td></tr><tr><td></td></tr></table></body></html>  
+<html><body><table><tr><td>1.Project name/title of thesis/dissertation:</td></tr><tr><td></td></tr><tr><td>2. Name(s) of Applicant(s):</td></tr><tr><td></td></tr><tr><td>3.Contact information of Applicant(s):</td></tr><tr><td></td></tr><tr><td>4. Department/Research Center:</td></tr><tr><td></td></tr><tr><td>5. Research Supervisor (if applicable):</td></tr><tr><td></td></tr><tr><td>6. Supervisor's contact information:</td></tr><tr><td>7. Date by which a decision on this application is required in order that the project can proceed as</td></tr><tr><td>planned, if approval is required:</td></tr><tr><td></td></tr><tr><td>8. Expected date of completion:</td></tr><tr><td>9.Abstract of the project/thesis/dissertation:</td></tr><tr><td></td></tr></table></body></html>  
 
-# B. Funding  
+#### B. Funding  
 
-<html><body><table><tr><td>funding:</td></tr><tr><td></td></tr></table></body></html>  
+<html><body><table><tr><td>10. Sources, researchers’ and their organisation's financial interests and ethical issues sincaseofexternal funding:</td></tr><tr><td></td></tr></table></body></html>  
 
-# C. Participants  
+C. Participants  
 
-<html><body><table><tr><td>11. Does the study involve human subjects, and how? [Who will participate in the research? How will the subject/respondent group be chosen, what sampling techniques will be deployed? In which ways will the participants be involved? (2.1)</td></tr><tr><td>12. Are there potential benefits and hazards for the participants? [Are there risks to the subject entailed by involvement in the research? Have procedures been established for</td></tr><tr><td>3.4)</td></tr><tr><td>13. Does the research involve any risks or pose danger to the researcher(s)? [If yes, what procedures will be adopted to minimize the risks? Have the health and safety guidelines relevant to the area and character of the research been consulted and implemented?] (4)</td></tr><tr><td>14. Will all procedures ensuring that consent is informed be followed? [Including the possibility for withdrawing consent] (5.1)</td></tr><tr><td>15. Are the recruitment procedures well planned, and risks of coercion considered? [Might subjects feel compelled or “obliged" to participate? How is voluntariness ensured? Does the</td></tr><tr><td>participation of research involve financial or other remuneration?] (5.2)</td></tr><tr><td>16. Does the research involve incompetent adults, children, prisoners, other vulnerable groups, or contexts where obtaining consent is impossible (i.e. public context, groups)? [Which “consent"-procedures will be applied instead?] (5.3 -- 5.5)</td></tr></table></body></html>  
+<html><body><table><tr><td>[lf the research does not involve human subjects, go to section D.]</td></tr><tr><td>11. Does the study involve human subjects, and how? [Who will participate in the research? How will the subject/respondent group be chosen, what sampling</td></tr><tr><td>techniques will be deployed? In which ways will the participants be involved? (2.1)</td></tr><tr><td></td></tr><tr><td>12. Are there potential benefits and hazards for the participants? [Are there risks to the subject entailed by involvement in the research? Have procedures been established for</td></tr><tr><td>the care and protection of subjects? Will the participants be informed of possible risks and hazards?] (2.2 -</td></tr><tr><td>3.4)</td></tr><tr><td></td></tr><tr><td>13. Does the research involve any risks or pose danger to the researcher(s)? [If yes, what procedures will be adopted to minimize the risks? Have the health and safety guidelines relevant</td></tr><tr><td>to the area and character of the research been consulted and implemented?] (4)</td></tr><tr><td></td></tr><tr><td>14. Will all procedures ensuring that consent is informed be followed? [Including the possibility for withdrawing consent] (5.1)</td></tr><tr><td></td></tr><tr><td>15. Are the recruitment procedures well planned, and risks of coercion considered?</td></tr><tr><td>[Might subjects feel compelled or “obliged" to participate? How is voluntariness ensured? Does the participation of research involve financial or other remuneration?] (5.2)</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td>16. Does the research involve incompetent adults, children, prisoners, other vulnerable groups, or contexts</td></tr><tr><td>where obtaining consent is impossible (i.e. public context, groups)? [Which “consent'-procedures will be applied instead?] (5.3 - 5.5)</td></tr></table></body></html>  
 
 <html><body><table><tr><td>17. Does the research involve deception - and/ or experiments involving humans?</td></tr><tr><td>In case deception of participants is involved: how is the impossibility to employ alternative non-deceiving method of research justified? How is the deception integral to the viability of research? Will debriefing be employed and how will the participant's reactions influence the use of the data obtained?] (5.6 - 6) Projects that include non-participating or non-consenting subjects (e.g. as control groups and for comparison) need to also consider potentially adverse consequences for any such non-participants. This includes cases where differential access to information and other resources is provided as part of projects that might inappropriately favor or disadvantage some groups and individuals over others.</td></tr><tr><td>18. Will confidentiality and anonymity be secured?(8)</td></tr><tr><td></td></tr><tr><td>19. Will data protection and storage requirements be followed? (8)</td></tr><tr><td></td></tr><tr><td>20. Are there any plans for future use of the data beyond those already described?</td></tr></table></body></html>  
 
-# D. Other Aspects:  
+#### D. Other Aspects:  
 
-<html><body><table><tr><td>21.Dissemination of findings: [What is the anticipated use of the data, forms of publication and dissemination of findings, etc.? In areas where information is jointly owned by participants as co-researchers attention should be paid to how the former want to use the data.]</td></tr><tr><td></td></tr><tr><td>22. Have you considered how to ensure that ethics considerations are reviewed as the project proceeds?</td></tr><tr><td></td></tr><tr><td>23. Is there any other information, which you think would be relevant to the reviewers', or your own consideration of the ethical issues raised in this documentation?</td></tr><tr><td></td></tr></table></body></html>  
+#### 21. Dissemination of findings:  
 
-Signature of Applicant:  
+<html><body><table><tr><td>[What is the anticipated use of the data, forms of publication and dissemination of findings, etc.? In areas where information is jointly owned by participants as co-researchers attention should be paid to how the former want touse the data.]</td></tr><tr><td></td></tr><tr><td>22. Have you considered how to ensure that ethics considerations are reviewed as the project proceeds? [This is particularly relevant for projects that go on over a longer time period.]</td></tr><tr><td></td></tr><tr><td>23. Is there any other information, which you think would be relevant to the reviewers', or your own consideration of the ethical issuesraisedin this documentation?</td></tr><tr><td></td></tr></table></body></html>  
+
+DECLARATION   
+The information supplied above is to the best of my knowledge and belief accurate. Signature of Applicant:   
+Date:  
 
 The following section has to be filled in only when approval by the Ethical Research Committee is required (for example for the purposes of securing external funding); see Annex 2, Operational Rules, to the Ethical Research Policy.  
 
@@ -306,10 +320,12 @@ The research proposal has been scrutinized and approved by the CEU Ethical Resea
 
 Additional comments (optional)  
 
+![](images/91a0a6f46a5dea64e1682bdb1c8275fcb0170f46dae3fcde1fe50b89ceb7e031.jpg)  
+
 Reference number:  
 
 Date:  
 
 Signature of Chair (or Acting Member):  
 
-<html><body><table><tr><td colspan="2">Document information</td></tr><tr><td>Type</td><td>Policy</td></tr><tr><td>Number</td><td>P-1012-1v 2201</td></tr><tr><td>Title</td><td>Ethical Research Policy</td></tr><tr><td>Related documents</td><td></td></tr><tr><td>Approved by</td><td>Senate</td></tr><tr><td>Date of approval</td><td>December 3, 2010 amended February 29,November 23, 2012, May, 18 2015,May 8, 2018 and January 28, 2022</td></tr><tr><td>Enters force</td><td>December 10, 2010</td></tr><tr><td>Distribution</td><td>Internal</td></tr><tr><td>Filename</td><td>P-1012-1 v 2201 Ethical research policy</td></tr></table></body></html>  
+<html><body><table><td colspan="3">Document information</td></tr><tr><td>Type</td><td>Policy</td></tr><tr><td>Number</td><td>P-1012-1v 2201</td></tr><tr><td>Title</td><td>Ethical Research Policy</td></tr><tr><td>Related documents</td><td></td></tr><tr><td>Approved by</td><td>Senate</td></tr><tr><td>Date of approval</td><td>December 3, 2010 amended February 29,November 23, 2012, May, 18 2015,May 8, 2018 and January 28, 2022</td></tr><tr><td>Enters force</td><td>December 10, 2010</td></tr><tr><td>Distribution</td><td>Internal</td></tr><tr><td>Filename</td><td>P-1012-1 v 2201 Ethical research policy</td></tr></table></body></html>  

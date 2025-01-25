@@ -1,20 +1,20 @@
 # Technische Universität Dresden  
 
-# Guidelines on the handling of research data at TU Dresden  
+## Guidelines on the handling of research data at TU Dresden  
 
-These Guidelines have been adopted by the Senate of Technische Universität Dresden in its meeting on 13 June 2018.  
+These Guidelines have been adopted by the Senate of Technische Universität Dresden in its meeting on 13th June 2018.  
 
-# Preamble  
+### Preamble  
 
 The transparency of research is a key component of good scientific practice. It includes the responsible handling of research data as both the basis for one's own scientific research and the basis for further research - irrespective of the original purpose of data collection.  
 
-In its 'Guidelines for Safeguarding Good Scientific Practice, Avoiding Scientific Misconduct and Dealing with Violations' (version of 5 March 2014), TU Dresden has stipulated guidelines for the handling of primary data in § 5. For the implementation of these guidelines and the handling of research data in general (i.e. beyond primary data), TU Dresden has adopted the following specific guidelines for the handling of research data.  
+In its 'Guidelines for Safeguarding Good Scientific Practice, Avoiding Scientific Misconduct and Dealing with Violations' (version of 5th March 2014), TU Dresden has stipulated guidelines for the handling of primary data in § 5. For the implementation of these guidelines and the handling of research data in general (i.e. beyond primary data), TU Dresden has adopted the following specific guidelines for the handling of research data.  
 
-# What is research data?  
+#### What is research data?  
 
 Research data refers to all data collected, observed, derived, simulated or otherwise generated in connection with research. Research data is present in any scientific discipline in different forms and formats.  
 
-# Guidelines  
+### Guidelines  
 
 1. Responsible research goes hand in hand with the conscious and careful handling of research data throughout its entire life cycle, as formulated by the German Research Foundation (DFG) in its 'Guidelines on the Handling of Research Data'. Research data management involves the planning, collection, processing, documentation, publication, and long-term storage of data.   
 2. The responsibility for the research data management lies with the project leaders as well as the independent researchers. The structural units (Schools, Faculties or Institutes) can define binding rules for their areas of responsibility.   

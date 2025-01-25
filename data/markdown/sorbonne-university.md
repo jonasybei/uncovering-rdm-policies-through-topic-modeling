@@ -1,6 +1,6 @@
 # RESEARCH COMMISSION OF 24 JUNE 2021  
 
-Open research data policy within the Sorbonne University Alliance  
+## Open research data policy within the Sorbonne University Alliance  
 
 Since its creation, the Sorbonne University Alliance has chosen to be fully involved in the open science movement, allowing access to knowledge for all. With this in mind, it is committed to opening up the results of the research produced within its institutions and promoting their dissemination, in order to share with citizens the fruits of their contribution to public research and to develop a trustworthy science.  
 
@@ -20,7 +20,7 @@ setting up training programmes and mobilising the necessary resources to create 
 
 Consequently, the member institutions of the Sorbonne University Alliance commit themselves to implementing the following recommendations for the opening of research data.  
 
-# Recommendations for the opening of research data within the Sorbonne University Alliance  
+### Recommendations for the opening of research data within the Sorbonne University Alliance  
 
 To implement the policy of opening up research data, the institutions of the Sorbonne University Alliance have set themselves the following objectives:  
 
@@ -30,14 +30,15 @@ to work to facilitate the exchange of data and metadata between information syst
 
 In this perspective of opening up and sharing data, the members of the Sorbonne University Alliance recommend setting up a Research Data Helpdesk  in the form of a portal for access to available resources, making it possible in particular:  
 
-to identify and promote standards, infrastructure, software and IT services for data to direct users to repositories where data can be deposited and described;   
+to identify and promote standards, infrastructure, software and IT services for data storage, access and analysis;   
+to direct users to repositories where data can be deposited and described;   
 to put users in touch with experts on technical, legal or innovation-related issues;   
 to ensure pre-publication referencing of datasets;   
 and to promote and use tools and services that support collaboration.  
 
 It will be up to the institutions of the Sorbonne University Alliance to co-lead a working group for the construction, steering and management of this helpdesk.  
 
-ble to integrate the services of this helpdesk into its own technical envi  
+Each institution will be able to integrate the services of this helpdesk into its own technical environment.  
 
 A sharing of resources is clearly desirable and beneficial, subject to prior agreement between the partners concerned.  
 

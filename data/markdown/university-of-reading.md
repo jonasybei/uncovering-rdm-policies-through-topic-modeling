@@ -1,128 +1,303 @@
 # Research Data Management Policy  
 
-Version Number 2.0  
+## Contents  
 
-Effective from 1 September 2024  
+Research Data Management Policy. 2   
+Summary . 2   
+Scope and application.. 2   
+Responsibilities of researchers 2   
+Data management planning. 3   
+Managing research data . 4   
+Preservation, sharing and disposal of data 4   
+Intellectual Property Rights.. 6   
+Support for research data management . 6   
+Monitoring and compliance. 6   
+Responsibility and review . 6   
+Guidance.. 8   
+Related policies and other requirements. 8   
+Data management planning. 8   
+Managing research data . 9   
+Preservation, sharing and disposal of data 10   
+Intellectual Property Rights . 13   
+Support for research data management . 13   
+Glossary.. 14  
 
-# 1.0 Purpose  
+# Research Data Management Policy  
 
-This policy outlines the University of Salford’s requirements for research data management before, during, and after a research project’s lifecycle. The University champions good practice in research data management because it is integral to high-quality research and aligns with funder requirements and the values and priorities set out in the Innovation Strategy 2021-26.  
+## Summary  
 
-Active management, secure storage and retention, and timely deletion of research data are necessary for research integrity, information security, and environmental sustainability. Making research data as open as possible and only as restricted as necessary is important to the University’s commitment to openness in research, supporting reproducibility and maximising the potential for re-use and impact.  
+This University is committed to the principles of Open Research.1 We subscribe to the principles of the UK Concordat on Open Research Data,2 and affirm that publicly-funded research data are a public good produced in the public interest, which should be made available with as few restrictions as possible in a timely and responsible manner.3 We recognise the fundamental importance of research data management in establishing the quality and integrity of research and enabling the verification of research findings. Datasets can also be valuable research outputs in their own right, and should be managed in such a way as to maximise their potential for use and impact.  
 
-This policy is supported by, and should be read in conjunction with, the Research Data Management Guidance published on the Library’s webpages.  
+University researchers are required to plan for data management, to collect and manage data responsibly during the research process, and to preserve and make accessible to the fullest extent possible data that substantiate research findings, considering any legal, ethical, commercial or practical restrictions that may apply. Wherever possible, data must be preserved and made accessible by means of an appropriate data repository, and in accordance with the FAIR Data Principles for Findable, Accessible, Interoperable and Re-usable research data.4  
 
-# 2.0 Scope  
+## Scope and application  
 
-This policy applies to all research activities involving the collection, analysis, and storage of digital and physical research data conducted by University staff, postgraduate research students enrolled on a research degree, visiting or emeritus staff, associates, holders of honorary and clinical contracts, contractors and consultants and others working on the University premises or carrying out research activity in the name, or on behalf of the University of Salford, and across all subject disciplines and fields of study, hereafter referred to as ‘Researchers’.  
+This policy covers all data collected or created under the authority of the University for the purposes of answering research questions. It includes any computer code created in research that is integral to the reproducibility of research results.  
 
-The policy does not apply to postgraduate taught students or undergraduates, but best research practice is recommended, and support and guidance is available to everyone.  
+The policy applies to all researchers involved in collecting research data for or on behalf of the University, including researchers employed by the University, research students and visiting researchers. Data preservation and sharing requirements apply to undergraduate or taught postgraduate students if they are involved in research that results in the publication of peer-reviewed research outputs.  
 
-# 3.0 Definitions  
+## Responsibilities of researchers  
 
-<html><body><table><tr><td>Term</td><td>Definition</td></tr><tr><td>CreativeCommonsZero (CCo)licence</td><td>A Public Domain, No Rights Reserved licence with which creators and owners of copyright- or database-protected content waive those enhance and reuse the works for any purposes without restriction undercopyrightordatabaselaw.See: https://creativecommons.org/public-domain/cc0/</td></tr><tr><td>Data management plan</td><td>A formal document that describes how researchdatawill be collected, organised, stored, secured, backed-up, preserved, and whereapplicable,shared.</td></tr><tr><td>Datasteward</td><td>A person employed in any role by the University of Salford who is identified by the researchers as being responsible for the management of a specific set of research data for the purposes of continuity. The choice of data steward will depend on the nature of the research project and project team. For example, the data curator, project officer, research technician, or the supervisor of a</td></tr><tr><td>FAIRPrinciples</td><td>researchstudent. FAIR data are data which meet principles of findability, accessibility, interoperability, and reusability.</td></tr></table></body></html>  
+It is the responsibility of researchers to ensure that research data are managed and shared in accordance with this policy and other relevant policy requirements.5  
 
-<html><body><table><tr><td>Metadata</td><td>Metadata is the data that provides information about other data. This can include the source, format and location of the other data. Metadata enables the discovery and reuse of other data, and can be administrative, descriptive, or technical.</td></tr><tr><td>Personal Data</td><td>TheUniversityadherestotheInformationCommissioner'sOffice (ICo) definitions of personal data.</td></tr><tr><td>Principal Investigator (Pl)</td><td>）Principal Investigator (Pl): Within this Policy, "Principal Investigator (Pl)" means the staff member or student primarily tasked with conducting the research project at the University of Salford, whether or not they are referred to as such in a research grant. For external collaborative projects, this would be the lead researcher based at</td></tr><tr><td>Research</td><td>theUniversityofSalford. The University of Salford adheres to the Frascati definition of Research as described in the Research Code of Practice.</td></tr><tr><td>Researchdata</td><td>TheUniversity definesresearchdataas‘informationcreated, observed or collected in the course of research which is necessary tosupport or validate a research project's observations, findings or outputs'. Research data may take physical or digital form.</td></tr><tr><td>Researchdata management</td><td>Research data management involves activities throughout the research data lifecycle; planning and making decisions about the and sharing of research data.</td></tr><tr><td>Researchers</td><td>Researchers refers to all University staff, postgraduate research students enrolled on a research degree, visiting or emeritus staff, associates, holders of honorary and clinical contracts, contractors and consultants and others working on the University premises or carrying out research activity in the name, or on behalf of the University of Salford, and across all subject disciplines and fields of study.</td></tr><tr><td>Sensitivedata</td><td>Sensitivedata'is used as a catch-all term torefer to: research data containing personal identifying information, 'personal data' and special category data as defined in UK data protectionlegislation; commercially sensitive data, including data generated or used under a restrictive commercial research funding agreement; data relating to species of plants or animals where the release of data may adversely affect rare or endangered species; data likely to harm an individual or community or have a significant negative public impact if released. Sensitive data may also be classified as confidential according to the University's Information Security Policy.</td></tr></table></body></html>  
+Researchers are responsible for completing relevant training, including mandatory training for University employees in Information Security, Data Protection and Freedom of Information.6  
 
-# 4.0 Policy statements  
+All researchers involved in the handling of research data in a project should understand their roles and responsibilities, and should seek clarification of these from the Principal Investigator where necessary.  
 
-# Researchers’ responsibilities:  
+Principal Investigators (including doctoral supervisors) are responsible for the management and sharing of research data collected in projects under their authority. They must ensure that the project complies with this policy and any other relevant policies, laws and contracts.  
 
-# 4.1 Compliance  
+## Data management planning  
 
-All researchers are responsible for following their funders’ and the University’s policies for research data management (RDM), in particular the University of Salford Data Protection Policy, Information Security Policy and ICT Acceptable Use Policy and Academic Ethics Policy. All researchers are responsible for managing their research data in accordance with contractual, legislative, regulatory, ethical, and other specified requirements and as set out in the project’s Data Management Plan (see 4.3).  
+A data management plan (DMP) should be created at the outset of any project that involves the collection of data, and maintained for the duration of the project. The DMP should describe the data that will be collected, how the data will be collected and managed during the project, and measures that will be taken to preserve and share data in line with FAIR Principles on completion of the research and publication of findings.  
 
-# 4.2 Accountability  
+### Grant applications and costs  
 
-The lead researcher (Principal Investigator or equivalent) on a research project is primarily accountable for RDM practices within the project. They must ensure that all research data are generated, stored, managed, and shared in accordance with contractual, legislative, regulatory, ethical, and other specified requirements, including any funder policies.  
+Where a DMP is required as part of a grant application, it should be reviewed by the University’s Research Data Service prior to submission of the application.  
 
-4.2.1. The lead researcher must ensure that, where external partners are involved, research data ownership is established and confirmed contractually in advance of a research project starting, in accordance with the University's Intellectual Property Policy and relevant third-party agreements. They must ensure that any access to research data by third parties is managed in accordance with the Information Security Policy.   
-4.2.2. Postgraduate research students are primarily accountable for RDM practices within their project. Supervisors of research students are responsible for ensuring that their students are adequately trained and have a clear understanding of RDM requirements and appropriate practice.   
-4.2.3. RDM responsibilities can be shared or delegated but should be clearly documented in a Data Management Plan, and the lead researcher retains overall accountability. If leaving the University they must nominate a data steward, recorded in the Data Management Plan, to ensure the ongoing management, retention, and timely destruction of research data.  
+Equipment and infrastructure requirements for the collection, storage, processing and archiving of research data must be considered when developing proposals, and eligible costs should be included in grant applications.  
 
-# 4.3 Data Management Plans  
+### Participant-based research  
 
-The lead researcher must ensure a Data Management Plan (DMP) is created for every research project which sets out how research data will be collected, classified, protected, prepared, securely stored, retained, and, wherever possible, shared. The DMP must be created before the beginning of the research project, typically at the funding application or ethical approval stage. DMPs are living documents which must be reviewed and kept up to date throughout the project. All members of the research project team must be aware of, and abide by, the DMP.  
+Where research involves participants, researchers must inform participants during recruitment of the intention to preserve and provide access to research data collected from them, unless for any reason it will not be possible to make data accessible to others. They must wherever possible plan to prepare data for sharing, usually by anonymisation, and identify an appropriate repository to deposit the data in, which may be an open data repository or one that can provide access to higher-risk data on a controlled basis.  
 
-# 4.4 Protecting sensitive data  
+### Collaborations and research agreements  
 
-Researchers must protect sensitive data and the rights of research participants in accordance with legislation, contractual agreements, and ethical requirements.  
+Where research is undertaken in collaboration with third parties, intellectual property rights in data, plans for data preservation and sharing, and legal responsibilities, for example in respect of personal data, must be agreed at the outset.  
 
-4.4.1.  Sensitive and confidential research data can be shared ethically and legally when this has been planned and agreed before collection, following relevant professional, ethical and discipline-specific standards. These include, but are not limited to, gaining informed consent from participants; protecting identities through anonymisation or pseudonymisation; and controlling access to data where necessary.  
+Collaborative research agreements should recognise the broad objectives of this policy, and allow for the timely sharing of research data in support of project findings, while accommodating the legitimate interests of parties to the agreement.  
 
-# 4.5 Costs  
+## Managing research data  
 
-When developing a research funding application, researchers must include appropriate research data storage and retention costs, including any costs associated with the digitisation of physical research data. Where a project is not in receipt of external research funding, research data storage needs should be identified at the outset and, if these exceed the allowance provided by the University, suitable arrangements made to cover any additional costs.  
+Research data should be managed by researchers in accordance with a data management plan, following defined procedures for data storage and backup, file naming and organisation, version control, quality control, documentation and metadata creation.  
 
-# 4.6 Storage during the project  
+Researchers must store and process data securely using University-approved infrastructure in accordance with the University’s Information Compliance policies.  
 
-While in active use, researchers must ensure that research data are stored safely, securely and protected from loss using facilities appropriate to the data medium.  
+### Preservation, sharing and disposal of data  
 
-4.6.1. Researchers must store digital research data on secure digital systems with a back-up mechanism to protect against loss. Where, due to the circumstances of data collection, research data needs to be temporarily stored on mobile devices or external storage, data classified as confidential must be encrypted and in all cases researchers must ensure data security in line with the Information Security policy.  
+Data that substantiate published research findings (including doctoral theses) or that have long-term value must be preserved and made accessible using a suitable data repository wherever possible in accordance with the FAIR Data Principles for Findable, Accessible, Interoperable and Re-usable research data, considering any legal, ethical, commercial or practical restrictions that may apply.  
 
-4.6.2. The loss of sensitive data or University IT equipment must be reported according to the ICT Acceptable Use Policy.  
+Data that are shared must be accompanied by sufficient documentation and relevant materials (such as code written to process data) to enable verification or reproduction of published results and re-use for research or other purposes.  
 
-# 4.7 Retention  
+Data collected from research participants should be shared wherever possible in anonymised form as open data or, in the case of higher-risk anonymised or identifiable data, by using a data repository that can hold and provide access to datasets under a controlled access procedure.  
 
-Researchers are responsible for selecting which research data to retain by considering potential long-term value, reproducibility of the research findings, and legal or funder requirements. Selected research data must be retained for at least any period stipulated by legal, contractual, regulatory, or ethical requirements, and in line with disciplinespecific norms, typically at least 10 years from publication.  
+Where high volumes of data have been generated in the research, and it is not viable to deposit them in a data repository, they should where possible be held in University infrastructure. A metadata record describing the data should be published in the University’s Research Data Archive, so that they can be cited in related publications and interested parties can request access.  
 
-# 4.8 Depositing research data  
+### When data should be shared  
 
-Researchers must deposit their selected research data in an appropriate data repository as soon as possible. Researchers may choose to use Figshare, the research data storage service provided by the University, or an alternative data repository which complies with legal, regulatory, and ethical requirements and aligns with FAIR principles to ensure data are Findable, Accessible, Interoperable, Reusable. Access to deposited data can be restricted where necessary.  
+Data supporting research findings must be made available no later than the date of first publication of research results, unless there is a legal, ethical, commercial or practical reason why data cannot be released at that time.  
 
-4.8.1. Where research data are deposited in a repository other than the University’s data storage service, researchers must enter a metadata record into the University of Salford Institutional Repository (USIR).   
-4.8.2. Where research data selected for retention are not in digital format, they should be digitised where possible. Where digitisation is not possible, researchers should seek to store the data in facilities appropriate to the subject matter and medium. To ensure these data are discoverable, a metadata record should be added to the University of Salford Institutional Repository (USIR).  
+Disclosure of data associated with commercial exploitation of research may be delayed while IP protection is sought. Once protection is in place, data should be shared.  
 
-# 4.9 Preparation of data  
+### Use of data repositories  
 
-Researchers are responsible for preparing data prior to deposit and/or sharing. Before depositing research data, researchers must ensure that any sensitive data are prepared and protected in accordance with the consent given by participants, and any legal, contractual, regulatory, or ethical requirements (see 4.4).  
+Researchers must use a data repository to preserve and share data wherever possible. The University recommends the use of disciplinary and data type-specific repositories where appropriate; but all University researchers have the option of using the University’s Research Data Archive.  
 
-4.9.1. Research data held in any repository must be accompanied by metadata that clearly describe the data in sufficient detail to allow other researchers to find and understand them.   
-4.9.2. Where research data have been made openly accessible, they should be accompanied by sufficient descriptive and technical metadata and documentation to enable reading, reuse, and interoperation by humans and machines.  
+When a dataset has been deposited in a data repository external to the University or otherwise stored for preservation, the researcher should register the dataset with the University by creating a metadata record in the University’s Research Data Archive.  
 
-# 4.10 Data sharing  
+### Formats and standards  
 
-Research data selected for deposit must be made as open as possible and only as restricted as necessary. To enable open data sharing and maximise reuse and reproducibility, researchers should choose the most permissive Creative Commons licence possible (e.g. CC 0 licence). Researchers should minimise the period of time for which they hold exclusive use of the data, as allowed by ethical, legislative, regulatory, commercial, and contractual conditions.  
+Data should be preserved in open or widely-used file formats wherever possible, so that access is not dependent on purchase of a software licence. Data and associated metadata should be structured and described using relevant standards where these exist.  
 
-# 4.11 Data underpinning publications  
+## Rights and licensing  
 
-A data access statement describing where supporting data can be found and accessed must be included in the publication when mandated by the research funder or publisher, even where the study generated no original research data, or the data are restricted or otherwise not accessible. In all other cases, a data access statement is strongly encouraged. Research data that underpins published research findings should, where possible, be made openly available at the time of first online publication.  
+Data that are deposited in a data repository or disclosed to parties other than the members of the University and research collaborators must be accompanied by a rights statement identifying the owner(s) of intellectual property rights in the data, and a licence specifying the terms on which the data can be used.  
 
-# 4.12 Data underpinning theses  
+Wherever possible, data should be made available under an open licence, such as the Creative Commons Attribution (CC BY) licence, in order to provide the broadest possible scope for re-use, unless legal obligations, third party rights, intellectual property rights or privacy rights preclude this.  
 
-Where postgraduate research students have created or collected original research data which underpins the findings of their research, and these are not included in the thesis itself, they should ensure that selected data is stored in accordance with this policy. Research students are strongly encouraged to add a data access statement to the thesis. This statement should describe where supporting data can be found and accessed, even where the data are restricted or otherwise not accessible. Guidance is set out in the PGR Code of Practice.  
+More restrictive licences should be used where there is a well-founded reason to do so, for example, to protect commercial interests. Wherever possible in such cases a standard licence should be used, such as the Creative Commons AttributionNonCommercial (CC BY-NC) licence, which grants permission for use in research and teaching and other non-commercial activities.  
 
-# 4.13 Disposal of data  
+### Data availability statement and data citation  
 
-Researchers, or research data stewards, must securely dispose of research data identified for deletion or destruction with particular concern for the confidentiality and security of the data, in accordance with legal, contractual, regulatory, or ethical requirements and the University’s Information Security Policy.  
+Any publication based on the use of data must include a data availability statement citing the supporting dataset in the holding repository by means of its digital object identifier (DOI) or other unique identifier, or referencing any alternative storage location, and stating on what terms the data may be accessed. The full citation for the dataset should be provided in the publication’s list of references.  
 
-# University responsibilities:  
+### Preservation term  
 
-# 4.14 Research data storage service  
+Relevant data should be preserved for at least ten years after completion of a project, or for any longer minimum term specified in a funder’s policy.  
 
-The University will provide a digital research data storage service which complies with legal, regulatory, ethical, and information security requirements. Research data in the University's research data storage service, Figshare, will be retained for the length of time detailed in the data management plan.  
+### Disposal of data  
 
-4.14.1. Where research data selected for long-term retention are not in digital format and cannot be digitised, the University will support researchers to identify facilities and resources required for preservation within the data management plan.  
+Data that do not substantiate published research findings and do not have long-term value should be disposed of when they no longer serve a purpose. Data that contain personal or confidential information must be disposed of securely in accordance with University guidelines.7  
 
-# 4.15 Guidance, training and support  
+## Intellectual Property Rights  
 
-The University will provide support, guidance and training for researchers to enable effective research data management throughout the research lifecycle.  
+The University has ownership of intellectual property rights (IPR) in research datasets created in the course of research undertaken by researchers in its employment, unless rights have been contractually assigned to another party.  
 
-# 5.0 Policy Enforcement and Monitoring  
+Ownership of IPR in a research dataset created by a student rests with the student, unless it has been assigned to another party under the terms of a contract of sponsorship or other agreement.  
 
-Breach of this policy will be considered as having the potential to bring the University and its employees into disrepute and managed in that context. Specific processes will be brought to bear in this context, including the Research Misconduct Policy and Procedure, the Academic Misconduct Procedure, and the Disciplinary Policy.  
+Where a dataset is the creation of more than one hand, IPR may be jointly held by more than one party.  
 
-Periodic monitoring against this policy will be undertaken by The Library and Research and Knowledge Exchange (RKE) and be reported to the Research Enterprise & Innovation Committee (REIC).  
+Disclosure of data, for example by deposit in a data repository, must be with the permission of all rights-holders and subject to any relevant authorisation, such as by a project’s Principal Investigator. Where the University is the rights-holder, disclosure of research data must be in compliance with the Code of Practice on Intellectual Property.8 Subject to the above conditions, University employees are empowered under this policy to disclose or authorise the disclosure of data collected by them for research purposes, unless a reason for restriction exists.  
 
-# 6.0 Related Documentation  
+## Support for research data management  
 
-<html><body><table><tr><td>Internal Websites (the Hub)</td><td></td></tr><tr><td>AcademicsEthicsStaffwebsite</td><td></td></tr><tr><td>AcademicHandbook</td><td></td></tr><tr><td>AcademicRegulationsforResearchAwards</td><td></td></tr><tr><td>Code of Practice for the Conduct of Postgraduate Research Degree Programmes</td><td></td></tr><tr><td>ConcordattoSupportResearchIntegrity</td><td></td></tr><tr><td>InformationGovernancewebsite</td><td></td></tr><tr><td>QualityManagementOffice</td><td></td></tr><tr><td>ResearchDataManagement</td><td></td></tr><tr><td>ResearchPolicy</td><td></td></tr><tr><td>SenateandCommitteeswebsite</td><td></td></tr><tr><td>StudentFacingProcedureswebsite</td><td></td></tr><tr><td>Policies and Procedures (all internal)</td><td></td></tr><tr><td>Academic Ethics Policy</td><td></td></tr><tr><td>AcademicMisconductProcedure</td><td></td></tr><tr><td>Datadepositoragreement</td><td></td></tr><tr><td>Data ProtectionPolicy</td><td></td></tr><tr><td>DisciplinaryPolicy</td><td></td></tr><tr><td>ICT AcceptableUsePolicy</td><td></td></tr><tr><td>InformationSecurityPolicy</td><td></td></tr><tr><td>ntellectualPropertyPolicy(underreview)</td><td></td></tr><tr><td>ResearchMisconductPolicyandProcedure</td><td></td></tr><tr><td>RecordsRetentionSchedule</td><td></td></tr><tr><td>ResearchCodeofPractice</td><td></td></tr></table></body></html>  
+The University provides infrastructure and services to support the effective storage, management, preservation and sharing of research data collected under its authority, in compliance with this policy and related policies and external requirements.  
 
-<html><body><table><tr><td>Safeguarding Guidancefor Research</td></tr><tr><td>SchemeofAcademicGovernance</td></tr><tr><td>UniversityEthicsFramework</td></tr><tr><td>Terms of Reference</td></tr><tr><td>AcademicEthics&ResearchIntegrityCommittee</td></tr><tr><td>Governance, Nominations, and Ethics Committee</td></tr><tr><td>Research,Enterprise&InnovationCommittee</td></tr><tr><td>School Ethics Approval Committee</td></tr><tr><td>SchoolResearch,EnterpriseandEngagementEthicsApprovalPanel</td></tr><tr><td>Related external legislation, policies and information</td></tr><tr><td>DataProtectionAct(2018)</td></tr><tr><td>National Security in Research Policy</td></tr><tr><td>GoFAIR-FAIRDataPrinciples</td></tr></table></body></html>  
+The University's Research Data Service promotes and supports good practice in research data management and compliance with this policy, and manages the University’s data repository, the University of Reading Research Data Archive.  
 
-# 7.0 Contact  
+The Research Data Service is based in the Research Engagement team in the Library. Contact details can be found on research data management website.9  
 
-a. Queries regarding research data management (RDM) should be directed to libraryresearch@salford.ac.uk.   
-b. Queries regarding research policies should be directed to researchgovernance@salford.ac.uk.  
+### Monitoring and compliance  
 
-<html><body><table><tr><td colspan="5">Document Control Information</td></tr><tr><td colspan="5">Revision History incl. Authorisation: (most recent first)</td></tr><tr><td>Author E Smith &</td><td colspan="2">Summary of changes Significantrewrite.Restructured toreflectresearch</td><td>Version V2.0</td><td>Authorised & Date</td></tr><tr><td>T Williamson</td><td colspan="2">lifecycle.Scopeanddefinitionsclarified;related policies section expanded and updated.Added explicitreferencetophysicaldata.Updated</td><td></td><td></td></tr><tr><td></td><td colspan="2">statementsrelating toinformationsecurity.12- month data deposit deadline removed.Added</td><td></td><td></td></tr><tr><td></td><td colspan="2">reference toFAIRdataprinciples.Added recommendationsreuseofCcolicensesfordata</td><td></td><td></td></tr><tr><td></td><td colspan="2">andinclusionofdataaccessstatementsin</td><td></td><td></td></tr><tr><td>H Baker &</td><td colspan="2">publicationsandtheses New policy</td><td>V1.0</td><td>Research & Enterprise Committee:</td></tr><tr><td>D Clay</td><td colspan="2"></td><td></td><td>04/11/15</td></tr><tr><td></td><td colspan="2"></td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td>Policy Management and Responsibilities: Owner:</td><td></td><td colspan="2">This Policy is issued by the Pro-Vice Chancellor Research & Enterprise, who</td><td></td></tr><tr><td></td><td></td><td colspan="2">management and has delegated day to day management and communication of</td><td>has the authority to issue and communicate policy on research data</td></tr><tr><td>Others with responsibilities</td><td></td><td colspan="2">the policy to The Library. All subjects of the Policy will be responsible for engaging with and adhering to</td><td></td></tr><tr><td>(please specify): Author to complete formal assessment with the following advisory teams:</td><td></td><td colspan="2">this policy.</td><td></td></tr><tr><td>Equality Analysis (E&D, HR)</td><td></td><td colspan="2">1.Approved February 2024.Ref EIA2024-22</td><td></td></tr><tr><td>EqualityAssessmentform Legal implications (LPG)</td><td></td><td colspan="2">ReviewedbyDirectorofLegalServices,May2024</td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td>Information Governance (LPG)</td><td>3.</td><td colspan="2">May2024.</td><td>ReviewedbyDiTinformationsecurityteam andDirectorofLegal Services,</td></tr><tr><td>Student facing procedures (QEO)</td><td></td><td colspan="2">4.N/A</td><td></td></tr><tr><td>UKVI Compliance (Student Admin)</td><td></td><td colspan="2">5.N/A</td><td></td></tr><tr><td>Consultation:</td><td></td><td colspan="2"></td><td></td></tr><tr><td>Staff TradesUnionsviaHR</td><td>1.</td><td colspan="2">N/A</td><td></td></tr><tr><td>StudentsviaUSSU</td><td>2.</td><td colspan="2"></td><td>N/A (PGR Forum consulted, including PGR student representation)</td></tr><tr><td>Relevant external bodies (specify) Review:</td><td>3.</td><td colspan="2">N/A</td><td></td></tr><tr><td>Review due:</td><td></td><td colspan="2">2yearsbyMay2026</td><td></td></tr><tr><td>Document location (webpage):</td><td></td><td colspan="2">Library Research Data Management web page.</td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td></td><td colspan="2">RKE Data in Research Staff Hub page.</td><td></td></tr><tr><td>Document location (link)</td><td colspan="2"></td><td colspan="2">https://www.salford.ac.uk/library/open-research/open- data/research-data-management The owner and author are responsible for publicising this policy document.</td></tr></table></body></html>  
+The University will monitor compliance with this policy on the part of its researchers and may take appropriate action where cases of non-compliance are identified.  
+
+### Responsibility and review  
+
+Responsibility for the Research Data Management Policy sits with the Pro-ViceChancellor (Research and Innovation) and the University Board for Research and Innovation.  
+
+The Policy will be reviewed every three years.  
+
+<html><body><table><tr><td>VERSION KEEPER</td><td></td><td>APPROVED</td><td>APPROVEDBY</td></tr><tr><td>1.0</td><td>Research Data Manager</td><td>2 March2015</td><td>UBRI</td></tr><tr><td>1.1</td><td>Research Data Manager</td><td>26September2017</td><td>ResearchDeanfor Environment</td></tr><tr><td>2.0</td><td>Research Data Manager</td><td>23 January 2024</td><td>UBRI</td></tr></table></body></html>  
+
+## Guidance  
+
+### Related policies and other requirements  
+
+Research data management is subject to some or all of the following policies and requirements:  
+
+the University’s Information Compliance policies, including inter alia the Data Protection, Encryption, Bring Your Own Device and Classification policies;10 the University’s Code of Practice on Intellectual Property;11   
+the University’s Code of Good Practice in Research;12   
+any legal obligations, including those specified in the Freedom of Information Act 2000, the Environmental Information Regulations 2004, and the Data Protection Act 2018;13   
+any contractual obligations, such as the provisions of research agreements relating to the use and disclosure of intellectual property and publication of results; the data sharing policies of research funders.  
+
+### Data management planning  
+
+A data management plan (DMP) describes the data that will be collected in the course of a research project, how the data will be collected and managed, how relevant ethical and legal requirements will be met, and measures that will be taken to ensure the preservation and sharing of data on completion of the research and publication of findings. A DMP also defines data management roles and responsibilities within a research project.  
+
+The University provides guidance on data management planning, and can advise on and review DMPs on request.14  
+
+### Grant applications and costs  
+
+Some funders require researchers to submit a DMP or discuss how they will manage, preserve and share research data as part of the grant application. Where this is required, the Research Development Manager supporting the application will ensure that the DMP is reviewed by the Research Data Service before the application is submitted. The University provides information about the requirements of funders and guidance on preparing DMPs.15  
+
+Many funders of research accept that data management costs are legitimate research expenses. Requirements for the collection, storage, processing and archiving of research data must be considered when developing proposals, and eligible costs should be included in grant applications. Any third-party suppliers used for the processing of data must be approved by the University.16  
+
+### Participant-based research  
+
+Applications for ethical review of research proposals submitted to the University Research Ethics Committee (UREC) and to some School Research Ethics Committees must be accompanied by a DMP describing the data to be collected, measures that will be taken to protect participants’ data, and plans for sharing of research data. The DMP will be reviewed by the relevant Research Ethics Committee, which may specify requirements for the proposed research to receive a favourable opinion.17  
+
+### Planning for sharing of data collected from research participants  
+
+Wording that can be used to notify an intention to preserve and share data, either openly or under safeguards, is provided in the sample consent form provided by Information Management and Policy Services (IMPS). The IMPS Data Protection and Research guide provides guidance on anonymisation of research data.18  
+
+If data collected from participants are considered to be sensitive or higher-risk and not suitable for public sharing, they can be archived in some repositories under controlled access procedures. The UK Data Service ReShare can hold anonymised safeguarded data and the University’s Research Data Archive can accept restricted datasets, which may include identifiable and confidential information.19  
+
+### Collaborations and research agreements  
+
+Standard research agreements include provisions that support the objectives of this policy. Research Contracts will ensure the appropriate implementation of research agreements.20  
+
+### Managing research data  
+
+Effective management of research data according to a data management plan will increase the efficiency of the research process, safeguard against corruption or loss of data, and make it easier to prepare data for preservation and sharing at the end of the project.  
+
+The University’s research data management website provides guidance on managing research data, including data storage, data organisation, file formats, quality control, documentation and metadata, and online survey tools available through the University.21  
+
+### Preservation, sharing and disposal of data  
+
+Preservation and sharing of FAIR data entails:  
+
+the use of appropriate repository services to preserve, publish information about and provide access to the data; the use of open and widely-used standards to encode and describe the data; the use of open or other standard licences which define re-use permissions; the assignment to datasets of globally unique and persistent identifiers (such as a Digital Object Identifier or DOI), in order to enable citation, discovery and re-use.  
+
+The FAIR Principles are described in detail on the Go FAIR website.22  
+
+### What data should be preserved and shared  
+
+Sufficient data and supporting information to enable verification or reproduction of the research results and meaningful re-use should be preserved. Documentation should include details of the methods and instruments used to collect and process the data, and interpretive metadata, which may be in the form of a data dictionary or codebook.  
+
+While there may be legitimate legal and ethical reasons why some data cannot be shared, these can often be addressed by redaction of a dataset, for example to remove personal data, and/or by depositing data in a repository that provides access to data on a controlled basis (for example, subject to authorisation and under a data access agreement). Most data collected from participants can be preserved and shared on some basis. Researchers must inform participants of the intention to share data, either openly or under safeguards, during recruitment. Failure to do this is poor research practice.  
+
+Sharing of data obtained from and about Indigenous Peoples should respect Indigenous Peoples' rights and interests in their data and should be undertaken in accordance with the CARE Principles for Indigenous Data Governance.23  
+
+Some areas of research, for example computational modelling, can generate large volumes of synthetic data. In such cases it may be more important - and more viable - to preserve the reproducibility of a method rather than a specific set of outputs, which might have little long-term value and be prohibitively expensive to maintain. It may be sufficient to preserve the code used to execute a model along with information about the input data used and the computing environment in which the model was run.  
+
+Guidance on preserving and providing access to restricted and high-volume data is provided in the research data management website.24  
+
+### When data should be shared  
+
+Researchers are entitled to a limited period of privileged use of the data they have collected to enable them to publish the results of their research. Once the research findings are placed on public record, the evidence to support those findings must be made accessible unless a justifiable exemption applies.  
+
+The University provides assistance with the protection of intellectual property.25  
+
+### Use of data repositories  
+
+A data repository is a service that exists to preserve and provide access to research data. It supports the long-term management of and access to data in accordance with the FAIR Data Principles. Among other things a repository will:  
+
+apply data and metadata standards to support interoperability and re-use;   
+publish machine-readable metadata about a dataset to enable online discovery;   
+assign a persistent unique identifier, such as a DOI, to a dataset to make it citable and discoverable;   
+publish licence information to facilitate re-use.  
+
+A data repository should be the preferred solution for data preservation and sharing. Sharing of raw data as supplementary information alongside the article on the publisher’s website should be avoided. It is not acceptable to retain data in closed storage, to be made available on request, except where there is a well-founded legal, ethical, commercial or practical reason for doing so.  
+
+Most data collected from research participants can be deposited in a data repository either as anonymised open data, or, in the case of higher risk anonymised or identifiable data, by using a data repository that can hold and provide access to datasets under a controlled access procedure. For example, the UK Data Service can hold safeguarded data, and the University’s Research Data Archive can manage restricted datasets.  
+
+Data centres and repositories serving disciplinary communities and catering to specialised types of research data should be used where they are available and suitable. Requirements or preferences of funders should be taken into account when considering the most suitable place of deposit for research data. The University of Reading Research Data Archive can be used in most cases in the absence of a suitable external service.  
+
+The research data management website provides guidance on where to archive data26   
+and on depositing data in the University’s Research Data Archive.27  
+
+### Formats and standards  
+
+If data have been stored in a proprietary format, researchers should convert the data into an open or widely-accessible file format for preservation purposes. The research data management website provides guidance on preparing data for archiving.28  
+
+Standards are community-defined sets of requirements, specifications, or guidelines that can be used to encode, structure and describe data. Examples of standards are:  
+
+data models and associated formats for encoding specific types of data, e.g. the Network Common Data Form (NetCDF) standard for the numerical representation of scientific data, widely used in climate modelling, and the Brain Imaging Data Structure (BIDS) standard for organising neuroimaging and behavioural data; metadata standards for the structured description of data objects;29   
+controlled vocabularies;   
+persistent identifiers for entities, such as DOIs and ORCIDs.  
+
+Standards are essential to the machine-actionability of data and metadata, and support discovery, access, interoperability and re-use in accordance with the FAIR Principles. Repositories may require submission of data and metadata in conformity with specified standards.  
+
+### Rights and licensing  
+
+The University does not prescribe the use of a specific licence, but recommends the Creative Commons Attribution (CC BY) licence or one with similar permissions for open data. An Open Source licence such as Apache or GNU GPL can be used to share software code. Where there is a need to restrict permissions, standard licences should be used where possible. The Creative Commons suite of licences includes versions with non-commercial, no derivatives and share alike terms.  
+
+The research data management website provides guidance on licensing data30 and on publishing and licensing software code.31  
+
+### Data availability statement and data citation  
+
+The research data management website provides guidance on data availability statements and data citation.32  
+
+The inclusion of a data availability statement in a publication is a requirement of the UKRI Open Access Policy.33  
+
+### Preservation term  
+
+Most data repositories undertake to hold datasets indefinitely. A minimum retention or preservation period may be specified in the repository’s policy.  
+
+The University’s Research Data Archive guarantees a minimum retention term of ten years, but is committed to the long-term preservation of research data. A dataset would only ordinarily be in scope for deletion if it had not been accessed for ten years. Datasets may be removed for other reasons, for example, if they are found to be in breach of the law or the rights of other parties. If a dataset is withdrawn from a repository, a ‘tombstone’ metadata record will be retained to preserve a citable record of the dataset.  
+
+### Disposal of data  
+
+IMPS provides guidelines for the retention and disposal of records.34  
+
+## Intellectual Property Rights  
+
+Further information is provided in the Code of Practice on Intellectual Property.35  
+
+Researchers who leave the University should ensure that any data belonging to the University are handed over to an appropriate data steward, such as their line manager, or, in default of any other person, the Head of School.  
+
+## Support for research data management  
+
+The Research Data Service promotes good research data management practice through the provision of information, support and training; supports data management planning for research funding applications; manages the University’s data repository, the Research Data Archive; and monitors and supports compliance with this policy.  
+
+The Research Data Manager works with the Committee on Open Research and Research Integrity, the Committee for Research Infrastructure, relevant professional services and members of the research community to ensure that research data management is integrated into University policy and infrastructure.  
+
+# Glossary  
+
+Data repository: a service that provides long-term preservation of and access to research data in accordance with the FAIR Data Principles. Among other things a repository will:  
+
+apply data and metadata standards to support interoperability and re-use;   
+publish machine-readable metadata about a dataset to enable online discovery;   
+assign a persistent unique identifier, such as a DOI, to a dataset to make it citable;   
+publish licence information to facilitate re-use.  
+
+Data repositories may serve defined disciplinary research communities or members of a research-performing organisation or operate as public data sharing services.  
+
+FAIR Data Principles: a widely-accepted set of principles for the management of research data in ways that facilitate discovery, access and re-use. FAIR stands for Findable, Accessible, Interoperable and Re-usable.36  
+
+Principal Investigator: The individual at the University with overall responsibility for the conduct of a research project. Doctoral supervisors are included under this definition.  
+
+Research data: the information collected or created, processed and studied for the purpose of answering a research question, and which constitute the evidential basis that substantiates research findings. They may be primary data generated or collected by the researcher or existing sources consulted and processed as part of the research activity. Research data may be digital or non-digital, and may include, but are not limited to: results of experiments or simulations, statistics and measurements, computational models, software and code, fieldwork observations, survey results, interview recordings and transcripts, images from cameras and scientific equipment, databases, textual or linguistic corpora, lab books, and physical objects, such as samples and specimens.  
+
+Research data management (or RDM): the sum of activities undertaken by researchers and research organisations in relation to the collection, processing, preservation, sharing and disposal of research data.  
+
+Researcher: anyone undertaking research or involved in collecting research data for or on behalf of the University, which includes but is not limited to research staff, research students and visiting researchers.  

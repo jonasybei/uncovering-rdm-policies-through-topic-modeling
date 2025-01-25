@@ -1,10 +1,12 @@
 # University of Westminster Research Data Management Policy  
 
-# Version Record  
+## Version Record  
 
-<html><body><table><tr><td>VersionNumber</td><td>2</td></tr><tr><td>Preparedby</td><td>HollyRanger(ResearchDataManagementOfficer)</td></tr><tr><td>Datewritten</td><td>April 2022</td></tr><tr><td>Reviewedby</td><td>Research &Knowledge Exchange Steering Committee</td></tr><tr><td>Approvedby</td><td>AcademicCouncil</td></tr><tr><td>Dateeffective</td><td>December2022</td></tr><tr><td>Reviewdate</td><td>December2025</td></tr></table></body></html>  
+<html><body><table><tr><td>VersionNumber</td><td>2</td></tr><tr><td>Prepared by</td><td>HollyRanger(ResearchData Management Officer)</td></tr><tr><td>Datewritten</td><td>April2022</td></tr><tr><td>Reviewed by</td><td>Research&KnowledgeExchangeSteeringCommittee</td></tr><tr><td>Approved by</td><td></td></tr><tr><td>Dateeffective</td><td>December2025</td></tr><tr><td>Reviewdate</td><td></td></tr></table></body></html>  
 
-# Accessibility  
+<html><body><table><tr><td>Version Number</td><td>Date</td><td>Author</td><td>Approved by</td><td>Detailsofchanges</td></tr><tr><td>2</td><td>April 2022</td><td>Holly Ranger</td><td>Academic Council, December 2022</td><td>Additions: list of key expectationsfor researchers; clauses on research related records, research data ownership,retention,thepreservationofwebsites createdinthecourseofresearch,metadatarecords and Data Access Statements; cultural and political sensitivities included as valid exceptions to open data;</td></tr><tr><td>1</td><td>May2017</td><td>Jenny Evans</td><td>Academic Council, June2017</td><td>glossaryofterms.</td></tr></table></body></html>  
+
+## Accessibility  
 
 We are committed to ensuring our websites and content are digitally accessible according to the Public Sector Bodies Accessibility Regulations (2018). This policy is published on our website and can be requested in a range of formats, e.g., Word, PDF, plain text, and alternative formats such as large print or Braille. If you would like to request this document in a different format you can contact us for support by email at digitalaccessibility@westminster.ac.uk.  
 
@@ -16,7 +18,7 @@ To implement this policy, users are asked to access other digital information or
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.  
 
-# Contents  
+## Contents  
 
 1. Introduction   
 2. Purpose   
@@ -28,7 +30,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 Appendix A: Glossary Appendix B: Relevant internal policies, codes of practice, and frameworks  
 
-# 1. Introduction  
+### 1. Introduction  
 
 The University of Westminster recognises that the good management of research data throughout the research lifecycle improves the transparency, integrity, reproducibility, and reach of scholarly research. Good research data management underpins the University’s strategic commitment to open research, which, in turn, is a key driver in achieving the UN’s Sustainable Development Goals’ call for public access to information for all (Goal 16, Target 10). The University’s Code of Research Good Practice formalises the importance of best practice in the management of research data and research related records to the University’s commitment to supporting “a research environment that is underpinned by a culture of integrity”.1 The University of Westminster’s Digital Strategy commits to ensuring that safe, secure, and compliant systems and processes exist for the collection, storage, sharing, and preservation of research data.  
 
@@ -37,12 +39,16 @@ In parallel, research funders and sponsors have clear policies relating to resea
 Managing research data effectively:  
 
 increases the visibility and integrity of scholarly research;   
-• maximises the utility and reusability of research data;   
-• maximises the potential for collaboration; mitigates against the risk of accidental loss of research data; mitigates against the accidental or inappropriate release of personal data and sensitive information; ensures the long-term preservation of and access to research datasets; enables research data to be shared as a public good.  
+maximises the utility and reusability of research data;   
+maximises the potential for collaboration;   
+mitigates against the risk of accidental loss of research data;   
+mitigates against the accidental or inappropriate release of personal data and sensitive information;   
+ensures the long-term preservation of and access to research datasets;   
+enables research data to be shared as a public good.  
 
 This policy outlines the obligations of and key expectations for researchers and the institution in relation to the management and preservation of research data and research related records created at the University of Westminster. This policy clarifies the responsibilities of both individual researchers and the institution in relation to good research data management and support.  
 
-# 2. Purpose  
+### 2. Purpose  
 
 The aims of this policy are to:  
 
@@ -52,13 +58,13 @@ The aims of this policy are to:
 3. to support and encourage data leadership across the University, in line with the University of Westminster’s Digital Strategy;   
 4. to highlight that responsibility for research data management falls within the remit of a range of stakeholders across the institution who must work together to build a cohesive support service that puts researchers at its centre.  
 
-# 3. Scope  
+### 3. Scope  
 
 This policy covers the management, retention, and preservation of all research data and research related records created, collected, or re-used at the University of Westminster, including the documentation of practice based research. This policy applies to all University colleagues and doctoral researchers who conduct research. This policy does not apply to taught course students; however, taught course students are encouraged to adopt best practice in research data management.  
 
 This policy does not cover records created in the course of the University of Westminster’s business, which are covered by the University Records Management Policy, the University Records and Archives Collection & Acquisition Policy, and the University Records and Archives Digital Preservation Policy. This policy should be read in conjunction with relevant copyright, data protection, and FOI legislation as well as relevant institutional policies, such as those relating to information security, research ethics and integrity, intellectual property and use, the Human Tissue Act, and Security Sensitive Research. Relevant institutional policies and codes of practice are listed in Appendix B.  
 
-# 4. Institutional responsibilities  
+### 4. Institutional responsibilities  
 
 4.1 It is recognised that institutional responsibility for research data management (RDM) falls within the remit of a range of stakeholders across the institution, including but not limited to Information Systems and Support, Library & Archives Services, and the Research and Knowledge Exchange Office.  
 
@@ -77,7 +83,7 @@ This policy does not cover records created in the course of the University of We
 
 4.5 The University will maintain an associated RDM Roadmap to identify priorities and associated milestones for the ongoing development and implementation of the RDM service.  
 
-# 5. Researcher responsibilities  
+### 5. Researcher responsibilities  
 
 5.1 Researchers are responsible for familiarising themselves and complying with the relevant RDM, record-keeping, open data, and retention requirements of research funders, sponsors, publishers, and other relevant external stakeholders, as well as the relevant legal, ethical, and regulatory frameworks governing the processing of personal data and sensitive research data.  
 
@@ -91,7 +97,7 @@ This policy does not cover records created in the course of the University of We
 
 5.6 Researchers are responsible for making appropriate appraisal decisions in relation to the retention, transference of ownership, or destruction of research data held in the University’s storage environments if/ when they leave the University, as per the HR Leavers Checklist. Responsibility for curatorial decisions thereafter (such as those relating to the deletion or migration of data) lies with the line manager or Director of Studies (in the case of doctoral researchers). Ultimate responsibility lies with the Head of School.  
 
-# 6. Key expectations  
+### 6. Key expectations  
 
 6.1 Researchers must complete a data management plan (DMP) for all research projects where a research funder or sponsor requires a DMP. All research would benefit from research data management planning, and researchers are strongly encouraged to complete a DMP before the commencement of any research activity.  
 
@@ -115,20 +121,20 @@ This policy does not cover records created in the course of the University of We
 
 6.11 Researchers should establish an appropriate date (x-years post-project) at which to review preserved research data for further retention or destruction.  
 
-# 7. Policy implementation and review  
+### 7. Policy implementation and review  
 
 This policy updates the University of Westminster Research Data Management Policy 2017.  
 
 This policy was written in April 2022 and was approved by Academic Council on 07/12/2022 after consultation with the following committees and working groups:  
 
 Research Data Management Working Group (April 2022)   
-• Graduate School Board (May 2022)   
-• University Research & Knowledge Exchange Ethics Committee (June 2022)   
-• Research Committee (June 2022) Research & Knowledge Exchange Steering Committee (September 2022).  
+Graduate School Board (May 2022)   
+University Research & Knowledge Exchange Ethics Committee (June 2022) Research Committee (June 2022)   
+Research & Knowledge Exchange Steering Committee (September 2022).  
 
 This policy comes into effect 08/12/2022. This policy should be reviewed in 2025.  
 
-# Appendix A: Glossary  
+## Appendix A: Glossary  
 
 A Data Access Statement, or Data Availability Statement, is a statement appended to a research publication that describes where the underlying research materials associated with a paper are available, and how they can be accessed, including any restrictions on access and reuse.  
 

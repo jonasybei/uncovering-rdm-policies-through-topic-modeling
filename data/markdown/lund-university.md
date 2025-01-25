@@ -1,8 +1,14 @@
-# Guidelines concerning research data storage at the Faculties of Humanities and Theology  
+# Lund univeRsiTy  
+
+Joint Faculties of Humanities and Theology  
+
+Working committee of the Faculty Board  
+
+## Guidelines concerning research data storage at the Faculties of Humanities and Theology  
 
 Lund University is a public authority and is therefore obliged to preserve, organise and maintain all public documents from the University’s activities (Swedish Archives Act 1990:782, section 3). As documents resulting from research at the Faculties of Humanities and Theology are increasingly digital, it is of the utmost importance to establish procedures to ensure that the data will remain available in a way that corresponds to the current paper documents.  
 
-The long-term goal of introducing these new procedures is to pr  
+The long-term goal of introducing these new procedures is to promote:  
 
 open research   
 good research practice and good data management in the research process good regulatory compliance   
@@ -16,9 +22,13 @@ When the term “researcher” is used below, it refers all research staff, rega
 
 The short-term goal of introducing these procedures is to clarify the organisation’s requirements and expectations of researchers, and to:  
 
-support researchers in their data management by providing storage space for research data during and after the project period   
-ensure that the faculty’s research data can always be found, without help from the researcher   
-prepare for the possibility of somewhat automatically transferring data and metadata to a planned e-archive at Lund University, without requiring each researcher to participate in the process  
+support researchers in their data management by providing storage space   
+for research data during and after the project period   
+ensure that the faculty’s research data can always be found, without help   
+from the researcher   
+prepare for the possibility of somewhat automatically transferring data and   
+metadata to a planned e-archive at Lund University, without requiring each   
+researcher to participate in the process  
 
 In addition to having a clearly identified location for research project data3, we need to be able to distinguish between active data and archived data. We also need to organise the data in a structured manner. Long-term preservation must take place in open file formats that make the data accessible even in the long term.  
 
@@ -29,18 +39,19 @@ Bear in mind that there are other requirements that apply to research data, in a
 By following the research data storage procedures below, we also:  
 
 satisfy the Swedish Archives Act’s requirement to preserve and keep research documents organised   
-• are able to link research projects in LUCRIS to their research data   
-• enable secure storage during the project period and prepare for e-archiving ensure that research data remains at LU, even after the researcher’s employment has terminated enable responding, if necessary, to suspicions of research misconduct by being able to produce evidence in the form of preserved research data facilitate the creation of well-organised data sets that can easily be cited, shared and re-used by the researcher or others to answer new research questions, if needed.  
+are able to link research projects in LUCRIS to their research data   
+enable secure storage during the project period and prepare for e-archiving ensure that research data remains at LU, even after the researcher’s employment has terminated   
+enable responding, if necessary, to suspicions of research misconduct by being able to produce evidence in the form of preserved research data facilitate the creation of well-organised data sets that can easily be cited, shared and re-used by the researcher or others to answer new research questions, if needed.  
 
-# Research data storage procedures at the Faculties of Humanities and Theology  
+### Research data storage procedures at the Faculties of Humanities and Theology  
 
 The procedures apply to all researchers working at the Faculties of Humanities and Theology and to all research projects that have their main residence at one of the faculty organisations. In brief, this means that the research data during the project period should, and at the end of the project must:  
 
-• be stored in a project folder associated with the applicable storage solution • be organised according to the standard structure   
-• contain metadata about the project and its data   
-• contain the necessary documentation   
-• be stored in open file format   
-• be given file names that facilitate understanding of the content   
+be stored in a project folder associated with the applicable storage solution be organised according to the standard structure   
+contain metadata about the project and its data   
+contain the necessary documentation   
+be stored in open file format   
+be given file names that facilitate understanding of the content   
 be disposed of5, if possible, at the end of the retention period.  
 
 The research project manager in charge is also responsible for ensuring that the project’s research data is stored securely throughout the project period and that the right people have access to the project data. You must also ensure that the necessary decisions on disposal/preservation are taken no later than at the end of the project (see below).  
@@ -53,9 +64,9 @@ This ensures secure storage of data during the project period. If another storag
 
 The project folder shall contain the following four main subfolders:  
 
-• Administration • Method   
-• Data   
-• Research output  
+Administration Method   
+Data   
+Research output  
 
 Only research documents that are not suitable for LUCRIS may be added to the Research output folder.  
 
@@ -89,6 +100,6 @@ Data eligible for disposal are automatically disposed of at the end of the reten
 
 After assessing the preservation value, which is done in consultation between researchers and the head of department (see above), the IT unit transfers the documents deemed disposable after the retention period by the head of department to the corresponding folder at the intermediate archive of the Faculties of Humanities and Theology. The documents will automatically be disposed of at the end of the retention period. The documents that are to be preserved remain in the project folder, which is then transferred in its entirety to the storage solution for archived material.  
 
-# Further information in related instructions  
+#### Further information in related instructions  
 
 For more detailed instructions on how to apply these procedures in practice, for example, which files to store and which file formats are approved, see the Instructions for research data storage at the Faculties of Humanities and Theology (“Anvisningar för forskningsdatalagring vid HT-fakulteterna”). The research support offered by the faculty libraries, in collaboration with the IT unit, also includes support with regard to research data storage and the procedures laid down in the present guidelines.  

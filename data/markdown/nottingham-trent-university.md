@@ -1,8 +1,10 @@
-<html><body><table><tr><td>Title:</td><td>RESEARCHDATAMANAGEMENTPOLICY</td></tr><tr><td>ApprovedBy:</td><td>SENIORMANAGEMENTTEAM</td></tr><tr><td>ApprovedOn:</td><td>30/06/2014</td></tr></table></body></html>  
+# NTU POLICY  
+
+<html><body><table><tr><td>Title:</td><td>RESEARCHDATAMANAGEMENTPOLICY</td></tr><tr><td>Approved By:</td><td>SENIORMANAGEMENTTEAM</td></tr><tr><td>Approved On:</td><td>30/06/2014</td></tr></table></body></html>  
 
 SECTION 1: DEFINITIONSSECTION 2: IMPLEMENTATION TIMELINESSECTION 3: UNIVERSITY POLICYSECTION 4: OTHER RELEVANT POLICIESSECTION 5: DOCUMENT GOVERNANCE  
 
-# 1. DEFINITIONS  
+## 1. DEFINITIONS  
 
 In this Policy, unless otherwise indicated:  
 
@@ -10,15 +12,17 @@ In this Policy, unless otherwise indicated:
 
 1.2. “Researcher” means any person undertaking research or involved in collecting, generating or creating Research Data, for or on behalf of NTU which shall include but not be limited to employees, workers, visiting researchers, postgraduate research students and the PI.  
 
-” means information in digital, computer-readable forma  
+1.3. “Research Data” means information in digital, computer-readable format or paper-based that:  
 
-1.3.1. is contained or presented in various ways including notes, facts, figures, tables, images (still and moving), audio or visual recordings; and   
-1.3.2. is collected, generated or obtained during the course of or as a result of undertaking research (which includes but is not limited to conducting field or laboratory experiments, conducting trials, surveys, interviews, focus groups or analysis of data); and   
+1.3.1. is contained or presented in various ways including notes, facts, figures, tables, images (still and moving), audio or visual recordings; and  
+
+1.3.2. is collected, generated or obtained during the course of or as a result of undertaking research (which includes but is not limited to conducting field or laboratory experiments, conducting trials, surveys, interviews, focus groups or analysis of data); and  
+
 1.3.3. is subsequently used by the Researcher as a basis for making calculations or drawing conclusions to develop, support or revise theories, practices and findings.  
 
 1.4. “Repository” means the repository or repositories which NTU owns or controls and makes available to Researchers for the storage of Research Data.  
 
-ns methods, tools, software and devices to access the s  
+1.5. “Access” means methods, tools, software and devices to access the stored Research Data.  
 
 # 2 IMPLEMENTATION TIMELINES  
 
@@ -26,8 +30,7 @@ The Senior Management Team and University Research Committee of NTU have approve
 
 # 3 UNIVERSITY POLICY  
 
-3.1 Research data will be managed to the highest standards throughout the research data lifecycle as part of the NTU’s commitment to research excellence.  
-
+3.1 Research data will be managed to the highest standards throughout the research data lifecycle as part of the NTU’s commitment to research excellence.   
 3.2 Responsibility for research data management through a sound research data management plan during any research project or programme lies primarily with the Principal Investigators (PIs).  
 
 3.3 All new research proposals, from 30 June 2014, must include research data management plans or protocols that explicitly address data capture, management, integrity, confidentiality, retention, access, sharing and publication.  
@@ -52,7 +55,9 @@ The Senior Management Team and University Research Committee of NTU have approve
 
 3.8 Principal Investigators are responsible for deciding, subject to legal, ethical and commercial constraints, which Research Data are to be released to meet their obligations. Research Data shall be released for access and re-use as soon as practicable after research activity is completed and results published.  
 
-3.10  Research Data of future historical interest, and all Research Data that represent records of NTU, including data that substantiate research findings, will be offered and assessed for deposit and retention in an appropriate national or international data service or domain repository, or an NTU repository.  
+3.9 The privacy and other legitimate interests of the subjects of Research Data must be protected.  
+
+3.10 Research Data of future historical interest, and all Research Data that represent records of NTU, including data that substantiate research findings, will be offered and assessed for deposit and retention in an appropriate national or international data service or domain repository, or an NTU repository.  
 
 3.11 As a basic principle NTU should retain the right to use its Research Data and outputs for its own teaching and non-commercial research purposes.  Exclusive rights to reuse or publish Research Data should not be granted to commercial publishers or agents without retaining the rights to make the data openly available for re-use. Where the granting of such exclusive rights is a requirement of the funder, advice should be sought from NTU’S Legal Services Team to ensure that NTU can comply with its obligations under charity law.  
 
@@ -70,8 +75,8 @@ Policy Owner Pro-Vice Chancellor for Research
 
 5.2 Version Control and Change History  
 
-<html><body><table><tr><td>Version</td><td>ApprovalDate</td><td>ApprovedBy</td><td>Amendment</td></tr><tr><td>1.0</td><td>30/06/2014</td><td>SeniorManagementTeam</td><td>NewPolicy</td></tr><tr><td>1.1</td><td>26/03/2015</td><td>University Research Committee</td><td>3.3.Additionofdateof adoption. 4. "Research Ethics Policy" updated to “Code ofPracticeforResearch" 5.3. Text updated.</td></tr></table></body></html>  
+<html><body><table><tr><td>Version</td><td>ApprovalDate</td><td>Approved By</td><td>Amendment</td></tr><tr><td>1.0</td><td>30/06/2014 26/03/2015</td><td>SeniorManagement tTeam University</td><td>NewPolicy</td></tr><tr><td>1.1</td><td></td><td>ResearchCommittee</td><td>3.3.Additionofdateof adoption. 4. "ResearchEthics Policy” updated to “Code of Practice for Research" 5.3. Text updated.</td></tr></table></body></html>  
 
-# 5.3 Document Review  
+## 5.3 Document Review  
 
 This policy will be reviewed annually by the University Research Committee in response to statutory changes, changes in NTU procedures or structures, or as a result of monitoring the application of the Policy.  

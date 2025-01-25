@@ -4,7 +4,7 @@ Last updated: 11th February 2021
 
 The purpose of this policy framework is to provide guidance to research staff and students as to how they should manage and share the research data they produce in order to maximise the potential for research produced by the University of Cambridge in support of the University’s core values and missions. This policy framework is intended for researchers, research students and anyone who supports research at the University of Cambridge.  
 
-# Background  
+## Background  
 
 1. The University of Cambridge is committed to disseminating its research and scholarship as widely as possible. In keeping with that commitment, it supports the principle that the results of its research should be freely accessible where possible and where appropriate, and therefore supports its staff and students in making their research data available ‘as open as possible and as closed as necessary’, as articulated in the University’s Open Research Position Statement.   
 2. University staff and students are responsible for managing and curating their research data in accordance with the University Open Research Position Statement, the  policies of their research funders, the University’s Research Policies, the University’s Research Integrity and Ethics guidelines, the University’s Statement of Records Management Practice and Retention Schedule and Chapter XIII of the University’s Statutes and Ordinances on Finance and Property, subsection Intellectual Property Rights. Key aspects of these documents are incorporated into this policy framework.   
@@ -23,7 +23,7 @@ Data Management Plan – a plan that outlines how data will be managed from the 
 
 Metadata – information that describes significant aspects of a dataset. For example, this may include authors, title, date of publication, unique identifier, a description of what the dataset contains and licence. This provides other researchers with the information needed to understand and reuse the dataset as well as making the dataset more findable  
 
-# Principles  
+## Principles  
 
 5. Reproducibility of research is a central tenet of the University and all researchers are expected to conduct their work in a rigorous manner.   
 6. The University recognises the importance of the long-term availability, with as few restrictions as possible, and long-term preservation of all research outputs including research data.   
@@ -34,7 +34,7 @@ Metadata – information that describes significant aspects of a dataset. For ex
 11. This policy framework applies to all research conducted by University staff and research students.   
 12. The University supports the Concordat on Open Data and works in line with the FAIR principles. It is working towards embedding these across the institution.  
 
-# The University is responsible for:  
+### The University is responsible for:  
 
 13. Disseminating information amongst its academics about the requirements under this policy framework and under policies of the University’s funders in relation to research data. Schools, Departments and Faculties are expected to be proactive in disseminating these requirements within their communities and encouraging and facilitating compliance.   
 14. Developing and supporting infrastructure and services that enable good research data management to be practised across the institution.  This includes, but is not limited to, infrastructure such as active data storage options, the University Apollo repository, the research information system, and services such as the Office of Scholarly Communication, Cambridge University Libraries, University Information Services, Research Office and Cambridge Enterprise.   
@@ -42,7 +42,7 @@ Metadata – information that describes significant aspects of a dataset. For ex
 16. Managing a website providing guidance for the University’s academics in good data management practice, including the use of electronic lab notebooks.   
 17. Providing advice and guidance on issues connected with good data management, such as data protection, research integrity, research ethics and Intellectual Property rights.  
 
-# University Research Staff and Students are responsible for:  
+### University Research Staff and Students are responsible for:  
 
 PLANNING  
 
@@ -54,15 +54,13 @@ PLANNING
 23. Depositing their final Data Management Plans into an appropriate repository (discipline-based or institutional).   
 24. In collaborative projects, agreeing on IP and data ownership matters from the outset and ensuring these are made in alignment of institutional agreements, with legal advice where appropriate.  
 
-# ACTIVE DATA MANAGEMENT  
+## ACTIVE DATA MANAGEMENT  
 
 25. Abiding by any legal and ethical constraints pertaining to how data is stored, shared and retained.   
 26. Storing their data in an appropriate location, with at least two back-ups.   
 27. Ensuring the proper management of physical data/samples as well as digital data in line with local rules, funder and government requirements.   
 28. Ensuring that proper data citation guidelines are followed when reusing or referencing datasets.   
 29. Ensuring that wherever it is an eligible cost, appropriate funds must be fully costed onto research applications to meet all data management requirements, including the cost of archiving and sharing data.  
-
-SHARING AND ARCHIVING DATA  
 
 30. Making their research data underpinning published research findings as widely and openly available as possible, ideally by depositing research data in appropriate repositories (discipline-based or institutional). Such data should be assigned persistent Uniform Resource Identifiers (URIs), such as Digital Object Identifiers (DOIs) to increase its findability in accordance with the FAIR principles.  
 
@@ -80,10 +78,10 @@ SHARING AND ARCHIVING DATA
 
 Advice, guidance and training to meet the expectations set out in this framework are available through the University’s Research Data Service and with the support of local Research Data Champions in faculties and departments.  
 
-# References:  
+## References:  
 
 1. Definition taken from UK Concordat on Open Data https://www.ukri.org/files/legacy/documents/concordatonopenresearchdata-...  
 
 2. Definition taken from Cambridge University Libraries Digital Preservation Policy https://doi.org/10.17863/CAM.32927  
 
-<html><body><table><tr><td>Policy version</td><td>3</td></tr><tr><td>Date of policy review</td><td>11th February 2021</td></tr><tr><td>Name of reviewer</td><td>Dominic Dixon, Research Librarian, Office of Scholarly Communication</td></tr><tr><td>Original policy</td><td></td></tr><tr><td>creation date Name of creator</td><td>23rd April 2015 Open Access Project Board (OAPB), approved by Research Policy</td></tr><tr><td></td><td>Committee. From June 2019, the 'creator' is the successor body to OAPB, the Open Research Steering Committee</td></tr><tr><td>Date for next review</td><td>11th February 2022</td></tr><tr><td>Frequency of reviews</td><td>Annually</td></tr><tr><td>Review is the responsibility of</td><td>Head of Research Services and STEMM Libraries</td></tr><tr><td>Location of policy</td><td>https://doi.org/10.17863/CAM.10528</td></tr></table></body></html>  
+<html><body><table><tr><td>Policy version</td><td>3</td></tr><tr><td>Date of policy review</td><td>11th February 2021</td></tr><tr><td>Name of reviewer</td><td>Dominic Dixon, Research Librarian, Office of Scholarly Communication</td></tr><tr><td>Original policy</td><td></td></tr><tr><td>creation date Name of creator</td><td>23rd April 2015</td></tr><tr><td></td><td>Open Access Project Board (OAPB), approved by Research Policy Committee. From June 2019, the 'creator' is the successor body to OAPB, the Open Research Steering Committee</td></tr><tr><td>Date for next</td><td>11th February 2022</td></tr><tr><td>review Frequency of</td><td></td></tr><tr><td>reviews</td><td>Annually</td></tr><tr><td>Review is the responsibility of</td><td>Head of Research Services and STEMM Libraries</td></tr><tr><td>Location of policy</td><td>https://doi.0rg/10.17863/CAM.10528</td></tr></table></body></html>  

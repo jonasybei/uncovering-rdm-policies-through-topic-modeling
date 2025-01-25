@@ -1,10 +1,12 @@
+ETH Zentrum CHN E 55-1 Universitätstrasse 16 8092 Zürich Tel. +41 44 632 8581 www.gdc.ethz.ch  
+
 # Research Data Management Policy  
 
 This policy lists rules and regulations designed to govern the operation of the Research Data Management on the compute server and the Euler cluster provided by the Genetic Diversity Centre (GDC).  
 
 The GDC provides its users with a computational environment to collect, analyze, and store research data created in collaboration with the GDC or externally produced data. It also provides archiving solutions for completed projects. The GDC will provide support, training, advice and where appropriate guidelines and templates in all aspects of data management to ensure data integrity and user satisfaction. For more details about the different options and services provided by the GDC contact Aria Minder (aria.minder@env.ethz.ch).  
 
-# Requirements  
+## Requirements  
 
 All data managed on the GDC servers must be directly associated to at least one project listed in the GDC project database. Research data not produced at the GDC can be transferred, stored and analyzed on the GDC server if it is related to an active project. Please note that data transfer over 1TB requires the prior approval from the GDC, and a data integrity test after the transfer is strongly suggested.  
 
@@ -26,6 +28,8 @@ The project leader is solely responsible for the project data. The GDC does its 
 
 All users with access to the GDC server have to follow the data protection principles. They must make sure the system is kept safe and secure by  
 
-• reading the "Introduction to the GDC computational environment" not sharing login name or password sharing data only via group folder  
+reading the "Introduction to the GDC computational environment"   
+not sharing login name or password   
+sharing data only via group folder  
 
 This policy for managing research data was approved by the board of directors on Wednesday 20 May, 2015.  

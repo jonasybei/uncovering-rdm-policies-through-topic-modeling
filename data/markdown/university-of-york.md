@@ -1,6 +1,6 @@
 # Research Data Management Policy  
 
-# 1. Statement of intent  
+## 1. Statement of intent  
 
 1.1 The University of York recognises research data as a valuable institutional asset, and the role of good research data management in underpinning University strategic development, essential functions and research integrity.  
 
@@ -10,33 +10,32 @@ Good practice in research data management enables the University and its researc
 
 1.3 The University is committed to the values, principles and culture of open research, as set out in the Open Research Statement. This includes open access to research data, wherever this is appropriate, ensuring that a wide range of audiences can freely discover, engage and reuse its world-class research.  
 
-# 2. Purpose of policy  
+## 2. Purpose of policy  
 
 2.1 This policy is intended to help promote good practice in research data management, to foster responsibility for data management, and to ensure the sharing of eligible research data with as few restrictions as possible, while at the same time respecting concerns in relation to privacy, safety, security and commercial interests.  
 
 2.2 A particular aim is that research data is:  
 
-● stored in a secure and safe manner;   
-● identifiable, retrievable and available when needed (and as appropriate);   
-● an accurate, complete, reliable and coherent representation of the materials used/collected; kept in a manner that is compliant with legal and ethical obligations, University policy and, where applicable, the requirements of funding bodies;   
+stored in a secure and safe manner;   
+identifiable, retrievable and available when needed (and as appropriate);   
+an accurate, complete, reliable and coherent representation of the materials used/collected; kept in a manner that is compliant with legal and ethical obligations, University policy and, where applicable, the requirements of funding bodies;   
 able to be made available to others in line with appropriate ethical, data sharing, FAIR (Findable, Accessible, Interoperable, and Reusable) and open access principles.  
 
 2.3 The deliberate or reckless mismanagement of research data and/or primary materials constitutes unacceptable research conduct and should be reported in line with the University Research Misconduct Policy and Procedure or the Speak Up (public interest disclosure) Policy and Procedure.  
 
-# 3. Definitions  
+## 3. Definitions  
 
 3.1 For the purpose of this policy, the following terms may be defined as:  
 
-● Research data: the recorded information (regardless of the form or the media in which it may exist) necessary to support or validate a research project’s observations, findings or outputs.   
-● Researcher: a member of the University, including staff and postgraduate researchers, or a person affiliated with the University, including visitors and collaborators, who conducts research for, on behalf of, or in association with the University; on University premises; or using University facilities.  
+Research data: the recorded information (regardless of the form or the media in which it may exist) necessary to support or validate a research project’s observations, findings or outputs. Researcher: a member of the University, including staff and postgraduate researchers, or a person affiliated with the University, including visitors and collaborators, who conducts research for, on behalf of, or in association with the University; on University premises; or using University facilities.  
 
-# 4. Scope  
+## 4. Scope  
 
 4.1 This policy applies to all research conducted by University staff and postgraduate researchers, and those who are conducting research on behalf of the University.  
 
 4.2 The Policy does not apply to taught postgraduate and undergraduate students, except in exceptional circumstances, including but not limited to, where research findings are included in published research outputs.  
 
-# 5. Researcher responsibilities  
+## 5. Researcher responsibilities  
 
 5.1 Principal Investigators and project leads have overall responsibility for effective data management during research projects. However, all researchers have a personal responsibility to effectively manage the research data generated within or obtained from their research, and must act in accordance with this policy.  
 
@@ -60,22 +59,21 @@ able to be made available to others in line with appropriate ethical, data shari
 
 5.11 Where research is undertaken by postgraduate researchers, it is the responsibility of the staff member supervising their project to ensure that the postgraduate researcher has a clear understanding of their research data management responsibilities and engages with training and development as necessary. Supervisors should work with the postgraduate researcher to determine which research data is selected for archiving and sharing and to decide an appropriate route to achieve this.  
 
-# 6. University responsibilities  
+## 6. University responsibilities  
 
 6.1 The University acknowledges its obligations under research funders’ data policies and codes of practice to ensure that sound systems are in place to promote and reinforce good practice in research data management.  
 
 6.2 The University will provide:  
 
-● researchers with access to training, support, advice and information on all aspects of research data management;  
+researchers with access to training, support, advice and information on all aspects of research data management;  
 
-access to services and facilities for the storage, backup, registration, deposit and discovery of research data that allow researchers to meet their requirements under this policy and those of the funders for their research;   
-● the necessary resources to enable the provision of these services, facilities and training.  
+access to services and facilities for the storage, backup, registration, deposit and discovery of research data that allow researchers to meet their requirements under this policy and those of the funders for their research; the necessary resources to enable the provision of these services, facilities and training.  
 
-# 7. Relationship with existing policies  
+## 7. Relationship with existing policies  
 
 7.1 As part of a commitment to research excellence, the University seeks to promote the highest standards in the management of research data throughout the research data lifecycle. As such, research data will be managed in accordance with this and with the University’s other policies and guidelines including:  
 
-Code of Practice and Principles for Good Ethical Governance   
+Code of Practice and Principles for Good Ethical Governanc   
 Code of Practice on Research Integrity   
 Data Protection Policy   
 Information and Records Management Policy   

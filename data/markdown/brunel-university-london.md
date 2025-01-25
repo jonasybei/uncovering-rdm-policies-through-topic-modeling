@@ -1,21 +1,30 @@
-# runel University Research Data Management Po  
+# Brunel University Research Data Management Policy  
 
 Researchers and the University have obligations to preserve, store and provide access to research outputs, including research data. Demonstrable good practice in research data management and a commitment to data sharing are increasingly required by funding organisations and research partners. There are also benefits for the University and individual researchers: increased research impact and profile; wider benefits for the research community and the public; advancement of knowledge; opportunities for growth.  
 
 The following policy supports the Brunel University Research Data Management Vision, which was approved by Senate in March 2012 and forms part of the University’s research integrity code of practice.  
 
-# Vision  
+## Vision  
 
 Research data management is the planning, capture, review, publication, storage, preservation and re-use of data produced by research, irrespective of format.  
 
-The University views effective research data management as an essential ingredient of a high quality research culture. It assumes that all data produced by University researchers will be made available to the wider academic community, except where the right of individual researchers, or the subjects of the research, would be compromised by such release. The University provides training, support, advice and information to support effective research data management. Research data management is a shared responsibility. Individual researchers, academic units and central departments work together to develop research data management plans and implement them throughout the research life cycle.   
-■ All research proposals include an integral research data management plan. The University actively supports the collection, storage, retention and cataloguing of all its research data (both raw and published) and promotes its re-use by other researchers where appropriate and with due safeguards. Research data management policies safeguard the interests of participants in the research, the researchers and the University by facilitating compliance with relevant legislation. All research data is stored securely and is registered with the University. Data is stored in the data centres of higher educational institutions or in subject-specific data services. All University policies, including those on Intellectual Property, Good Research Practice and the Procedures for Investigation of Research Misconduct, support good practice in research data management.  
+The University views effective research data management as an essential ingredient of a high quality research culture.   
+It assumes that all data produced by University researchers will be made available to the wider academic community, except where the right of individual researchers, or the subjects of the research, would be compromised by such release.   
+The University provides training, support, advice and information to support effective research data management.   
+Research data management is a shared responsibility. Individual researchers, academic units and central departments work together to develop research data management plans and implement them throughout the research life cycle.   
+All research proposals include an integral research data management plan.   
+The University actively supports the collection, storage, retention and cataloguing of all its research data (both raw and published) and promotes its re-use by other researchers where appropriate and with due safeguards.   
+Research data management policies safeguard the interests of participants in the research, the researchers and the University by facilitating compliance with relevant legislation.   
+All research data is stored securely and is registered with the University. Data is stored in the data centres of higher educational institutions or in subject-specific data services.   
+All University policies, including those on Intellectual Property, Good Research Practice and the Procedures for Investigation of Research Misconduct, support good practice in research data management.  
 
-http://www.brunel.ac.uk/services/library/research/rdm/rdm-visio  
+http://www.brunel.ac.uk/services/library/research/rdm/rdm-vision  
+
+This policy will continue to evolve in line with the changing research environment, in consultation with the research community.  
 
 # Policy  
 
-# Scope of applicability  
+## Scope of applicability  
 
 Research data is defined as the evidence base on which academic researchers build their analytic or other work (HEFCE, 2008).  
 
@@ -27,7 +36,7 @@ c. the individual staff member or student has formally published research output
 
 The terms of this policy will apply in this instance. Staff and students who are uncertain as to whether the policy applies to their situation can contact researchdata@brunel.ac.uk for guidance.  
 
-# Managing research data  
+## Managing research data  
 
 1. The University will manage research data in accordance with the University's policies, procedures and standards, and statutory and funder requirements.   
 2. Research data generated by academic staff, students on research degrees, and other staff and students where the research activity falls within the scope of this policy, should be managed in accordance with this policy.  (In this policy the term ‘researcher’ shall refer to all these groups of staff and students.)   
@@ -36,22 +45,11 @@ The terms of this policy will apply in this instance. Staff and students who are
 5. The Principal Investigator/s or equivalent is responsible for managing compliance with the University and funder research data management policy and requirements during a research project.   
 6. Researchers are expected to create and maintain data management plans for research where research data may be generated. Where no pro-forma has been specified, researchers may use University data management planning templates available from the Research Support and Development Office (RSDO: http://www.brunel.ac.uk/business/rsdo  
 
-7. The University will develop and provide guidance, training and support regarding research data management: researchdata@brunel.ac.uk See also information on the Library website and RSDO  
+7. The University will develop and provide guidance, training and support regarding research  
 
-# Data ownership  
+data management: researchdata@brunel.ac.uk See also information on the Library website and RSDO ata ownership 8. Researchers should clarify the ownership of any datasets which are used or generated and of derivative IP for all research projects or ventures generated in collaborations or partnerships, at the proposal stage or by the start of a project.  Researchers are invited to seek advice from: researchdata@brunel.ac.uk 9. Where research data is generated wholly by the researcher, data ownership will normally belong to the University and/or the research funder.  Researchers are invited to seek advice at the proposal stage or by the start of a project from: researchdata@brunel.ac.uk 10. Where all the researchers working on a publicly funded research project are from HE institutions, it is expected that institutional policies will be derived from RCUK policy and expectations and will be similar in principle. While the lead institution and Principal Investigator (PI)will have overall responsibility for ensuring that research data is made available appropriately, and will do so in line with the relevant institutional policy, where this is not Brunel, no conflict with University policy is expected. 11. Where research data is generated in cross-sector collaborations or where third party data is used, data ownership and management can be very complex.  Researchers working within cross-sector collaborations with industry partners should pay particular attention to data ownership and derivative IP generated to ensure that as a minimum, data which underpins a research publication they produce may be published or deposited in an open access data archive.  Researchers are invited to seek advice from University research support services and should contact researchdata@brunel.ac.uk in the first instance. 12. Researchers should abide by the conditions set by the data owner/s, in particular relating to data confidentiality and sharing. Where this is in conflict with University and/or funder policy on data sharing, they should seek guidance from RSDO and/or the Library who will advise further. 13. Ownership information for all data generated or modified should be recorded in the metadata or embedded within datasets as appropriate. 14. Where data ownership must be transferred to a third party, researchers must retain sufficient rights to make research data openly available for reuse, unless this contravenes funder requirements or conditions of data owners. 15. Researchers must not give away exclusive rights to publish, reuse or store research data to third parties, unless doing so is a condition of funding (eg for reasons of confidentiality, research  ethics). If so, researchers should seek advice in the first instance. 16. Researchers who leave the University to work at another HEI while a research project is ongoing may generally expect to retain access to datasets for the duration of the project: each case may need individual consideration as to the most appropriate way to achieve this. RCUK policy takes precedence, and data must be made available alongside any research publications which are published in affiliation with the University.  In some instances, it may be appropriate for data to be transferred, such as where the research project will be moving to another institution. Researchers should seek advice from researchdata@brunel.ac.uk.  
 
-8. Researchers should clarify the ownership of any datasets which are used or generated and of derivative IP for all research projects or ventures generated in collaborations or partnerships, at the proposal stage or by the start of a project.  Researchers are invited to seek advice from: researchdata@brunel.ac.uk   
-9. Where research data is generated wholly by the researcher, data ownership will normally belong to the University and/or the research funder.  Researchers are invited to seek advice at the proposal stage or by the start of a project from: researchdata@brunel.ac.uk   
-10. Where all the researchers working on a publicly funded research project are from HE institutions, it is expected that institutional policies will be derived from RCUK policy and expectations and will be similar in principle. While the lead institution and Principal Investigator (PI)will have overall responsibility for ensuring that research data is made available appropriately, and will do so in line with the relevant institutional policy, where this is not Brunel, no conflict with University policy is expected.   
-11. Where research data is generated in cross-sector collaborations or where third party data is used, data ownership and management can be very complex.  Researchers working within cross-sector collaborations with industry partners should pay particular attention to data ownership and derivative IP generated to ensure that as a minimum, data which underpins a research publication they produce may be published or deposited in an open access data archive.  Researchers are invited to seek advice from University research support services and should contact researchdata@brunel.ac.uk in the first instance.   
-12. Researchers should abide by the conditions set by the data owner/s, in particular relating to data confidentiality and sharing. Where this is in conflict with University and/or funder policy on data sharing, they should seek guidance from RSDO and/or the Library who will advise further.   
-13. Ownership information for all data generated or modified should be recorded in the metadata or embedded within datasets as appropriate.   
-14. Where data ownership must be transferred to a third party, researchers must retain sufficient rights to make research data openly available for reuse, unless this contravenes funder requirements or conditions of data owners.   
-15. Researchers must not give away exclusive rights to publish, reuse or store research data to third parties, unless doing so is a condition of funding (eg for reasons of confidentiality, research  ethics). If so, researchers should seek advice in the first instance.   
-16. Researchers who leave the University to work at another HEI while a research project is ongoing may generally expect to retain access to datasets for the duration of the project: each case may need individual consideration as to the most appropriate way to achieve this. RCUK policy takes precedence, and data must be made available alongside any research publications which are published in affiliation with the University.  In some instances, it may be appropriate for data to be transferred, such as where the research project will be moving to another institution. Researchers should seek advice from researchdata@brunel.ac.uk.  
-
-# Data storage and sharing  
-
+Data storage and sharing   
 17. Researchers are expected to maintain research data in formats which facilitate data access and sharing.   
 18. Researchers should create and record sufficient metadata to facilitate the research data discovery and access. The University will develop guidance to help researchers standardise metadata creation and format by data type.   
 19. All published research outputs will be required to contain sufficient information about how the supporting data can be accessed.   
@@ -67,6 +65,4 @@ The terms of this policy will apply in this instance. Staff and students who are
 
 29. Guidance on confidential data storage and applicable contractual agreements is provided by RSDO and on open access and confidential data from the Library.  
 
-Approved by Senate at the 281st meeting in June 2014.  
-
-Queries relating to the policy should be addressed in the first instance to researchdata@brunel.ac.uk  
+Recommended to Senate by Research and Knowledge Transfer Committee May 2014. Approved by Senate at the 281st meeting in June 2014. Queries relating to the policy should be addressed in the first instance to researchdata@brunel.ac.uk  

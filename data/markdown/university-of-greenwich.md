@@ -1,3 +1,5 @@
+# University of Greenwich Statement on Scholarly Communication  
+
 The University of Greenwich is committed to expanding the total proportion of our research and scholarship outputs, and their underlying research data, that are published in open access (OA) forms.  
 
 The university is committed to enabling its active researchers to share the results of research through a range of open means in order to maximize research impact within the academic research community and across society more broadly. The university also supports the use of research identifiers for all researchers, such as ORCID; it is currently mandatory for anyone on a research career pathway to obtain and use their ORCID.  
@@ -6,7 +8,7 @@ This statement and the policies that follow support the activities of many key r
 
 The following policies apply to all staff and any postgraduate students actively engaged in research activity:  
 
-# Publications Policy  
+## Publications Policy  
 
 There are two main routes to OA for publications, known as Gold and Green. The university holds a general preference to follow the Green route for publications by depositing appropriate copies into a recognised OA repository. Consequently, all staff and postgraduate students must make a record in the University of Greenwich Academic Literature Archive (GALA) for all published research outputs. For articles and conference proceedings (with an ISSN), an accepted manuscript must be uploaded to GALA within three months of acceptance, and the embargo period must not exceed a 12 month maxima (Panels A & B) or a 24 month maxima (Panels C & D1.)  
 
@@ -22,7 +24,7 @@ The university also commits to maintaining GALA, optimising it for emerging publ
 
 GALA forms an institutional record of the research and scholarship published by the university's research community, helping to protect and preserve the scholarly record. Records are anticipated to be kept permanently, but where appropriate, the Takedown Policy exists to fairly handle the removal of any records as required.  
 
-# Research Data Policy  
+## Research Data Policy  
 
 The university takes the definition of research data as:  
 
@@ -51,16 +53,11 @@ All data handlers and processors have responsibilities for the data collected, c
 
 The university recognises its responsibility to ensure researchers are supported throughout the research process to ensure full compliance with funder data policies and contractual requirements on research data management. The university commits to support academic and research staff in choosing a repository as well as writing data management plans, selecting and appraising data for storage, and in understanding and meeting any other requirements.  
 
-# References and endnotes  
-
-Concordat Working Group. (2016). Concordat on Open Research Data. Retrieved August, 11, 2016: https://www.ukri.org/files/legacy/documents/concordatonopenresearchdata-pdf/  
-
-1 Specific guidance in relation to the REF OA requirements is available at https://www.gre.ac.uk/research/about/research-development-services/open-access/open-acces-oa-and-the-ref  
-
-2 The Digital Curation Centre provide a range of services in support of the management of research data, including   
-a guide on selecting an appropriate place to deposit data, which is available at   
-https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data  
-
-3 Researchers may also wish to retain and share null, failed or excess data that will not result in use for a publication. This is supported under the general terms of the Statement on Scholarly Communication, but this is not required by this policy.  
-
+References and endnotes   
+Concordat Working Group. (2016). Concordat on Open Research Data. Retrieved August, 11, 2016:   
+https://www.ukri.org/files/legacy/documents/concordatonopenresearchdata-pdf/   
+1 Specific guidance in relation to the REF OA requirements is available at   
+https://www.gre.ac.uk/research/about/research-development-services/open-access/open-acces-oa-and-the-ref 2 The Digital Curation Centre provide a range of services in support of the management of research data, including a guide on selecting an appropriate place to deposit data, which is available at   
+https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data   
+3 Researchers may also wish to retain and share null, failed or excess data that will not result in use for a publication. This is supported under the general terms of the Statement on Scholarly Communication, but this is not required by this policy.   
 4 Some of the more overtly connected policies include the Information and Security Awareness Policy, the Information & Records Management Policy, the Data Protection Policy, and the Data Sharing Protocol, but a full list of policies is available at http://www2.gre.ac.uk/about/policy)  

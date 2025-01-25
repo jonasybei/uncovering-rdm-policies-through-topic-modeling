@@ -1,12 +1,12 @@
 # ULB Institutional policy on Research Data Management  
 
-# Introduction  
+## Introduction  
 
 At its Academic Council meeting of 26 April 2021, ULB adopted the following policy1 on the management of Research Data, generated and processed by Researchers as part of their research activities at ULB.  
 
 This policy aims to develop and promote a solid and secure management of Research Data to increase the efficiency, the quality, the integrity and the transparency of scientific research, as well as to facilitate the development of new knowledge, and to ensure compliance with relevant laws and regulations, ethical and contractual obligations, and provisions of external research funding agencies. Ideally, Research Data management should be considered and integrated throughout the life cycle of the research data.  
 
-![](images/57fbe5cd9695d2506bea5f2818956f6258e24d959df8e80637a3e17343619636.jpg)  
+![](images/e1fdbcd811894f12f0e01ade350111a364950ac7a410150fe377c7cbdbcb2e9f.jpg)  
 
 Furthermore, various research funders such as the FNRS or the European Commission are increasingly requesting that a Data Management Plan accompanies any funded project. This is thus an evolution that urgently needed to be acknowledged in our institution.  
 
@@ -14,7 +14,7 @@ This document represents an aspirational policy; its implementation will likely 
 
 Practical Guidelines are available on the ULB personnel portal: https://portail.ulb.be/en/research/research-data-management  
 
-# Definitions  
+## Definitions  
 
 Anonymisation: Process by which personal data is irreversibly altered in such a way that a data subject can no longer be identified directly or indirectly, either by the data controller alone or in collaboration with any other party.  
 
@@ -62,7 +62,7 @@ Retention Period: Period during which relevant research data and accompanying do
 
 Storage: Process of keeping and depositing data on a computer system during the active phases of the Research Project.  
 
-# Regulatory provisions  
+## Regulatory provisions  
 
 ULB has ownership and legal responsibilities of research results of any nature, whether or not they can be patented, that were obtained during any research activity, study, or service performed by one or several Researchers. For more details and exceptions:  
 
@@ -72,33 +72,26 @@ Where research is carried out under a contract, the terms of the agreement shoul
 
 Although students are not subject to the IPR regulation mentioned above, they agree to comply with the ULB IPR regulation. This implies that they agree to maintain the information and the results related to the project as strictly confidential and to disclose information to any third party only with ULB’s prior written agreement. Research results that can potentially be exploited must be dealt with the ULB Technology  Transfer Office (contact ULBTTO@ulb.be).  
 
-# Relationship with internal policies  
+### Relationship with internal policies  
 
-Research data will be managed in accordance with ULB’s regulations, policies and guidelines:  
+Research data will be managed in accordance with ULB’s regulations, policies and guidelines: CODE DE DÉONTOLOGIE ET D’INTÉGRITÉ EN MATIÈRE DE RECHERCHE, DE VALORISATION ET DE CRÉATION DE SPIN-OFFS   
+Conseils pour la gestion des données en accord avec le Comité d’Ethique de l’ULB. Protection des données à caractère personnel (RGPD)   
+Obligations regarding the confidentiality of personal data   
+Bonnes pratiques informatiques à destination des membres de la Communauté universitaire Regulation on ownership, protection and valorization of the intellectual property of the Université libre de Bruxelles (ULB)  
 
-CODE DE DÉONTOLOGIE ET D’INTÉGRITÉ EN MATIÈRE DE RECHERCHE, DE VALORISATION ET DE CRÉATION DE SPIN-OFFS  
+### ULB’s commitments  
 
-Protection des données à caractère personnel (RGPD)  
-
-Obligations regarding the confidentiality of personal data  
-
-Bonnes pratiques informatiques à destination des membres de la Communauté universitaire  
-
-Regulation on ownership, protection and valorization of the intellectual property of the Université libre de Bruxelles (ULB)  
-
-# ULB’s commitments  
-
-# 1. Infrastructures  
+### 1. Infrastructures  
 
 ULB is committed to providing secure mechanisms and services for Storage, Backup, Registration, Deposit and Archiving of research data assets in support of current and future access and Preservation, during and after completion of Research Projects.  
 
-# 2. Services and support  
+### 2. Services and support  
 
 ULB is committed to providing training, support, advice and where appropriate guidelines and templates for the research data management and research Data Management Plans.  
 
-# Researchers’ commitments  
+## Researchers’ commitments  
 
-# 1. Responsibilities  
+### 1. Responsibilities  
 
 The Research Supervisor/Principal Investigator of a project has the ultimate responsibility for the research data management. Nevertheless, all Researchers are responsible for the careful management of the Research Data they collect, generate, and/or obtain from third parties to ensure that the data are reliable, secure, sustainable, findable, and, where possible, openly accessible.  
 
@@ -108,25 +101,25 @@ It is strongly recommended that Researchers store their Research Data on infrast
 
 Research Data that the Researchers collect or generate at ULB and the accompanying documentation must be preserved and must remain accessible to ULB during a relevant Retention Period (see below).  
 
-# 2. Policies and regulations  
+### 2. Policies and regulations  
 
 Research data management must always respect relevant laws and regulations (e.g. on the protection of Personal Data and other Confidential Data, or on intellectual property rights...), ethical codes, and/or contractual obligations with third parties, as well as the requirements included in the applicable regulations of external research funding agencies (e.g. FNRS, Belspo, European Commission...).  
 
 If the regulations of the external research funding agencies or the contracts with third parties impose more stringent or specific data management requirements than the ones proposed by ULB, they will override this policy framework’s provisions unless they violate basic principles outlined in the ULB Policy of Research Data Management.  
 
-# 3. Personal data protection  
+### 3. Personal data protection  
 
 Researchers who use Personal Data as Research Data must ensure the correct treatment and protection of these Personal Data in accordance with national and European General Data Protection Regulation (GDPR), as well as the ULB regulations on the protection of personal data. They must respect the basic principles of privacy protection: purpose limitation, proportionality, transparency, correct retention period, and secure destruction (after the Retention Period has expired). Technical and organizational measures to ensure secure Storage and secure processing (e.g. Anonymisation, Pseudonymisation, or Encryption) must be provided, in accordance with the institutional guidelines for working with Personal Data and confidential information in a secure manner.  
 
 Personal Data protection principles remain applicable throughout all the phases of the data lifecycle, including sharing, archiving, and deleting.  
 
-# 4. Access to data  
+### 4. Access to data  
 
 Researchers should identify data of future historical interest, and all Research Data that represent records of ULB, including data that substantiate research findings, for deposit and retention (see below) in the ULB repository or in a compliant and secure national or international data service or domain repository in accordance with the Guidelines. Researchers must ensure that Research Data are available for access and re-use where appropriate and under adequate safeguards, including Anonymisation, Pseudonymisation, etc.  
 
 Exclusive rights to reuse or publish Research Data should not be handed over to publishers or agents without retaining the rights to make the data openly available for re-use, unless this is a condition of funding or publication.  
 
-# 5. Data retention  
+### 5. Data retention  
 
 5.1. Unless provided otherwise either by legal, contractual, ethical or other specific obligations, or by requirements of external research funding agencies, relevant Research Data and accompanying documentation must be retained for a minimum of 5 years after completion of the Research Project or the project funding, or after publication of the conclusions based on the data (the latest date is applicable here). Of note, medical data related to patients must be kept for 30 years (link).  
 

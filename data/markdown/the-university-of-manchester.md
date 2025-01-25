@@ -10,7 +10,7 @@ The purpose of this Policy is to provide guidance and support on the responsibil
 
 This Policy applies to:  
 
- all research, regardless of whether or not the research is externally funded, and is subject to the provisions of any relevant contracts including funding/collaboration agreements; and  all researchers active at The University of Manchester.  
+all research, regardless of whether or not the research is externally funded, and is subject to the provisions of any relevant contracts including funding/collaboration agreements; and all researchers active at The University of Manchester.  
 
 Research is any creative and systematically performed work with the goal of furthering knowledge, including discoveries regarding people, culture and society, in addition to the use of such knowledge for new applications.  
 
@@ -44,7 +44,7 @@ In the event that research data and records are to be deleted or destroyed, eith
 
 5. Roles and responsibilities  
 
-# 5.1 Researchers  
+## 5.1 Researchers  
 
 Researchers are responsible for:  
 
@@ -53,9 +53,10 @@ Researchers are responsible for:
 3. Compliance with the general requirements of the funders and the research institution; special requirements in specific studies must be described in the DMP;   
 4. Planning to enable, wherever possible, the future re-use of data . This includes defining usage rights after a study has completed, with the assignation of appropriate licences, as well as specifying any data storage and archiving requirements;   
 5. Compliance with all organisational, regulatory, institutional and other contractual and legal requirements, both with regard to research data, as well as the administration of research records (for example contextual or provenance information); and   
-6. Registering new research studies at the proposal stage with The University of Manchester to ensure appropriate institutional support.  
+6. Registering new research studies at the proposal stage with The University of Manchester to ensure appropriate institutional support.   
+5.2 The University  
 
-# 5.2 The University  
+#  
 
 The University of Manchester is responsible for:  
 
@@ -76,14 +77,14 @@ This Policy and its implementation will be subject to monitoring and auditing.
 
 This Policy will be reviewed at least annually or when significant changes are required.  
 
-<html><body><table><tr><td colspan="3">Version amendment history</td></tr><tr><td>Version</td><td>Date</td><td>Reasonfor change</td></tr><tr><td>1.2</td><td>March2021</td><td>Updated followingscheduled review</td></tr></table></body></html>  
+<html><body><table><tr><td colspan="3">Version amendment history</td></tr><tr><td>Version</td><td>Date</td><td>Reason for change</td></tr><tr><td>1.2</td><td>March2021</td><td>Updated followingscheduled review</td></tr></table></body></html>  
 
 # Contact list for queries related to this policy  
 
-<html><body><table><tr><td>Role</td><td>Name</td><td>Telephone</td><td>Email</td></tr><tr><td>Research Data Management Service team, University of Manchester Library</td><td>Chris Gibson / Clare Liggins / Eleanor Warren</td><td>01612757853</td><td>researchdata@manchester.ac.uk</td></tr><tr><td>Research Data Management Strategic Lead</td><td>Bill Ayres</td><td>01612757853</td><td>bill.ayres@manchester.ac.uk</td></tr><tr><td>Associate Director, Research and Digital Horizons, University of Manchester Library</td><td>Lorraine Beard</td><td>01613064918</td><td>lorraine.beard@manchester.ac.uk</td></tr></table></body></html>  
+<html><body><table><tr><td>Role</td><td>Name</td><td>Telephone</td><td>Email</td></tr><tr><td>Research Data Management Service team, University of Manchester Library</td><td>Chris Gibson/ Clare Liggins / Eleanor Warren</td><td>01612757853</td><td>researchdata@manchester.ac.uk</td></tr><tr><td>Research Data Management Strategic Lead</td><td>Bill Ayres</td><td>01612757853</td><td>bill.ayres@manchester.ac.uk</td></tr><tr><td>Associate Director, Research and Digital Horizons, University of Manchester Library</td><td>LorraineBeard</td><td>01613064918</td><td>lorraine.beard@manchester.ac.uk</td></tr></table></body></html>  
 
 # Document Control  
 
-<html><body><table><tr><td>Policy title:</td><td>Research Data Management Policy</td></tr><tr><td>Date Approved</td><td></td></tr><tr><td>Approving Body</td><td>Library ExecutiveTeam</td></tr><tr><td>Version</td><td>1.2</td></tr><tr><td>Supersedes</td><td>1.1</td></tr><tr><td>PreviousReviewDates</td><td>March 2018, February 2019</td></tr><tr><td>NextReviewDate</td><td>March 2022</td></tr><tr><td>Related Statutes, Ordinances&General Regulations</td><td>N/A</td></tr><tr><td rowspan="3">RelatedPolicies</td><td>TheUniversityofManchesterDataProtectionPolicy</td></tr><tr><td>TheUniversityofManchesterRecordsManagementPolicy</td></tr><tr><td>TheUniversityofManchesterITpoliciesandguidelines</td></tr></table></body></html>  
+<html><body><table><tr><td>Policy title:</td><td>Research Data Management Policy</td></tr><tr><td>Date Approved</td><td></td></tr><tr><td>Approving Body</td><td>LibraryExecutiveTeam</td></tr><tr><td>Version</td><td>1.2</td></tr><tr><td>Supersedes</td><td>1.1</td></tr><tr><td>PreviousReviewDates</td><td>March 2018, February 2019</td></tr><tr><td>Next Review Date</td><td>March 2022</td></tr><tr><td>RelatedStatutes, Ordinances&General</td><td>N/A</td></tr><tr><td>RelatedPolicies</td><td>TheUniversity ofManchester DataProtectionPolicy The University of Manchester RecordsManagement Policy</td></tr></table></body></html>  
 
-<html><body><table><tr><td></td><td>TheUniversityofManchesterIntellectualPropertyPolicy</td></tr><tr><td></td><td>TheUniversityofManchesterCopyrightPolicy</td></tr><tr><td>RelatedProcedures</td><td>The University of Manchester Research Data Management Standard Operating Procedure</td></tr><tr><td></td><td>TheUniversityofManchesterRecordsRetentionSchedule</td></tr><tr><td></td><td>TheUniversityofManchesterITpoliciesandguidelines</td></tr><tr><td></td><td>InformationGovernanceAccountabilityand AssuranceFramework</td></tr><tr><td>Related guidance</td><td>StandardOperatingProcedure</td></tr><tr><td></td><td>TheUniversityofManchesterCodeofGoodResearchConduct</td></tr><tr><td>andorcodesofpractice</td><td></td></tr><tr><td>Related Information</td><td>Open Research Statement</td></tr><tr><td>Policy Owner</td><td>President for Research (Professor Chris Taylor)</td></tr></table></body></html>  
+<html><body><table><tr><td rowspan="3">RelatedProcedures</td><td>TheUniversityofManchesterIntellectual PropertyPolicy</td></tr><tr><td>TheUniversityofManchesterCopyrightPolicy</td></tr><tr><td>The University of Manchester Research Data Management Standard OperatingProcedure</td></tr><tr><td rowspan="5"></td><td>TheUniversityofManchesterRecordsRetentionSchedule</td></tr><tr><td>TheUniversity of ManchesterITpolicies and guidelines</td></tr><tr><td></td></tr><tr><td>InformationGovernanceAccountabilityandAssuranceFramework</td></tr><tr><td>StandardOperatingProcedure TheUniversityofManchester Codeof GoodResearchConduct</td></tr><tr><td>Related guidance andorcodesofpractice</td><td></td></tr><tr><td>RelatedInformation</td><td>Open Research Statement</td></tr><tr><td>Policy Owner</td><td>Vice President for Research (Professor Colette Fagan); Associate Vice President for Research (Professor Chris Taylor)</td></tr></table></body></html>  

@@ -4,11 +4,11 @@ Research Support Team
 
 November 2021  
 
-# UoN Data Management Plan  
+## UoN Data Management Plan  
 
 Write 2-3 pages A4  
 
-# Data description  
+### Data description  
 
 What data will you create?  
 
@@ -18,7 +18,7 @@ Data volume: It is important to plan for the volume of data you plan to capture,
 
 Data format: What file formats will you be making use of during your research? Do formats and software enable sharing and long-term validity of data? UKRI and other funders prefer “open” formats to “closed”, proprietary formats, whenever possible. Formats should also be considered to preserve the highest standard of data (so, tiff files would be preferable to compressed jpgs for storing images, for example), and for long-term archival use when possible (e.g. PDF/A, rather than generic PDF, is better suited to long-term archiving). Using propriety formats is acceptable if that is the most appropriate format for your research. State the format of the final dataset. Describe the file formats and software used, the number of records, databases, sweeps, repetitions… (in terms that are meaningful in your field).  
 
-# Data collection and/or generation  
+### Data collection and/or generation  
 
 What are your methodologies for data collection / generation? How will you ensure data quality? What data standards will you use?  
 
@@ -30,23 +30,23 @@ If purchasing or reusing existing data sources, explain how you address issues s
 
 Methodologies: Outline the proposed methodologies you will use to collect or generate data, including software and tools for data collection, and which community data standards (if any) will be used to ensure the data is of high quality. Provide information on the new data: volume, type, and content. Explain how you will ensure (control and document) data quality and consistency (quality assurance), such as standardised data capture or recording, digitisation, data entry validation, peer review of data, calibration, repeat samples or measurements, representation using controlled vocabularies, use of a uniform interview method to maintain consistency in qualitative data collection, etc. Indicate how the data will be organised during the project, for example, naming conventions, version control, and folder structures.  
 
-# Ethics and privacy  
+## Ethics and privacy  
 
 Are there any ethical, commercial, or privacy issues that will affect the collection and storage of your data? Are you working with sensitive or personal data? Will you need to issue privacy notices?  
 
 Describe the legal and ethics procedures you will follow.  
 
-# Ethics and informed consent  
+### Ethics and informed consent  
 
 Ethical issues may affect how you store data, who can see/use it during collection and in future (data sharing), how long it is kept. You should show that you're aware of this and have planned accordingly. The University's Code of Research Conduct and Research Ethics provides guidance on what types of research will require ethical review. You are responsible for ensuring your handling of all this type of information is secure and complies with the law and associated research ethics procedures. Outline how you will obtain informed consent for the use of personal data as part of the research ethics process and to satisfy the duty of confidentiality towards the individual. The UK Data Service provides excellent guidance in structuring consent forms  that respect legal obligations and facilitate data archiving and publishing.  
 
-# Data protection  
+### Data protection  
 
 If working with personal information you will have legal obligations with regard to data protection. You should provide a short statement around how you will comply with the GDPR/Data Protection Act 2018.  
 
 Sample text: "Personal data will be collected during this project, and the project has considered ethical and legal implications in its data storage, as well as appropriate security of personal data. All participants will agree to data collection and to long-term retention, archiving, and sharing of their anonymised data. Research will follow standard ethical procedures of the Faculty of Arts and the University of Nottingham. Specific aspects will be considered by the Faculty ethics committee as appropriate. In particular, the creation of data from interviews and focus groups will require ethical approval, including consent forms outlining the storage and use for research purposes of data, including access to those data by project researchers and other researchers, both during and after the life of the project. Participants will be informed that they can withdraw their participation at any stage during or after the observations. As we will be working with personal data we will ensure that we comply with the Data Protection Act 2018, including GDPR requirements. This will include providing research participants with the relevant privacy information and ensuring appropriate safeguards for the storage and handling of data are in place."  
 
-# Data storage and security  
+### Data storage and security  
 
 Where and how will your data will be stored, backed-up, transferred, and secured during the active phase (short to medium term) of research?  
 
@@ -56,7 +56,7 @@ Sample text: "We will use UoN-provided storage for our working data. UoN license
 
 Sample text: “We will use UoN Central Performance Storage for our working data. This storage is specifically designed to be used for high throughput data or large file sizes. The storage is onpremise and approved against the University’s Handling Restricted Data Policy. Files are automatically backed up and files older than 24 hours can be recovered in a disaster scenario.”  
 
-# Data management, documentation and curation  
+### Data management, documentation and curation  
 
 What are your principles, systems, and major standards for data management and creation? What metadata and documentation will you keep?  
 
@@ -68,14 +68,14 @@ Sample text: "We shall record and provide documentation via a README file that w
 
 our research aims, objectives and hypotheses;   
 our data collection methods, including the hardware and software used and any calibration carried out;   
-a description of our data validation and quality assurance procedures undertaken;   
-a description of the dataset structure and what each file relationships between files or versions of the dataset.  
+a description of our data validation and quality assurance procedures undertaken;   
+0 a description of the dataset structure and what each file relationships between files or versions of the dataset.  
 
 In addition, we shall provide templates of our interview sheets and consent forms."  
 
 Sample text: "On deposit of our data and associated documentation we shall provide catalogue metadata that will facilitate the discovery of our data. This shall conform with the DataCite metadata schema."  
 
-# Data preservation  
+### Data preservation  
 
 How will you ensure the long-term storage and preservation of data?  
 
@@ -88,7 +88,7 @@ Will support for access or curation be needed from the data centre that exceeds 
 Where is your data going to be stored and does this meet legal or ethical obligations such as compliance with the GDPR?   
 Will your dataset be given a permanent identifier, such as a DOI, so that the link to your data will stay the same even if the web URLs change?   
 Is the repository used by researchers in your discipline? Does the repository already have a good reputation in your field and is it recommended by your funder or your journal?   
-Does the repository allow you to describe your data sufficiently, so it is easy to find and easy to cite?   
+Does the repository allow you to describe your data sufficiently, so it is easy to find and easy to cite?   
 Is the repository established and well-funded so that you can rely on it still preserving your data in 10 years’ time?   
 In your data management plan, you should state where your data will be deposited for long term preservation, and identify any costs associated with storing and making your research data available online.  
 
@@ -100,7 +100,7 @@ Sample text: “All anonymised research data created by the project will be depo
 
 Sample text: "All research data created by the project will be deposited in [name of the data repository] who will store and maintain the data on our behalf in line with our funder's requirements. There is no cost for this service."  
 
-# Data sharing, publication and access  
+## Data sharing, publication and access  
 
 How will the data generated be shared and published?  
 
@@ -118,7 +118,10 @@ State when you intend to share or release your data, including any planned embar
 
 It is also acknowledged that not all data can or should be 'open' and so publishing and sharing data may need to be restricted, for example:  
 
-legal requirements – if your data includes personal information subject to the Data Protection Act 2018 and the General Data Protection Regulation (GDPR). ethical concerns – if your data includes personal or confidential data where no consent for sharing has been given.  licence restrictions – if you are using data owned by third parties and don’t have the rights to share.  
+legal requirements – if your data includes personal information subject to the Data   
+Protection Act 2018 and the General Data Protection Regulation (GDPR).   
+ethical concerns – if your data includes personal or confidential data where no consent for sharing has been given.   
+licence restrictions – if you are using data owned by third parties and don’t have the rights to share.  
 
 If you believe your data will require controlled access state this here. Details of the managed access process should be provided, including if a Data Sharing Agreement will be completed for each data request. If you expect obstacles to sharing your data, explain which and the possible measures you can apply to overcome these. Make explicit mention of the planned procedures to handle consent for data sharing for data obtained from human participants, and/or how to anonymise data, to make sure that data can be made available and accessible for future scientific research.  
 
@@ -130,13 +133,13 @@ Sample text: "The existence, range, and nature of the project’s original data 
 
 Sample text: "Our data will be deposited in the University of Nottingham data archive. Access to this dataset will be embargoed for a period of 3 months in order for us to complete our analysis of the dataset."  
 
-# Roles and responsibilities  
+## Roles and responsibilities  
 
 Who will be responsible for managing data, data security, data quality, and data security both during the award and post-award?  
 
 Outline who will be responsible for owning, storing, analysing and archiving your data within research teams at all partner institutions. Describe how these responsibilities will be regulated. Provide details on governance of access. Describe what resources you will require to deliver your data management plan. Describe how you will ensure quality across team members collecting and processing data.  
 
-# Relevant policies  
+### Relevant policies  
 
 List the relevant institutional, departmental, or study policies.  
 
@@ -144,7 +147,7 @@ Sample text: "We will ensure that our research aligns with the requirements of t
 
 Sample text: "We will ensure that our research aligns with the requirements of the University's Research Data Management Policy, Information Security Policy, Code of Research Conduct and Research Ethics. As we are working with personal data, we will abide by the University’s Handling Restricted Data Policy and Data Protection Policy. All third-party commercial data or new data that may be suitable for commercial exploitation will be protected by the University's Intellectual Property policy."  
 
-# Intellectual property  
+### Intellectual property  
 
 Who will own the copyright and IPR of any data that you will collect or create? Will you create a licence(s) for its use and reuse? If you are planning to use existing data as part of your research, do any copyright or other restrictions determine its use?  
 
@@ -158,7 +161,7 @@ Sample text: "The intellectual property of the data generated will remain with t
 
 Sample text: "The intellectual property of the newly created data will remain with the University of Nottingham. However, the use of archival material is done so under licence from [insert repository/database] and thus the IP for this data remains solely with [insert repository/database]."  
 
-# Budgeting  
+## Budgeting  
 
 What are the costs or funding required for capturing, processing, storing, and archiving your data?  
 

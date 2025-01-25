@@ -1,6 +1,6 @@
 # Staffordshire University Research Data Management Policy  
 
-# Preamble:  
+## Preamble:  
 
 Good research data management enables the University and its researchers to meet the standards and responsibilities set out in the University's Code of Conduct for Research and Research Integrity (https://www.staffs.ac.uk/research/docs/pdf/research-code-ofconduct.pdf) and to meet funder, ethical, legal and other responsibilities. This policy is binding on all University members engaged in research, including staff, research students, and affiliates, and others who conduct research on behalf of the University. The policy is guided by and adheres to the UK General Data Protection Regulations (GDPR) and the Data Protection Act (2018).  
 
@@ -15,10 +15,27 @@ Good research data management enables the University and its researchers to meet
 7. It is acknowledged that some research data may not be transferred to the University in order to be compliant with legislation. Where this is the case, it should be clearly stated in the study protocol, or within the research methodology before any research activity commences and should be clearly stated in any ethics application documentation.   
 8. When creating a ‘Team’ to store research, a separate site should be created for each research project. This enables appropriate levels of access and control to be applied to each project, and simplifies compliance with any legal, contractual or regulatory requirements.   
 9. When creating a Teams site: The site must be given a meaningful name and include the reference number from the ethics application. If the title contains the word “Research” then a default data retention policy is applied to the team site to preserve all files stored on the “File” tab for 3 years. Privacy levels must be set to “Private – only team owners can add members”. This restricts access to just the individuals that have been authorised by the owner of the site. Site owners should undertake at appropriate intervals reviews of who has access to the site, and remove access from individuals or add access to individuals as appropriate.   
-10. To allow researchers to retain data for a specified period of time, Staffordshire University has implemented a policy that detects key words within SharePoint sites’ description and applies corresponding data protection policies. If the keywords “Hold1”, “Hold2”, … , “Hold10” are added to a SharePoint site’s description then data on the site is retained for the corresponding number of years (i.e. 1, 2,…10 years) after it was last modified. If a greater retention period is required, then Digital Services should be contacted to add a custom retention hold to the site.   
-11. Similarly, it may be required to delete data after a specified period. The keywords “Delete1”, “Delete2”, …., “Delete10” can be added to a site to delete data a specified number of years after it was last modified.   
-12. Holds and deletes are calculated for each individual file based on its last modification date.   
-13. If both “Hold” and “Delete” policies apply to a site, then both processes will take effect. If the retention hold is greater than the delete then files will not be deleted until after the hold period.   
-14. Note that if required, a researcher can check what hold/delete policies are applicable to their sites by using  SharePoint search functionality at https://staffsuniversity.sharepoint.com/_layouts/15/sharepoint.aspx. Searching for e.g. “description:hold5” would list sites with a five year retention period.   
-15. Researchers who are intending to collect and store highly sensitive/confidential research data should discuss with Digital Services how such data can be protected.   
-16. This could include: Requiring Multi-factor authentication in order to access a team site. This protects from phished/stolen credentials being used to access a site Requiring use of a University managed computer to access a team site. This protects phished/stolen credentials being used to access a site, and makes it more difficult to extract data from a site. Preventing file download from non-university managed computers, but providing a web edit view to authorised users to allow controlled viewing and editing of files. This make it more difficult to extract data from a site, or for ransomware/malware to be introduced into a site.  
+10. To allow researchers to retain data for a specified period of time, Staffordshire University has implemented a policy that detects key words within SharePoint sites’ description and  
+
+applies corresponding data protection policies.  
+
+If the keywords “Hold1”, “Hold2”, … , “Hold10” are added to a SharePoint site’s description then data on the site is retained for the corresponding number of years (i.e. 1, 2,…10 years) after it was last modified.  
+
+If a greater retention period is required, then Digital Services should be contacted to add a custom retention hold to the site.  
+
+11. Similarly, it may be required to delete data after a specified period. The keywords “Delete1”, “Delete2”, …., “Delete10” can be added to a site to delete data a specified number of years after it was last modified.  
+
+12. Holds and deletes are calculated for each individual file based on its last modification date.  
+
+13. If both “Hold” and “Delete” policies apply to a site, then both processes will take effect. If the retention hold is greater than the delete then files will not be deleted until after the hold period.  
+
+14. Note that if required, a researcher can check what hold/delete policies are applicable to their sites by using  SharePoint search functionality at https://staffsuniversity.sharepoint.com/_layouts/15/sharepoint.aspx. Searching for e.g. “description:hold5” would list sites with a five year retention period.  
+
+15. Researchers who are intending to collect and store highly sensitive/confidential research data should discuss with Digital Services how such data can be protected.  
+
+16. This could include:  
+
+Requiring Multi-factor authentication in order to access a team site. This protects from phished/stolen credentials being used to access a site   
+Requiring use of a University managed computer to access a team site. This protects phished/stolen credentials being used to access a site, and makes it more difficult to extract data from a site.   
+Preventing file download from non-university managed computers, but providing a web edit view to authorised users to allow controlled viewing and editing of files. This make it more difficult to extract data from a site, or for ransomware/malware to be   
+introduced into a site.  

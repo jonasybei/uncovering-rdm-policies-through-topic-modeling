@@ -1,40 +1,38 @@
 # Research Data Management Policy  
 
-# Introduction/Context  
+## 1 Introduction/Context  
 
 The effective management of research data is becoming increasingly important.  UK Research and Innovation (UKRI) has affirmed that making research data available to users is a core part of its remit.  UKRI’s Common Principles on Data Policy1 states that ‘Publicly funded research data are a public good, produced in the public interest, which should be made openly available with as few restrictions as possible in a timely and responsible manner that does not harm intellectual property.’  
 
 Northumbria University recognises that data from its research should be wellmanaged to benefit the researcher, the University and the wider community.  As such, there is an obligation to record, store and archive research data appropriately, in a way that is proportionate in terms of security and retention, and allows for sharing of data to contribute to the impact of the research.  It is recognised that types of data used, collected and generated will vary between different disciplines. The approach taken in this policy is to be sensitive to these differences while ensuring that good practice is promoted and funder requirements are met.  
 
-This policy should be read in conjunction with other University policies, notably the Records Management Policy2, the Research Ethics and Governance Handbook3, and the Data Protection Policy .  
+This policy should be read in conjunction with other University policies, notably the Records Management Policy2, the Research Ethics and Governance Handbook3, and the Data Protection Policy4.  
 
-# 2 Scope  
+## 2 Scope  
 
 The policy applies to all research conducted by staff and postgraduate research students at the University, regardless of whether it is funded or unfunded.  The policy does not normally apply to activities such as surveys used to improve service provision, conducted by Students’ Union or Service Departments, or to undergraduate work, unless it is included in scholarly publications.  
 
-# 3 Definition of Research  
+### 3 Definition of Research  
 
-Research in the context of this policy is based on the Higher Education Funding Council for England (HEFCE) Research Excellence Framework (REF) 2014 definition, contained in Annex C of the ‘Assessment Framework and Guidance on Submissions’ , which defines research as ‘a process of investigation leading to new insights, effectively shared.’  It includes work of direct relevance to the needs of commerce, industry, and to the public and voluntary sectors; scholarship; the invention and generation of ideas, images, performances, artefacts including design, where these lead to new or substantially improved insights; and the use of existing knowledge in experimental development to produce new or substantially improved materials, devices, products and processes, including design and construction. It excludes routine testing and routine analysis of materials, components and processes such as for the maintenance of national standards, as distinct from the development of new analytical techniques. It also excludes the development of teaching materials that do not embody original research.  
+Research in the context of this policy is based on the Higher Education Funding Council for England (HEFCE) Research Excellence Framework (REF) 2014 definition, contained in Annex C of the ‘Assessment Framework and Guidance on Submissions’5, which defines research as ‘a process of investigation leading to new insights, effectively shared.’  It includes work of direct relevance to the needs of commerce, industry, and to the public and voluntary sectors; scholarship; the invention and generation of ideas, images, performances, artefacts including design, where these lead to new or substantially improved insights; and the use of existing knowledge in experimental development to produce new or substantially improved materials, devices, products and processes, including design and construction. It excludes routine testing and routine analysis of materials, components and processes such as for the maintenance of national standards, as distinct from the development of new analytical techniques. It also excludes the development of teaching materials that do not embody original research.  
 
-# 4 Definition of Research Data  
+### 4 Definition of Research Data  
 
 For the purposes of this policy, research data refers to any material collected, observed or created for the purpose of analysis and on which research conclusions are based.  Research data may be numerical, descriptive or visual, and can be digital, paper-based or in other forms.  
 
-# 5 Definition of Researcher  
+### 5 Definition of Researcher  
 
 For the purposes of this policy, researchers are defined as members of the University, including all staff and postgraduate research (PGR) students, and those conducting research on University premises or using University facilities.  
 
 The policy excludes Postgraduate Taught and Undergraduate students, unless their research findings are included in scholarly publications.  
 
-6 Governance  
+## 6 Governance  
 
-i) The policy is approved by Research and Knowledge Exchange Committee, and monitored through the Research Data Management Working Group.  
+i) The policy is approved by Research and Knowledge Exchange Committee, and monitored through the Research Data Management Working Group. ii) The policy will be reviewed annually.  
 
-ii) The policy will be reviewed annually.  
+## 7 Principles  
 
-Principles  
-
-The principles which underpin the use and management of research data by University staff and students are set out below. These principles are consistent with the principles of data protection set out in Article 5 of the General Data Protection Regulation and satisfy the requirements in Schedule 1, Part 4, 39 of the UK Data Protection Act 2018:  
+The principles which underpin the use and management of research data by University staff and students are set out below. These principles are consistent with the principles of data protection set out in Article 5 of the General Data Protection Regulation6 and satisfy the requirements in Schedule 1, Part 4, 39 of the UK Data Protection Act 2018:  
 
 i) Research data will be managed throughout the research data lifecycle7 in accordance with the University’s policies, guidelines and standards, and funder, legislative and ethical requirements.   
 ii) Research data shall in most cases be collected for the purposes of creating new knowledge which is shared with others through publication and dissemination. In these cases, research is normally deemed to be ‘a task in the public interest’ (principles of lawfulness and purpose limitation Art.6 GDPR). In cases where special category data are being processed, then an additional condition will apply. For most research carried out by the University  
@@ -61,7 +59,7 @@ x) All data which are created as part of research at Northumbria University must
 
 xi) Published papers should include a statement describing how, and on what terms, supporting research data may be accessed.  
 
-# Data Management Responsibilities  
+## 8 Data Management Responsibilities  
 
 i) The most senior Northumbria researcher associated with a research project (whether funded or unfunded) is the Data Lead for that project and is ultimately responsible and accountable for research data management within that project.  
 
@@ -75,13 +73,13 @@ v) In the absence of the Data Lead, responsibility for research data management 
 
 vi) Stakeholders and Services across the University will work together to create a robust infrastructure for the research data lifecycle.  
 
-# 9 Implementation and Communication  
+## 9 Implementation and Communication  
 
 i) The University will provide training, support, advice and guidance regarding research data management through the researcher development training programme (including the PGR training programme) and web-based guidance.  
 
 ii) The University will provide mechanisms and services for storage, backup, registration and retention of research data during a research project and after its completion.  
 
-# 10 Further Guidance  
+## 10 Further Guidance  
 
 The University Library has published comprehensive guidance on research data management: http://library.northumbria.ac.uk/research-data-management  
 
