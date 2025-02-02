@@ -1,0 +1,17 @@
+@prefix ex: <http://example.org/> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Document1 a schema1:Document ;
+    ex:has ex:Sentence1 ;
+    schema1:numSentences 5 ;
+    schema1:title "Document Title"^^xsd:string .
+
+ex:Sentence1 a schema1:Text ;
+    ex:isAbout ex:Topic1 ;
+    schema1:identifier "S1"^^xsd:string ;
+    schema1:text "This is a sentence."^^xsd:string .
+
+ex:Topic1 a schema1:Topic ;
+    schema1:name "Topic Label"^^xsd:string .
+
