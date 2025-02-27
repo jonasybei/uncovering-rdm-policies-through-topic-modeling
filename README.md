@@ -10,8 +10,6 @@ In this project, three goals are defined:
 
 This project uses a four-step methodology for extracting and representing topics from RDM policies:
 
-![Methodology](docs/img/methodology_dark_mode.png)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasybei/uncovering-rdm-policies-through-topic-modeling/refs/heads/new/docs/img/methodology_dark_mode.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasybei/uncovering-rdm-policies-through-topic-modeling/refs/heads/new/docs/img/methodology.png">
